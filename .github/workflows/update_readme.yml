@@ -8,24 +8,35 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - name: Checkout code
+        uses: actions/checkout@v2
+        with:
+          ssh-key: ${{ secrets.SSH_PRIVATE_KEY }}
+
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
           python-version: '3.x'
+
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install requests
+
       - name: Update README
         env:
           GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
         run: python fetch_news.py
+
+      - name: Set Git Config
+        run: |
+          git config --local user.email "chithanh.tist@gmail.com"
+          git config --local user.name "tcdtist"
+
       - name: Commit changes
         run: |
-          git config --local user.email "action@github.com"
-          git config --local user.name "GitHub Action"
-          git add README.md
-          git commit -m "Updated README with latest tech news"
-          git push
-
+          git diff --exit-code --quiet || (
+            git add README.md
+            git commit -m "Updated README with latest tech news"
+            git push
+          )
