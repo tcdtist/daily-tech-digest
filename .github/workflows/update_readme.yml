@@ -8,13 +8,16 @@ jobs:
   update-readme:
     runs-on: ubuntu-latest
     steps:
-      - name: Setup SSH agent
+      - name: Setup SSH Agent
         uses: webfactory/ssh-agent@v0.5.3
         with:
           ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
 
       - name: Checkout code
         uses: actions/checkout@v2
+        with:
+          repository: 'tcdtist/daily-tech-digest'
+          ref: 'main'
 
       - name: Set up Python
         uses: actions/setup-python@v2
@@ -38,3 +41,7 @@ jobs:
           git add README.md
           git commit -m "Updated README with latest tech news"
           git push
+          
+      - name: Test SSH connection
+        run: |
+          ssh -T git@github.com
