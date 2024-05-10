@@ -1,9 +1,9 @@
 # Technology News
 
-## Residents fight Exeter flats plan as developer appeals refusal
-An application to vary a plan for 13 flats above Crankhouse Coffee and Rochelle's Curtains and Blinds was refused last year
-[Read more](https://www.devonlive.com/news/devon-news/residents-fight-exeter-flats-plan-9271684)
+## Prince of Persia roguelike postponed because ‘everyone and their mum’ is playing Hades II
+The Rogue Prince of Persia, a new Prince of Persia roguelike game, was slightly delayed by its developer because of Hades II’s surprise release earlier this week.
+[Read more](https://www.theverge.com/2024/5/10/24153572/the-rogue-prince-of-persia-release-postponed-hades-2)
 
 
 
-Last updated: 2024-05-09 00:42:42
+Last updated: 2024-05-11 00:01:05
