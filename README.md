@@ -1,9 +1,9 @@
 # Technology News
 
-## Prince of Persia roguelike postponed because ‘everyone and their mum’ is playing Hades II
-The Rogue Prince of Persia, a new Prince of Persia roguelike game, was slightly delayed by its developer because of Hades II’s surprise release earlier this week.
-[Read more](https://www.theverge.com/2024/5/10/24153572/the-rogue-prince-of-persia-release-postponed-hades-2)
+## Bungie’s classic sci-fi shooter Marathon is now free on Steam
+Halo and Destiny developer Bungie has launched its original sci-fi shooter Marathon as a free release on Steam.
+[Read more](https://www.theverge.com/2024/5/10/24153867/marathon-bungie-shooter-steam-release-date-price)
 
 
 
-Last updated: 2024-05-11 00:01:05
+Last updated: 2024-05-11 22:19:46
