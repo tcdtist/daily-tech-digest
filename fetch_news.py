@@ -13,6 +13,7 @@ def fetch_technology_news():
 def update_readme(articles):
     with open('README.md', 'w') as f:
         f.write("# Technology News\n\n")
+        f.write("[![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg?branch=main&event=workflow_run)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)\n\n")
         for article in articles:
             f.write(f"## {article['title']}\n")
             f.write(f"{article['description']}\n")
