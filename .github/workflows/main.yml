@@ -4,6 +4,9 @@ on:
   schedule:
     - cron: "*/5 * * * *"  # Chạy mỗi 5 phút
 
+permissions:
+  contents: write
+
 jobs:
   update-readme:
     runs-on: ubuntu-latest
@@ -27,17 +30,15 @@ jobs:
       - name: Update README
         env:
           GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
-          MY_GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
         run: python fetch_news.py
 
-      # --- Thay đổi phần Commit và Push sử dụng GITHUB_TOKEN ---
       - name: Commit changes
-        uses: EndBug/add-and-commit@v9 # Sử dụng action tiện lợi
+        uses: EndBug/add-and-commit@v9
         with:
           author_name: tcdtist
           author_email: chithanh.tist@gmail.com
           message: "Updated README with latest tech news"
           add: README.md
-          push: true # Thêm tùy chọn này để đẩy lên GitHub
-
-      # --- Loại bỏ các bước liên quan đến SSH ---
+          push:
+            branch: main  # Specify the branch to push to
+            github_token: ${{ secrets.MY_GITHUB_TOKEN }} 
