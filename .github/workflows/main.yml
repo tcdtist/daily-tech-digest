@@ -1,0 +1,50 @@
+name: Update README with Latest Tech News
+
+on:
+  schedule:
+    - cron: "10 0 * * *"  # Chạy hàng ngày lúc 01:00 AM
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+        with:
+          repository: 'tcdtist/daily-tech-digest'
+          ref: 'main'
+        
+      # --- Bắt đầu sử dụng SSH Agent ---
+      - name: Setup SSH Agent
+        uses: webfactory/ssh-agent@v0.5.3
+        with:
+          ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
+      # --- Kết thúc sử dụng SSH Agent ---
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi # Cài đặt từ requirements.txt nếu có
+
+      - name: Update README
+        env:
+          GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
+        run: python fetch_news.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "chithanh.tist@gmail.com"
+          git config --local user.name "tcdtist"
+          git add README.md
+          git commit -m "Updated README with latest tech news"
+          git push
+
+      # --- Test kết nối SSH (không cần thiết nếu đã push thành công) ---
+      # - name: Test SSH connection
+      #   run: |
+      #     ssh -T git@github.com
