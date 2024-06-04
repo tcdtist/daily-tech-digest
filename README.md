@@ -1,4 +1,5 @@
 # Technology News
+[![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg?branch=main&event=workflow_run)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
 ## Bungie’s classic sci-fi shooter Marathon is now free on Steam
 Halo and Destiny developer Bungie has launched its original sci-fi shooter Marathon as a free release on Steam.
