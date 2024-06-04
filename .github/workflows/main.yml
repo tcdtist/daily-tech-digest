@@ -27,6 +27,7 @@ jobs:
       - name: Update README
         env:
           GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
+          MY_GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
         run: python fetch_news.py
 
       # --- Thay đổi phần Commit và Push sử dụng GITHUB_TOKEN ---
