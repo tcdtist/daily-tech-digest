@@ -2,7 +2,7 @@ name: Update README with Latest Tech News
 
 on:
   schedule:
-    - cron: "*/5 * * * *"  # Chạy mỗi 5 phút
+    - cron: "/2 * * * *"  # Chạy hàng ngày lúc 01:00 AM
 
 jobs:
   update-readme:
@@ -13,13 +13,6 @@ jobs:
         with:
           repository: 'tcdtist/daily-tech-digest'
           ref: 'main'
-        
-      # --- Bắt đầu sử dụng SSH Agent ---
-      - name: Setup SSH Agent
-        uses: webfactory/ssh-agent@v0.5.3
-        with:
-          ssh-private-key: ${{ secrets.SSH_PRIVATE_KEY }}
-      # --- Kết thúc sử dụng SSH Agent ---
 
       - name: Set up Python
         uses: actions/setup-python@v2
@@ -36,15 +29,14 @@ jobs:
           GNEWS_API_KEY: ${{ secrets.GNEWS_API_KEY }}
         run: python fetch_news.py
 
-      - name: Commit and push changes
-        run: |
-          git config --local user.email "chithanh.tist@gmail.com"
-          git config --local user.name "tcdtist"
-          git add README.md
-          git commit -m "Updated README with latest tech news"
-          git push
+      # --- Thay đổi phần Commit và Push sử dụng GITHUB_TOKEN ---
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v9 # Sử dụng action tiện lợi
+        with:
+          author_name: tcdtist
+          author_email: chithanh.tist@gmail.com
+          message: "Updated README with latest tech news"
+          add: README.md
+          push: true # Thêm tùy chọn này để đẩy lên GitHub
 
-      # --- Test kết nối SSH (không cần thiết nếu đã push thành công) ---
-      # - name: Test SSH connection
-      #   run: |
-      #     ssh -T git@github.com
+      # --- Loại bỏ các bước liên quan đến SSH ---
