@@ -1,4 +1,4 @@
-name: auto_readme
+name: Update README with Latest Tech News
 
 on:
   schedule:
