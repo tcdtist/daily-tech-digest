@@ -1,6 +1,5 @@
 # Technology News
 
-[![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg?branch=main&event=workflow_run)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
 ## Crypto King video game accounts to be frozen
