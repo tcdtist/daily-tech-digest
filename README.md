@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg?branch=main&event=workflow_run)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Apple Vision Pro Developer App Includes Immersive Environment for WWDC Session Videos
-The Vision Pro version of the Apple Developer app has a special immersive Environment included that can be used as a backdrop for watching session...
-[Read more](https://www.macrumors.com/2024/06/05/apple-vision-pro-developer-app-includes-immersive-environment-for-wwdc-session-videos/)
+## Crypto King video game accounts to be frozen
+An Ontario judge has ordered the developer behind the popular video gaming platform Steam to freeze the accounts of Ontario’s so-called ‘Crypto King,’ to prevent him from trading or liquidating assets.
+[Read more](https://www.cp24.com/news/judge-orders-video-game-developer-to-freeze-accounts-belonging-to-ontario-s-so-called-crypto-king-1.6916512)
 
 
 
-Last updated: 2024-06-06 12:34:22
+Last updated: 2024-06-07 01:57:30
