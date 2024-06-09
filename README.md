@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## New Extraction Shooter About Breaking Little Koala Guys Out Of Jail
-Cuffbust is a game about breaking little koala dudes out of jail, from the developer behind Choo Choo Charles.
-[Read more](https://www.kotaku.com.au/2024/06/new-extraction-shooter-about-breaking-little-koala-guys-out-of-jail/)
+## Apple and Musk to dominate news next week
+After Nvidia’s big week, Apple’s developer conference and the Tesla shareholder vote will dominate the news next week.
+[Read more](https://finance.yahoo.com/news/apple-musk-dominate-news-next-213055403.html)
 
 
 
-Last updated: 2024-06-08 12:31:10
+Last updated: 2024-06-09 02:02:10
