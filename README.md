@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Generative AI expected to dominate at ‘momentous’ Apple conference
-The tech giant’s annual developer conference – WWDC – takes place on Monday evening.
-[Read more](https://www.standard.co.uk/news/tech/apple-google-chatgpt-microsoft-samsung-b1163205.html)
+## Apple Now Lets Siri Access ChatGPT
+The wait is finally over. Apple has announced its partnership with OpenAI to integrate ChatGPT  powered by GPT-4o into iOS, as revealed at Apple's Worldwide Developer Conference 2024.
+[Read more](https://analyticsindiamag.com/apple-now-lets-siri-access-chatgpt/)
 
 
 
-Last updated: 2024-06-10 12:35:14
+Last updated: 2024-06-11 01:57:19
