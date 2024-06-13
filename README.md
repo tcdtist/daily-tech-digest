@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Peak Japan: why foreign tourists are going mad for Mount Fuji
-A developer in Japan just built a 10-storey apartment block in Tokyo but then decided to tear it down. What is going on?
-[Read more](https://www.theguardian.com/world/article/2024/jun/12/mount-fuji-japan-sights-blocking-view-apartment-block-tear-down)
+## Wolfhound Is A Metroidvania Homage To WWII And Killing Nazis
+The developer of Chasm is working on a new retro passion project
+[Read more](https://kotaku.com/wolfhound-chasm-metroidvania-wwii-nazi-bit-kid-steam-1851536415)
 
 
 
-Last updated: 2024-06-12 12:34:31
+Last updated: 2024-06-13 01:56:53
