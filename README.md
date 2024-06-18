@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Embracer shut down Alone in the Dark reboot developer Pieces Interactive
-Alone in the Dark (2024) developer Pieces Interactive have been shut down by their parent company Embracer, it's been announced in today's press release.
-[Read more](https://www.altchar.com/game-news/embracer-shut-down-alone-in-the-dark-reboot-developer-pieces-interactive-asIfU8U2OQaK)
+## PSA: There Are Elden Ring: Shadow Of The Erdtree Spoilers Out There
+Elden Ring developer FromSoftware itself has warned fans to be "mindful" of Shadow of the Erdtree DLC spoilers ahead of launch.
+[Read more](https://www.kotaku.com.au/2024/06/psa-there-are-elden-ring-shadow-of-the-erdtree-spoilers-out-there/)
 
 
 
-Last updated: 2024-06-17 12:34:43
+Last updated: 2024-06-18 01:57:33
