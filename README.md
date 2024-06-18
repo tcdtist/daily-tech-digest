@@ -8,4 +8,4 @@ Elden Ring developer FromSoftware itself has warned fans to be "mindful" of Shad
 
 
 
-Last updated: 2024-06-18 01:57:33
+Last updated: 2024-06-18 12:34:45
