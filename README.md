@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## PSA: There Are Elden Ring: Shadow Of The Erdtree Spoilers Out There
-Elden Ring developer FromSoftware itself has warned fans to be "mindful" of Shadow of the Erdtree DLC spoilers ahead of launch.
-[Read more](https://www.kotaku.com.au/2024/06/psa-there-are-elden-ring-shadow-of-the-erdtree-spoilers-out-there/)
+## iOS 18 public beta release date
+This guide covers when to expect the iOS 18 public beta release date in July following the June developer beta launch.
+[Read more](https://9to5mac.com/2024/06/18/ios-18-public-beta-release-date/)
 
 
 
-Last updated: 2024-06-18 12:34:45
+Last updated: 2024-06-19 01:57:55
