@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Lexington developer’s crews raze 4 legacy oak trees they promised to protect. Now what?
-The city is rewriting its rules regarding tree protection to give it more options when developers remove trees.
-[Read more](https://news.yahoo.com/news/lexington-developer-crew-razes-4-170055657.html)
+## Huawei Developer Conference 2024: Yu Chengdong Announces Full Sprint for Hongmeng Native Applications
+Announcements at the Huawei Developer Conference 2024, including major strides for Hongmeng and HarmonyOS NEXT launch
+[Read more](https://www.gizchina.com/2024/06/21/huawei-developer-conference-2024-yu-chengdong-announces/)
 
 
 
-Last updated: 2024-06-21 01:55:47
+Last updated: 2024-06-21 12:33:45
