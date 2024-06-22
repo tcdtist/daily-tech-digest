@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Hotly anticipated 'Black Myth: Wukong' is delayed on Xbox for 'optimizations' - and now, Microsoft has responded
-Black Myth: Wukong is delayed on Xbox Series X|S for "optimizations" according to the developer. Microsoft has offered a statement suggesting that some form of exclusivity deal might be in play, thoug
-[Read more](https://www.windowscentral.com/gaming/hotly-anticipated-black-myth-wukong-is-delayed-on-xbox-for-optimizations-and-now-microsoft-has-responded)
+## Expert orthopedic surgeon saves man’s leg from being amputated after damage from advanced cancer
+Richard Monti, a father of six and a real estate developer on Long Island, thought that his metastatic kidney cancer diagnosis would be the toughest battle to endure in his life.
+[Read more](https://www.news-medical.net/news/20240621/Expert-orthopedic-surgeon-saves-mane28099s-leg-from-being-amputated-after-damage-from-advanced-cancer.aspx)
 
 
 
-Last updated: 2024-06-22 01:54:20
+Last updated: 2024-06-22 12:32:13
