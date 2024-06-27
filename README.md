@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Australia's Star Entertainment appoints new CEO
-McCann previously served as the group CEO and MD at Blackstone-owned casino operator Crown Resorts and was also part of the top brass at real estate developer LendLease Corporation. He will take over from interim group chief financial officer Neale O'Connell, who was recently appointed as the acting CEO.
-[Read more](https://finance.yahoo.com/news/australias-star-entertainment-appoints-ceo-231508594.html)
+## Someone Is Porting Super Mario 64 To The Game Boy Advance
+The beloved N64 platformer starring Mario is being rebuilt by one developer for the GBA
+[Read more](https://kotaku.com/sm64-super-mario-64-game-boy-advance-gba-port-gameplay-1851562711)
 
 
 
-Last updated: 2024-06-26 12:36:07
+Last updated: 2024-06-27 01:57:10
