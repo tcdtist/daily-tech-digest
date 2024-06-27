@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Someone Is Porting Super Mario 64 To The Game Boy Advance
-The beloved N64 platformer starring Mario is being rebuilt by one developer for the GBA
-[Read more](https://kotaku.com/sm64-super-mario-64-game-boy-advance-gba-port-gameplay-1851562711)
+## New homes to rise out of ashes of collapsed builder Stateview
+Some of the insolvent real estate developer’s unfinished townhouse projects will go ahead under new owners
+[Read more](https://www.theglobeandmail.com/real-estate/article-new-homes-to-rise-out-of-ashes-of-collapsed-builder-stateview/)
 
 
 
-Last updated: 2024-06-27 01:57:10
+Last updated: 2024-06-27 12:34:58
