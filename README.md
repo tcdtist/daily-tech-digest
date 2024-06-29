@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## UP Chief Secy visits Jewar airport site: Expedite work, look to start by December
-The Noida International Airport Limited (NIAL), the implementing agency on behalf of the Uttar Pradesh government, earlier this week said it would seek an explanation from the developer regarding the timeline extension.
-[Read more](https://indianexpress.com/article/india/up-chief-secy-visits-jewar-airport-site-expedite-work-look-to-start-by-december-9421807/)
+## Developer once again files plans for controversial housing development behind Braintree’s South Shore Plaza
+It has been two years since a national housing developer set its sights on a slice of the parking lots behind Braintree’s South Shore Plaza, the region’s largest mall, to build a huge new apartment complex.
+[Read more](https://www.boston.com/news/the-boston-globe/2024/06/29/developer-once-again-files-plans-for-controversial-housing-development-behind-braintrees-south-shore-plaza/)
 
 
 
-Last updated: 2024-06-29 01:55:45
+Last updated: 2024-06-29 12:33:31
