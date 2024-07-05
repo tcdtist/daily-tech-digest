@@ -8,4 +8,4 @@ Dragon Age: The Veilguard developer BioWare revealed that the players will have 
 
 
 
-Last updated: 2024-07-04 12:34:42
+Last updated: 2024-07-05 01:57:27
