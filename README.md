@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Developer seeks to move heritage home then reuse most of it
-James Hanlon farmhouse could be included in common amenity area of south end townhouse redevelopment
-[Read more](https://www.guelphtoday.com/local-news/developer-seeks-to-move-heritage-home-then-reuse-most-of-it-9176195)
+## GTA V’s Story DLC Cancelled Due To ‘Cash Cow’ GTA Online, Former Dev Claims
+A former Rockstar developer says GTA V's missing story DLC never materialised because the studio was focused on the lucrative GTA Online.
+[Read more](https://www.kotaku.com.au/2024/07/gta-vs-story-dlc-cancelled-due-to-cash-cow-gta-online-former-dev-claims/)
 
 
 
-Last updated: 2024-07-05 12:34:07
+Last updated: 2024-07-06 01:55:05
