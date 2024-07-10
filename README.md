@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Developer defaults on $5K rodeo sponsorship promised in 2022
-Without the money promised from Flato, Grey Highlands had to take it out of this year's rodeo proceeds, which are donated to Markdale Hospital
-[Read more](https://www.bradfordtoday.ca/local-news/developer-defaults-on-5k-rodeo-sponsorship-promised-in-2022-9188993)
+## Steam Dev To Player Who Posted Negative Review 'Kill Yourself'
+A developer behind Coin Pusher Casino was reportedly fired after sharing the toxic comment
+[Read more](https://kotaku.com/steam-dev-kill-yourself-negative-review-coin-pusher-pc-1851583573)
 
 
 
-Last updated: 2024-07-09 12:36:34
+Last updated: 2024-07-10 01:59:28
