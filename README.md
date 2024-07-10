@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Steam Dev To Player Who Posted Negative Review 'Kill Yourself'
-A developer behind Coin Pusher Casino was reportedly fired after sharing the toxic comment
-[Read more](https://kotaku.com/steam-dev-kill-yourself-negative-review-coin-pusher-pc-1851583573)
+## Anthropic Launches New Prompt Engineering Tools in Developer Console
+Anthropic has introduced new features in its Console to streamline prompt generation and evaluation for AI-powered applications.
+[Read more](https://analyticsindiamag.com/anthropic-launches-new-prompt-engineering-tools-in-developer-console/)
 
 
 
-Last updated: 2024-07-10 01:59:28
+Last updated: 2024-07-10 12:35:57
