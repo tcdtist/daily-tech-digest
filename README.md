@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Palm Desert residents cry foul as developer builds ‘a mountain behind us’
-The Refuge development has already gained approval at city hall, though the city recently held an outreach meeting to address some of the neighbors' concerns.
-[Read more](https://news.yahoo.com/news/palm-desert-residents-cry-foul-164753953.html)
+## iPhone's RCS support expands with iOS 18 developer beta 3
+The recently released iOS 18 developer beta 3 expands the iPhone's RCS support beyond the U.S.
+[Read more](https://www.phonearena.com/news/iphones-rcs-support-expands-with-ios-18-developer-beta-3_id160283)
 
 
 
-Last updated: 2024-07-11 02:00:20
+Last updated: 2024-07-11 12:35:36
