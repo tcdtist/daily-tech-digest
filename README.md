@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## iPhone's RCS support expands with iOS 18 developer beta 3
-The recently released iOS 18 developer beta 3 expands the iPhone's RCS support beyond the U.S.
-[Read more](https://www.phonearena.com/news/iphones-rcs-support-expands-with-ios-18-developer-beta-3_id160283)
+## Ghost of Tsushima Patch 6 fixes floating lighthouses, memory issues and more
+Developer Nixxess Software have released a fresh patch for Ghost of  Tsushima Director's Cut on PC, fixing several bugs and improving memory management issues among other things.
+[Read more](https://www.altchar.com/game-news/ghost-of-tsushima-patch-6-fixes-floating-lighthouses-memory-issues-and-more-ao9BT9n4XSpj)
 
 
 
-Last updated: 2024-07-11 12:35:36
+Last updated: 2024-07-12 01:58:21
