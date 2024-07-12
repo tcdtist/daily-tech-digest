@@ -8,4 +8,4 @@ Developer Nixxess Software have released a fresh patch for Ghost of  Tsushima D
 
 
 
-Last updated: 2024-07-12 01:58:21
+Last updated: 2024-07-12 12:35:44
