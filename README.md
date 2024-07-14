@@ -8,4 +8,4 @@ Apex Legends developer Respawn Entertainment has announced some unpopular change
 
 
 
-Last updated: 2024-07-13 12:32:23
+Last updated: 2024-07-14 02:07:20
