@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Keywords Studios isn't the only games business EQT has its eye on
-Is EQT going on a bit of a games spending spree? This week, the Swedish private equity firm agreed to acquire London-listed video games developer and Fortnite outsourcer Keywords Studios in a £2.2 billion deal.
-[Read more](https://www.standard.co.uk/business/cityspy/keywords-studios-isn-t-the-only-games-business-eqt-has-its-eye-on-b1170578.html)
+## Without Apple Intelligence, iOS 18 beta feels like a TV show that’s waiting for the finale
+Apple Intelligence features are not available in the developer beta, which is out now.
+[Read more](https://techcrunch.com/2024/07/15/without-apple-intelligence-ios-18-beta-feels-like-a-tv-show-thats-waiting-for-the-finale/)
 
 
 
-Last updated: 2024-07-15 12:36:32
+Last updated: 2024-07-16 02:01:33
