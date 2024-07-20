@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Path of Exile 2 reveals gameplay for the crossbow wielding Mercenary class
-Developer Grinding Gear Games have revealed a brand new, crossbow-wielding, class called the Mercenary, which turns Path of Exile 2 into an isometric shooter-like experience.
-[Read more](https://www.altchar.com/game-news/path-of-exile-2-reveals-gameplay-for-the-crossbow-wielding-mercenary-class-a2phh2e3NiYD)
+## "Development is far easier nowadays than it used to be in old jailbroken days" - prolific developer speaks to iMore about making PlayStation emulator Gamma and future plans
+iMore speaks to Benjamin Stark, developer of PlayStation Emulator Gamma, as well as his past in developing for the Jailbreaker iPhone community.
+[Read more](https://www.imore.com/gaming/development-is-far-easier-nowadays-than-it-used-to-be-in-old-jailbroken-days-prolific-developer-speaks-to-imore-about-making-playstation-emulator-gamma-and-future-plans)
 
 
 
-Last updated: 2024-07-19 12:34:50
+Last updated: 2024-07-20 01:57:03
