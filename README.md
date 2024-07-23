@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Victoria North developer issues 'significant' update on £4 BILLION project
-The housing scheme will lead to 35,000 more people calling Manchester home
-[Read more](https://www.manchestereveningnews.co.uk/news/greater-manchester-news/victoria-north-developer-issues-significant-29588365)
+## Robin and the Hoods review - nostalgic battle cry for children’s imagination
+The armoured knights and magic thunderbolts of a child’s play world are threatened by a property developer in this formulaic yet fun family feature
+[Read more](https://www.theguardian.com/film/article/2024/jul/23/robin-and-the-hoods-review)
 
 
 
-Last updated: 2024-07-23 02:00:51
+Last updated: 2024-07-23 12:36:01
