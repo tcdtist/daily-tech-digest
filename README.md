@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## House of the Dragon Star Admits He “Borrowed” A Line From Game of Thrones For His Debut Game
-"I thought it was so good" the career actor-turned-game developer said
-[Read more](https://www.inverse.com/gaming/house-of-the-dragon-game-of-thrones-star-tales-of-kenzara-zau)
+## Construction, labour woes force developer to offload $200m of sites
+APH Holding, which has a multibillion-dollar pipeline of Melbourne projects, has put more than $200m worth of sites on the market, including many with permits
+[Read more](https://www.afr.com/property/commercial/construction-labour-woes-force-developer-to-offload-200m-of-sites-20240722-p5jvn3)
 
 
 
-Last updated: 2024-07-24 02:00:35
+Last updated: 2024-07-24 12:37:44
