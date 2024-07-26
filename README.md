@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Calls for plan to deter ‘boy racers’ as Total Fuel transformation gets green light
-Developer Chancerygate bought the site, near the Sainsbury’s Superstore in Colwick, in 2021
-[Read more](https://www.nottinghampost.com/news/local-news/calls-plan-deter-boy-racers-9437810)
+## Stalker 2 gets hit with another delay painfully close to its intended September release date
+Stalker 2 developer GSC Game World announces a two-month delay for emergency bug-fixing.
+[Read more](https://www.techradar.com/gaming/stalker-2-gets-hit-with-another-delay-painfully-close-to-its-intended-september-release-date)
 
 
 
-Last updated: 2024-07-26 01:59:53
+Last updated: 2024-07-26 12:34:29
