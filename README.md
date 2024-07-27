@@ -2,10 +2,11 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## The studio behind Castle Crashers is updating all its older games
-Indie developer The Behemoth is updating all its older titles. Yes, all of them.
-[Read more](https://www.digitaltrends.com/gaming/the-behemoth-updating-roadmap-castle-crashers/)
+## Sports complex projects in the works in Post Falls
+Next month, the developer Greenstone is slated to begin construction of Montrose Sports Complex. The property sits at the intersection of Seltice Way and Empire Center Boulevard near Orgill Inc. 
+“Right now, it's just alfalfa,” Post Falls Parks Director Dave Fair said.
+[Read more](https://cdapress.com/news/2024/jul/27/sports-complex-underway-post-falls/)
 
 
 
-Last updated: 2024-07-27 01:58:17
+Last updated: 2024-07-27 12:34:54
