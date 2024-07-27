@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Stalker 2 gets hit with another delay painfully close to its intended September release date
-Stalker 2 developer GSC Game World announces a two-month delay for emergency bug-fixing.
-[Read more](https://www.techradar.com/gaming/stalker-2-gets-hit-with-another-delay-painfully-close-to-its-intended-september-release-date)
+## The studio behind Castle Crashers is updating all its older games
+Indie developer The Behemoth is updating all its older titles. Yes, all of them.
+[Read more](https://www.digitaltrends.com/gaming/the-behemoth-updating-roadmap-castle-crashers/)
 
 
 
-Last updated: 2024-07-26 12:34:29
+Last updated: 2024-07-27 01:58:17
