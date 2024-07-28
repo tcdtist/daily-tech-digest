@@ -2,11 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Sports complex projects in the works in Post Falls
-Next month, the developer Greenstone is slated to begin construction of Montrose Sports Complex. The property sits at the intersection of Seltice Way and Empire Center Boulevard near Orgill Inc. 
-“Right now, it's just alfalfa,” Post Falls Parks Director Dave Fair said.
-[Read more](https://cdapress.com/news/2024/jul/27/sports-complex-underway-post-falls/)
+## If you already installed iOS 18 Developer Beta 4, you may need to do it again
+Apple has re-released iOS 18 Developer Beta 4 and iPadOS 18 Developer Beta 4 after finding and fixing an unknown flaw.
+[Read more](https://www.phonearena.com/news/if-you-already-installed-ios-18-developer-beta-4-do-it-again_id160846)
 
 
 
-Last updated: 2024-07-27 12:34:54
+Last updated: 2024-07-28 02:05:32
