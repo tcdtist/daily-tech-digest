@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## If you already installed iOS 18 Developer Beta 4, you may need to do it again
-Apple has re-released iOS 18 Developer Beta 4 and iPadOS 18 Developer Beta 4 after finding and fixing an unknown flaw.
-[Read more](https://www.phonearena.com/news/if-you-already-installed-ios-18-developer-beta-4-do-it-again_id160846)
+## New luxury Arnold flats will help town's modernisation, care home developer says
+Developer Arnold Point Limited has submitted a plan to change the closed Ernehale Lodge care home on Furlong Street, Arnold, into 19 apartments
+[Read more](https://www.nottinghampost.com/news/local-news/new-luxury-arnold-flats-help-9441509)
 
 
 
-Last updated: 2024-07-28 02:05:32
+Last updated: 2024-07-28 12:33:00
