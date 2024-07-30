@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## NYC developer Michael Shvo sued over shoddy upkeep at luxury building
-The couple said their 18th-floor unit "is now effectively worthless."
-[Read more](https://nypost.com/2024/07/29/business/nyc-developer-michael-shvo-sued-over-shoddy-upkeep-at-luxury-building/)
+## Apple just accidentally revealed 8 new unreleased iPhones, 8 new Macs, and 4 new iPads
+Apple just rolled out the first Developer Beta for macOS 15.1, where code revealed a bunch of upcoming device models, including four iPhone 16 and four iPhone 17 models.
+[Read more](https://www.imore.com/iphone/apple-just-accidentally-revealed-8-new-unreleased-iphones-8-new-macs-and-4-new-ipads)
 
 
 
-Last updated: 2024-07-30 02:00:57
+Last updated: 2024-07-30 12:35:58
