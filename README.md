@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Apple just accidentally revealed 8 new unreleased iPhones, 8 new Macs, and 4 new iPads
-Apple just rolled out the first Developer Beta for macOS 15.1, where code revealed a bunch of upcoming device models, including four iPhone 16 and four iPhone 17 models.
-[Read more](https://www.imore.com/iphone/apple-just-accidentally-revealed-8-new-unreleased-iphones-8-new-macs-and-4-new-ipads)
+## I downloaded the Apple Intelligence beta for my primary iPhone: Here's why you shouldn't
+The developer beta for Apple Intelligence is finally here — but you shouldn't install it.
+[Read more](https://www.imore.com/ios/ios-18/i-downloaded-the-apple-intelligence-beta-for-my-primary-iphone-heres-why-you-shouldnt)
 
 
 
-Last updated: 2024-07-30 12:35:58
+Last updated: 2024-07-31 01:38:26
