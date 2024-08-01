@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## High Court extends orders restraining people from interfering with workers accessing Coolock site
-Court hears the site developer’s chief executive has left the country with his family on the advice of gardaí
-[Read more](https://www.irishtimes.com/crime-law/courts/2024/07/31/high-court-extends-orders-restraining-people-from-interfering-with-workers-accessing-coolock-site/)
+## Ontario developer coalition asks governments for tax breaks to pass on to homebuyers
+TORONTO — A coalition of Ontario developers has written to three levels of government to ask for a reduction in taxes on new housing, saying it will pass on those savings dollar for dollar to homebuyers.
+[Read more](https://www.sootoday.com/national-business/ontario-developer-coalition-asks-governments-for-tax-breaks-to-pass-on-to-homebuyers-9297527)
 
 
 
-Last updated: 2024-08-01 02:07:46
+Last updated: 2024-08-01 12:36:23
