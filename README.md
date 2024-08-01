@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Taylor Wimpey forecasts housebuilding surge in second half of year
-The developer said home completions would be at the top end of previous forecasts, driven by interest rate cuts and Labour planning reform.
-[Read more](https://www.standard.co.uk/business/business-news/taylor-wimpey-forecasts-housebuilding-surge-in-second-half-of-year-b1173953.html)
+## High Court extends orders restraining people from interfering with workers accessing Coolock site
+Court hears the site developer’s chief executive has left the country with his family on the advice of gardaí
+[Read more](https://www.irishtimes.com/crime-law/courts/2024/07/31/high-court-extends-orders-restraining-people-from-interfering-with-workers-accessing-coolock-site/)
 
 
 
-Last updated: 2024-07-31 12:36:33
+Last updated: 2024-08-01 02:07:46
