@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Floods and mechanical failures greet new condo residents
-Problems plague residents allowed to move into Toronto condo before developer obtained occupancy permits from the City
-[Read more](https://www.theglobeandmail.com/real-estate/article-floods-and-mechanical-failures-greet-new-condo-residents/)
+## World of Goo 2 Physical Edition Announced for Nintendo Switch, Available October 29th
+The following was sent as a press release to Inven Global. Fireshine Games is delighted to announce that it has partnered with developer 2D BOY to release a physical edition of gooey, wobbly puzzler W
+[Read more](https://www.invenglobal.com/articles/18911/world-of-goo-2-physical-edition-announced-for-nintendo-switch-available-october-29th)
 
 
 
-Last updated: 2024-08-02 12:35:35
+Last updated: 2024-08-03 01:58:53
