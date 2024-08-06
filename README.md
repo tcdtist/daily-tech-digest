@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## 'I’m heartbroken this beautiful land won’t be there for future generations'
-A developer has revealed plans for the first phase of what could become a massive 1,250 home estate in the village of Walshaw
-[Read more](https://www.manchestereveningnews.co.uk/news/greater-manchester-news/im-heartbroken-beautiful-land-wont-29668766)
+## ‘You are a helpful mail assistant,’ and other Apple Intelligence instructions
+Here are ome of the prompts that Apple Intelligence is using to guide AI models in thje macOS 15.1 Sequoia developer beta.
+[Read more](https://www.theverge.com/2024/8/5/24213861/apple-intelligence-instructions-macos-15-1-sequoia-beta)
 
 
 
-Last updated: 2024-08-05 12:37:26
+Last updated: 2024-08-06 02:01:16
