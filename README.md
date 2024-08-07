@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## God of War developer Santa Monica Studio is working on a new IP
-A Santa Monica Studio developer has confirmed the studio is currently working on a new intellectual property.
-[Read more](https://www.techradar.com/gaming/consoles-pc/god-of-war-developer-santa-monica-studio-is-working-on-a-new-ip)
+## Developer cashes in as investors spend $38m on fast food
+A vacant Bunnings purchased for $35m in 2020 and redeveloped into a homemaker centre with fast food outlets has generated $95m in total real estate sales.
+[Read more](https://www.afr.com/property/commercial/developer-cashes-in-as-investors-spend-38m-on-fast-food-20240807-p5k0a5)
 
 
 
-Last updated: 2024-08-07 02:03:36
+Last updated: 2024-08-07 12:37:00
