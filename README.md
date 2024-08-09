@@ -8,4 +8,4 @@ DOOM Eternal is getting official mod support, with developer id Software releasi
 
 
 
-Last updated: 2024-08-09 02:03:31
+Last updated: 2024-08-09 12:36:18
