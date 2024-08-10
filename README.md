@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## DOOM Eternal is finally getting official mod support
-DOOM Eternal is getting official mod support, with developer id Software releasing a toolkit for players to create and publish their own mods.
-[Read more](https://www.windowscentral.com/gaming/xbox/doom-eternal-is-finally-getting-official-mod-support-heres-how-to-access-it)
+## Settlement reached for townhouse development near McKenzie Marsh
+Town says details of the agreement with the developer proposing the 45 townhouse units 'remain confidential'
+[Read more](https://www.bradfordtoday.ca/local-news/settlement-reached-for-townhouse-development-near-mckenzie-marsh-9332817)
 
 
 
-Last updated: 2024-08-09 12:36:18
+Last updated: 2024-08-10 02:02:14
