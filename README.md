@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## News Weekly: Google is a monopoly, Meta closes a first-party VR studio, new Google hardware, and more
-Google holds an illegal monopoly, according to a judge. Meta also closed a major first-party VR developer studio, Google launched new hardware devices, Garmin makes some useful changes to its store, a
-[Read more](https://www.androidcentral.com/apps-software/news-weekly-august-10-2024)
+## FDA Holds Back MDMA Psychedelic Therapy Over Safety, Efficacy Concerns
+Lykos, the developer of the MDMA-assisted therapy for PTSD, called the FDA's request for more phase 3 research "deeply disappointing."
+[Read more](https://gizmodo.com/fda-holds-back-mdma-psychedelic-therapy-over-safety-efficacy-concerns-2000485535)
 
 
 
-Last updated: 2024-08-10 12:34:19
+Last updated: 2024-08-11 02:07:55
