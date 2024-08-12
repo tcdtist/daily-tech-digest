@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## FDA Holds Back MDMA Psychedelic Therapy Over Safety, Efficacy Concerns
-Lykos, the developer of the MDMA-assisted therapy for PTSD, called the FDA's request for more phase 3 research "deeply disappointing."
-[Read more](https://gizmodo.com/fda-holds-back-mdma-psychedelic-therapy-over-safety-efficacy-concerns-2000485535)
+## Hi-Fi Rush studio, shut down by Microsoft, saved by PUBG’s publisher
+PUBG publisher Krafton has taken over Hi-Fi Rush and Evil Within developer Tango Gameworks, which Microsoft and Bethesda closed in May 2024.
+[Read more](https://www.polygon.com/24218268/krafton-tango-gameworks-bethesda-microsoft-hi-fi-rush)
 
 
 
-Last updated: 2024-08-11 12:34:28
+Last updated: 2024-08-12 02:05:08
