@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Developer Joe Farrell to list a $95M home in South Florida
-The celebrity homebuilder paid $32.5 million for the property in January — only to tear it down and start again.
-[Read more](https://nypost.com/2024/08/13/real-estate/developer-joe-farrell-to-list-a-95m-home-in-south-florida/)
+## Concord global launch dates and early access timing announced
+Sony and developer Firewalk have revealed additional details about the game's release, including early access for players who purchase the digital deluxe edition.
+[Read more](https://www.altchar.com/game-news/concord-global-launch-dates-and-early-access-timing-announced-anMkk2C1UGzp)
 
 
 
-Last updated: 2024-08-14 02:02:56
+Last updated: 2024-08-14 12:36:50
