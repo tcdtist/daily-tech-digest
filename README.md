@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## AltStore PAL drops its annual subscription thanks to a grant from Epic
-AltStore PAL is dropping its annual €1.50 (plus tax) subscription after receiving a “MegaGrant” from Fortnite developer Epic Games.
-[Read more](https://www.theverge.com/2024/8/14/24220623/altstore-pal-third-party-app-store-drops-subscription-epic-grant)
+## Lone Star completes €200m sale of Irish developer Quintain
+Deal will see TPG invest in the Irish platform to further develop its Dublin landbank, capable of accommodating more than 7,700 homes
+[Read more](https://www.irishtimes.com/business/2024/08/15/lone-star-completes-200m-sale-of-irish-developer-quintain/)
 
 
 
-Last updated: 2024-08-15 01:55:10
+Last updated: 2024-08-15 12:36:22
