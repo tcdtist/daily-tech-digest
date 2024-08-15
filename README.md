@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Concord global launch dates and early access timing announced
-Sony and developer Firewalk have revealed additional details about the game's release, including early access for players who purchase the digital deluxe edition.
-[Read more](https://www.altchar.com/game-news/concord-global-launch-dates-and-early-access-timing-announced-anMkk2C1UGzp)
+## AltStore PAL drops its annual subscription thanks to a grant from Epic
+AltStore PAL is dropping its annual €1.50 (plus tax) subscription after receiving a “MegaGrant” from Fortnite developer Epic Games.
+[Read more](https://www.theverge.com/2024/8/14/24220623/altstore-pal-third-party-app-store-drops-subscription-epic-grant)
 
 
 
-Last updated: 2024-08-14 12:36:50
+Last updated: 2024-08-15 01:55:10
