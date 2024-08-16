@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Tributes paid as Irish businessman Johnny Ronan's wife Mary dies
-Tributes began pouring in on Thursday evening, following news of the death of Mary Ronan, wife of Irish businessman and property developer Johnny Ronan.
-[Read more](https://extra.ie/2024/08/15/news/irish-news/johnny-ronans-wife-mary-dies)
+## Bombay HC slams BMC, MHADA for pressuring tenants over developer’s OC default
+The Bombay High Court has reprimanded BMC and MHADA for not issuing Occupation Certificates (OC) to tenants of shops on a redeveloped plot in Mahim (West) for over 25 years. The court has ordered an investigation into the actions of officers causing financial losses to the public. MHADA must issue NOC by Aug 30 and […]
+[Read more](https://indianexpress.com/shorts/cities/delhi/bombay-hc-slams-bmc-mhada-for-pressuring-tenants-over-developers-oc-default-9516781/)
 
 
 
-Last updated: 2024-08-16 02:02:02
+Last updated: 2024-08-16 12:36:10
