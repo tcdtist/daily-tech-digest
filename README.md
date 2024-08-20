@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Bloober Team on remaking Silent Hill 2: “we want to reimagine the original game and give it our own Bloober spin”
-I played three hours of the upcoming Silent Hill 2 remake and spoke to developer Bloober Team about the game.
-[Read more](https://www.techradar.com/gaming/bloober-team-on-remaking-silent-hill-2-we-want-to-reimagine-the-original-game-and-give-it-our-own-bloober-spin)
+## Chinese property developer Kaisa announces offshore debt restructuring agreement
+Kaisa will issue senior notes worth an aggregate of $5 billion in five tranches and an aggregate of $4.8 billion worth of mandatory convertible bonds in seven tranches, the property developer said. Cash interest on the senior notes will be between 5% and 6.25% per year, while convertible bonds will fetch shares in the company based on an allocation ratio.
+[Read more](https://finance.yahoo.com/news/chinese-property-developer-kaisa-announces-002920737.html)
 
 
 
-Last updated: 2024-08-19 12:36:41
+Last updated: 2024-08-20 02:01:54
