@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Kingdom Come Deliverance 2 preview: shaping up to be an even more authentic and ambitious open-world adventure
-I sit down with an early build of Kingdom Come Deliverance 2 and chat with the developer about the upcoming medieval RPG game.
-[Read more](https://www.techradar.com/gaming/kingdom-come-deliverance-2-preview)
+## Pakistani web developer charged over fake details spread about Southport accused
+Farhan Asif, 32, has been charged with cyber terrorism, police in Pakistan said.
+[Read more](https://www.standard.co.uk/news/crime/pakistani-southport-rotherham-pakistan-muslim-b1177699.html)
 
 
 
-Last updated: 2024-08-21 12:35:08
+Last updated: 2024-08-22 02:04:17
