@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Families can sue app developer for breaking its anti-bullying pledge
-The Ninth Circuit Court of Appeals has allowed a lawsuit to proceed against Yolo, an anonymous messaging app that allegedly facilitated abuse, in spite of Section 230’s shield.
-[Read more](https://www.theverge.com/2024/8/23/24226865/yolo-snap-lawsuit-section-230-bullying-appeals-court)
+## Developer logs hint all four M4 Macs could get this long overdue RAM upgrade
+All four M4 Macs on the test logs feature at least 16GB RAM, suggesting that the era of 8GB Macs may finally be drawing to a close.
+[Read more](https://www.tomsguide.com/computing/macbooks/developer-logs-hint-all-four-m4-macs-could-get-this-long-overdue-ram-upgrade)
 
 
 
-Last updated: 2024-08-24 12:34:45
+Last updated: 2024-08-25 02:08:40
