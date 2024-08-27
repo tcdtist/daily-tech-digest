@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Developer logs hint all four M4 Macs could get this long overdue RAM upgrade
-All four M4 Macs on the test logs feature at least 16GB RAM, suggesting that the era of 8GB Macs may finally be drawing to a close.
-[Read more](https://www.tomsguide.com/computing/macbooks/developer-logs-hint-all-four-m4-macs-could-get-this-long-overdue-ram-upgrade)
+## GTA 6 Could Prompt A Shift To More Expensive Games
+A Baldur's Gate 3 developer seems to imply that the upcoming Rockstar title will cost more than the standard $70.
+[Read more](https://www.gamespot.com/articles/gta-6-could-prompt-a-shift-to-more-expensive-games/1100-6526121/)
 
 
 
-Last updated: 2024-08-26 12:37:03
+Last updated: 2024-08-27 02:04:44
