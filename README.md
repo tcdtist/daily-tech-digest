@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Amazon Claims to have Saved 4,500 Developer-Year of Work with Q
-Amazon CEO Andy Jassy recently revealed that by leveraging Amazon Q, the company was able to save 4,500 developers-years of work. “Yes, the number is crazy, but real,” he posted on X.
-[Read more](https://analyticsindiamag.com/ai-news-updates/amazon-claims-to-have-saved-4500-developer-year-of-work-with-q/)
+## Developer got Wasaga town officials to lobby minister for new school at $1,000-a-plate fundraiser: confidential report
+A developer involved in the project hosted a fundraiser for Stephen Lecce and arranged for Wasaga Beach politicians and staff to go and make their case, according to an integrity commissioner report obtained by The Trillium
+[Read more](https://www.baytoday.ca/local-news/developer-got-wasaga-town-officials-to-lobby-minister-for-new-school-at-1000-a-plate-fundraiser-confidential-report-9441644)
 
 
 
-Last updated: 2024-08-27 12:37:00
+Last updated: 2024-08-28 02:05:50
