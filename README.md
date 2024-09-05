@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## ‘Shadowrun’ Developer Has A New Cyberpunk Game On the Way, But It’s Not What You Expect
-Harebrained Schemes just announced an upcoming horror game that's a far cry from its popular turn-based tactics games, 'Battletech' and 'Shadowrun Trilogy.'
-[Read more](https://www.inverse.com/gaming/shadowrun-harebrained-schemes-graft-announcement-cyberpunk)
+## How this software developer is constantly growing in her career
+The career of a full-stack software developer requires constant learning, as discussed by Fidelity Investments' Aparna Pandey.
+[Read more](https://www.siliconrepublic.com/people/software-developer-constantly-growing-career-graduate-skills)
 
 
 
-Last updated: 2024-09-05 02:08:16
+Last updated: 2024-09-05 12:38:43
