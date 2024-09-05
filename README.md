@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## New Jersey Offshore Wind Project Hits Turbulence
-The US-founded developer is requesting a pause on its offshore wind project in New Jersey due to difficulties securing a turbine blade supplier.
-[Read more](https://www.newsweek.com/new-jersey-wind-farm-delays-turbine-production-1948473)
+## ‘Shadowrun’ Developer Has A New Cyberpunk Game On the Way, But It’s Not What You Expect
+Harebrained Schemes just announced an upcoming horror game that's a far cry from its popular turn-based tactics games, 'Battletech' and 'Shadowrun Trilogy.'
+[Read more](https://www.inverse.com/gaming/shadowrun-harebrained-schemes-graft-announcement-cyberpunk)
 
 
 
-Last updated: 2024-09-04 12:38:55
+Last updated: 2024-09-05 02:08:16
