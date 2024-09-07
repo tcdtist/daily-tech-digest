@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Before even leaving early access, Space Marine 2 is already the biggest Steam debut for its developer and publisher
-The Warhammer 40,000 hack 'n' shooter doesn't fully launch until next week
-[Read more](https://www.gamesradar.com/games/action/before-even-leaving-early-access-space-marine-2-is-already-the-biggest-steam-debut-for-its-developer-and-publisher/)
+## Joe Andriacchi, a top Chicago Outfit figure, has died
+Joseph Andriacchi, who was both a developer and a ranking member of the Chicago Outfit, according to authorities, has died.
+[Read more](https://www.chicagotribune.com/2024/09/06/joseph-the-builder-andriacchi-developer-and-high-ranking-outfit-member-dies-at-91/)
 
 
 
-Last updated: 2024-09-06 12:37:26
+Last updated: 2024-09-07 02:05:56
