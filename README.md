@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Joe Andriacchi, a top Chicago Outfit figure, has died
-Joseph Andriacchi, who was both a developer and a ranking member of the Chicago Outfit, according to authorities, has died.
-[Read more](https://www.chicagotribune.com/2024/09/06/joseph-the-builder-andriacchi-developer-and-high-ranking-outfit-member-dies-at-91/)
+## How Apple is shaping the future of Mac gaming with advanced chips and developer tools
+It's game on for the Mac lineup
+[Read more](https://www.techradar.com/computing/how-apple-is-shaping-the-future-of-mac-gaming-with-advanced-chips-and-developer-tools)
 
 
 
-Last updated: 2024-09-08 12:35:29
+Last updated: 2024-09-09 02:11:28
