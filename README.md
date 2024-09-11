@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Developer proposes sports dome in Tinley Park
-An inflatable sports dome for Tinley Park that is being proposed comes on heels of nearby Topgolf development
-[Read more](https://www.chicagotribune.com/2024/09/10/developers-plan-for-sports-dome-in-tinley-park-to-be-aired-sept-19/)
+## New plans for old Nottingham central library submitted after previous proposal shelved
+A previous developer wanted to demolish and remodel the library, but the firm and Nottingham City Council failed to agree on the terms for a sale
+[Read more](https://www.nottinghampost.com/news/nottingham-news/new-plans-old-nottingham-central-9544817)
 
 
 
-Last updated: 2024-09-11 02:08:37
+Last updated: 2024-09-11 12:39:18
