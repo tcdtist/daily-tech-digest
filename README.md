@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## New plans for old Nottingham central library submitted after previous proposal shelved
-A previous developer wanted to demolish and remodel the library, but the firm and Nottingham City Council failed to agree on the terms for a sale
-[Read more](https://www.nottinghampost.com/news/nottingham-news/new-plans-old-nottingham-central-9544817)
+## Sea of Thieves developer Rare responds to hacking, harassment concerns
+Sea of Thieves developer Rare is addressing social media concerns about threats and fraudulent bans by patching an exploit and developing moderation tools.
+[Read more](https://www.polygon.com/gaming/450632/sea-of-thieves-security-harassment-hacking-rare-response)
 
 
 
-Last updated: 2024-09-11 12:39:18
+Last updated: 2024-09-12 02:08:46
