@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Developer proposes 924 rental units on East Hastings Street
-Developer proposes 924 rental units on Vancouver’s East Hastings Street; Westbank/Promerita’s rezoning application calls for towers of 39, 38 and 19 storeys.
-[Read more](https://www.vancouverisawesome.com/local-news/developer-proposes-924-rental-units-on-vancouvers-east-hastings-street-westbank-9513589)
+## China hands PwC a six-month ban and fine over audit of collapsed developer Evergrande
+The punishment is the heaviest yet for international accounting firms operating in China
+[Read more](https://www.theglobeandmail.com/business/international-business/article-china-hands-pwc-a-six-month-ban-and-fine-over-audit-of-collapsed/)
 
 
 
-Last updated: 2024-09-13 02:09:41
+Last updated: 2024-09-13 12:37:39
