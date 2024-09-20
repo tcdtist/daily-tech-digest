@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Nintendo files lawsuit against Palworld developer for alleged Pokemon copying
-Nintendo and The Pokémon Company have filed a lawsuit against Pocketpair, the developers of Palworld. The lawsuit cites several patent infringements, including the resemblance of Palworld's creatures to classic Pokémon designs.
-[Read more](https://www.altchar.com/game-news/nintendo-files-lawsuit-against-palworld-developer-for-alleged-pokemon-copying-ap1zq0c1AyBP)
+## Embattled pubs owner hasn’t paid super to staff all year
+Property developer Virtical, facing an investigation over $100 million in GST refunds, is now subject to complaints it has not paid superannuation to hospitality staff.
+[Read more](https://www.afr.com/property/commercial/embattled-pubs-owner-hasn-t-paid-super-to-staff-all-year-20240912-p5ka71)
 
 
 
-Last updated: 2024-09-19 12:39:21
+Last updated: 2024-09-20 02:11:14
