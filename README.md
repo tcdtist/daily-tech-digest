@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Ilkeston housing plans rejected after developer refuses to pay for school places
-The Little Hallam Hill site would have become home to 26 affordable houses
-[Read more](https://www.nottinghampost.com/news/local-news/ilkeston-housing-plans-rejected-after-9567033)
+## Parking woes and missed planning opportunities
+Neither Labor nor Liberal address parking or developer control, affecting Commonwealth Park.
+[Read more](https://www.canberratimes.com.au/story/8769671/parking-woes-and-missed-planning-opportunities/)
 
 
 
-Last updated: 2024-09-20 12:38:59
+Last updated: 2024-09-21 02:09:04
