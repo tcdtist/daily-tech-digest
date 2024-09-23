@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## In an era where sequels take years, Baldur's Gate 3 developer calls Like A Dragon: Pirate Yakuza in Hawaii's quick turnaround "genius sh*t"
-Pirate Yakuza in Hawaii is the sixth Yakuza game in only five years
-[Read more](https://www.gamesradar.com/games/yakuza-like-a-dragon/in-an-era-where-sequels-take-years-baldurs-gate-3-developer-calls-like-a-dragon-pirate-yakuza-in-hawaiis-quick-turnaround-genius-sht/)
+## Batman Arkham Series Developer Rocksteady Studios is Working On a New Game Starring the Dark Knight - Rumor
+Batman Arkham series developer Rocksteady is rumored to be working on a new game starring Gotham's Dark Knight
+[Read more](https://wccftech.com/batman-arkham-rocksteady-new-game/)
 
 
 
-Last updated: 2024-09-23 02:14:05
+Last updated: 2024-09-23 12:40:14
