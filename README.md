@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Batman Arkham Series Developer Rocksteady Studios is Working On a New Game Starring the Dark Knight - Rumor
-Batman Arkham series developer Rocksteady is rumored to be working on a new game starring Gotham's Dark Knight
-[Read more](https://wccftech.com/batman-arkham-rocksteady-new-game/)
+## ON ITS 20TH YEAR, ANCHOR LAND SET TO LAUNCH P20B LUXURY DEVELOPMENT IN ROXAS BOULEVARD
+Luxury real estate developer Anchor Land is set to unveil a PHP 20 billion skyscraper before the year concludes, as the property market continues to show strong and steady demand.
+[Read more](https://www.manilatimes.net/2024/09/24/business/on-its-20th-year-anchor-land-set-to-launch-p20b-luxury-development-in-roxas-boulevard/1973657)
 
 
 
-Last updated: 2024-09-23 12:40:14
+Last updated: 2024-09-24 02:14:32
