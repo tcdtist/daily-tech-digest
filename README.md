@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Incentive approved for rehab of Galena Hotel in Aurora
-The Aurora City Council Tuesday night approved a $1.3 million incentive to a local developer who plans to put micro-apartments in the historic former Galena Hotel downtown.
-[Read more](https://www.chicagotribune.com/2024/09/27/incentive-approved-for-rehab-of-historic-former-galena-hotel-in-aurora/)
+## Winnipeg's Portage Place to soon 'breathe again' as purchase poised to close
+WINNIPEG — A real estate developer says it's poised to close its purchase of a struggling downtown Winnipeg shopping centre and turn it into affordable housing, health-care services and gathering spaces.
+[Read more](https://www.vancouverisawesome.com/national-business/winnipegs-portage-place-to-soon-breathe-again-as-purchase-poised-to-close-9583481)
 
 
 
-Last updated: 2024-09-27 12:40:27
+Last updated: 2024-09-28 02:12:50
