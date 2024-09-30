@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Snapdragon X Elite Running In The Snapdragon Dev Kit Can Reach A Power Draw Of Up To 102W With Cinebench 2024 Fired Up
-Qualcomm’s Snapdragon X Elite running in the Snapdragon Dev Kit can be quite the power guzzler, according to one developer
-[Read more](https://wccftech.com/snapdragon-x-elite-running-in-the-snapdragon-dev-kit-consumes-lots-of-power/)
+## Horizon: Zero Dawn developer's next game may be Horizon Online as a third single-player game looks "a ways off"
+Aloy's taking a lil' break
+[Read more](https://www.gamesradar.com/games/horizon/horizon-zero-dawn-developers-next-game-may-be-horizon-online-as-a-third-single-player-game-looks-a-ways-off/)
 
 
 
-Last updated: 2024-09-30 02:19:08
+Last updated: 2024-09-30 12:42:31
