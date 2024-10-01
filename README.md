@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Android 16 rumored for 25Q2, impact on Pixel update unclear
-Work on Android 16 is fully underway and points to an earlier than usual "25Q2" release. The Developer Preview for...
-[Read more](https://9to5google.com/2024/09/30/android-16-25q2-release/)
+## Developer issues update as apartment plans rejected for old Arnold nursing home site
+The man behind the plan says the site is well-served by public transport
+[Read more](https://www.nottinghampost.com/news/local-news/developer-issues-update-apartment-plans-9595888)
 
 
 
-Last updated: 2024-10-01 02:22:57
+Last updated: 2024-10-01 12:41:30
