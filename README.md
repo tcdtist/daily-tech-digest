@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Developer issues update as apartment plans rejected for old Arnold nursing home site
-The man behind the plan says the site is well-served by public transport
-[Read more](https://www.nottinghampost.com/news/local-news/developer-issues-update-apartment-plans-9595888)
+## Christian Selig’s unofficial YouTube app for the Vision Pro just got taken down
+Juno, an unofficial YouTube app for the Vision Pro created by developer Christian Selig, has been pulled from the App Store.
+[Read more](https://www.theverge.com/2024/10/1/24259784/juno-youtube-apple-vision-pro-app-removed-christian-selig)
 
 
 
-Last updated: 2024-10-01 12:41:30
+Last updated: 2024-10-02 02:13:47
