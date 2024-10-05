@@ -8,4 +8,4 @@ Halo developer 343 Industries reveals that Halo Infinite is getting a third-pers
 
 
 
-Last updated: 2024-10-05 02:12:35
+Last updated: 2024-10-05 12:37:38
