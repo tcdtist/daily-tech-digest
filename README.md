@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Halo Infinite is getting a highly requested feature in November
-Halo developer 343 Industries reveals that Halo Infinite is getting a third-person mode in November 2024, allowing players to change how they play together.
-[Read more](https://www.windowscentral.com/gaming/xbox/halo-infinite-is-getting-a-highly-requested-feature-for-the-first-time-in-november)
+## Samsung's One UI 7 heavily inspired by iOS in these UI changes
+Samsung officially showed off the look of One UI 7 for the first time during its developer conference, confirming inspiration from iOS.
+[Read more](https://www.androidheadlines.com/2024/10/samsungs-one-ui-7-heavily-inspired-by-ios-in-these-ui-changes.html)
 
 
 
-Last updated: 2024-10-05 12:37:38
+Last updated: 2024-10-06 02:20:02
