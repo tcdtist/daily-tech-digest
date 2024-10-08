@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## This tiny super cheap $13 PC is barely bigger than an adult pinkie finger and has no OS — and yet this hacker-friendly device packs a display, MicroSD card slot plus Wi-Fi connectivity
-Waveshare's ESP32-S3-LCD-1.47 can be used in all sorts of developer projects
-[Read more](https://www.techradar.com/pro/this-tiny-super-cheap-usd13-pc-is-barely-bigger-than-an-adult-pinkie-finger-and-has-no-os-and-yet-this-hacker-friendly-device-packs-a-display-microsd-card-slot-plus-wi-fi-connectivity)
+## Trump Organization to develop $1.5 billion golf course and hotel project in Vietnam
+Vietnam's real estate developer Kinhbac City (KBC) said on Tuesday that its subsidiary has partnered with The Trump Organization to develop a $1.5 billion golf course and hotel project in northern Vietnam. A memorandum of understanding between the two companies was signed in September during the visit of the Vietnamese President To Lam to the United States, KBC said in a statement.
+[Read more](https://ca.finance.yahoo.com/news/trump-organization-develop-1-5-085927299.html)
 
 
 
-Last updated: 2024-10-08 02:17:39
+Last updated: 2024-10-08 12:38:54
