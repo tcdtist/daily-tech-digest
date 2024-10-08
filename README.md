@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Multiple new Halo games in the works with stunning Unreal Engine 5 graphics
-The franchise’s developer says the switch to a new gaming engine will enable it to push out new titles and updates faster than ever
-[Read more](https://www.standard.co.uk/culture/gaming/new-halo-games-unreal-engine-5-graphics-343-industries-xbox-b1186295.html)
+## This tiny super cheap $13 PC is barely bigger than an adult pinkie finger and has no OS — and yet this hacker-friendly device packs a display, MicroSD card slot plus Wi-Fi connectivity
+Waveshare's ESP32-S3-LCD-1.47 can be used in all sorts of developer projects
+[Read more](https://www.techradar.com/pro/this-tiny-super-cheap-usd13-pc-is-barely-bigger-than-an-adult-pinkie-finger-and-has-no-os-and-yet-this-hacker-friendly-device-packs-a-display-microsd-card-slot-plus-wi-fi-connectivity)
 
 
 
-Last updated: 2024-10-07 12:41:35
+Last updated: 2024-10-08 02:17:39
