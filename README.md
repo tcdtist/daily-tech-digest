@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Tequila Works Cancels Game and Lays Off a Few Employees
-Spanish developer Tequila Works announced the cancellation of an upcoming project and the layoff of a few of its employees.
-[Read more](https://wccftech.com/tequila-works-cancels-game-and-lays-off-a-few-employees/)
+## Was Bitcoin's mysterious creator a Canadian? A new HBO documentary says yes (maybe)
+A new HBO documentary is suggesting the long-debated identity of the mysterious creator of Bitcoin, known only as Satoshi Nakamoto, could be Canadian software developer Peter Todd. But Todd has called the theory "ludicrous," leaving the mystery far from settled.
+[Read more](https://www.cbc.ca/news/business/bitcoin-satoshi-nakamoto-todd-hbo-1.7348050)
 
 
 
-Last updated: 2024-10-09 12:40:15
+Last updated: 2024-10-10 02:14:18
