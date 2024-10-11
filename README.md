@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## New Stop-Motion Samurai Adventure "The Spirit of the Samurai" Arrives on PC
-Kwalee, a prominent UK-based games publisher, and Digital Mind S.L., a renowned Spanish game developer, have officially announced the release date for their upcoming 2D stop-motion action-adventure ga
-[Read more](https://www.invenglobal.com/articles/19044/new-stop-motion-samurai-adventure-the-spirit-of-the-samurai-arrives-on-pc)
+## How investors have wreaked havoc on Toronto’s condo market
+Investors exacerbate boom and bust cycles, but experts say developer financing models mean Toronto can’t quit them. Is there a better way?
+[Read more](https://www.thestar.com/interactives/investors-wreaked-havoc-on-torontos-condo-market-leaving-us-with-tiny-units-no-one-wants/article_8ad9328c-5b27-11ef-89ce-63e2f2963b55.html)
 
 
 
-Last updated: 2024-10-11 02:13:35
+Last updated: 2024-10-11 12:39:38
