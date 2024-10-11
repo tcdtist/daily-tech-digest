@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Was Bitcoin's mysterious creator a Canadian? A new HBO documentary says yes (maybe)
-A new HBO documentary is suggesting the long-debated identity of the mysterious creator of Bitcoin, known only as Satoshi Nakamoto, could be Canadian software developer Peter Todd. But Todd has called the theory "ludicrous," leaving the mystery far from settled.
-[Read more](https://www.cbc.ca/news/business/bitcoin-satoshi-nakamoto-todd-hbo-1.7348050)
+## New Stop-Motion Samurai Adventure "The Spirit of the Samurai" Arrives on PC
+Kwalee, a prominent UK-based games publisher, and Digital Mind S.L., a renowned Spanish game developer, have officially announced the release date for their upcoming 2D stop-motion action-adventure ga
+[Read more](https://www.invenglobal.com/articles/19044/new-stop-motion-samurai-adventure-the-spirit-of-the-samurai-arrives-on-pc)
 
 
 
-Last updated: 2024-10-10 12:40:12
+Last updated: 2024-10-11 02:13:35
