@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## How investors have wreaked havoc on Toronto’s condo market
-Investors exacerbate boom and bust cycles, but experts say developer financing models mean Toronto can’t quit them. Is there a better way?
-[Read more](https://www.thestar.com/interactives/investors-wreaked-havoc-on-torontos-condo-market-leaving-us-with-tiny-units-no-one-wants/article_8ad9328c-5b27-11ef-89ce-63e2f2963b55.html)
+## 'Something of concern to a building developer' NYT Mini Crossword puzzle clue answer and hints
+Check out hints and the solution for five down on the Oct. 11 NYT Mini Crossword "something of concern to a building developer or software developer."
+[Read more](https://dotesports.com/word-games/news/something-of-concern-to-a-building-developer-nyt-mini-crossword-puzzle-clue-answer-and-hints)
 
 
 
-Last updated: 2024-10-11 12:39:38
+Last updated: 2024-10-12 02:11:03
