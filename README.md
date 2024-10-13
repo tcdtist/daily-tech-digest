@@ -8,4 +8,4 @@ Atlus’ new game, Metaphor: ReFantazio is the spiritual counterpart to the deve
 
 
 
-Last updated: 2024-10-13 02:18:56
+Last updated: 2024-10-13 12:37:32
