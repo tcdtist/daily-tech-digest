@@ -8,4 +8,4 @@ Pokémon video game developer Game Freak has confirmed a major data leak, which 
 
 
 
-Last updated: 2024-10-15 02:15:47
+Last updated: 2024-10-15 12:41:07
