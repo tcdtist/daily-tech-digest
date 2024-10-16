@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## AustralianSuper pours $2.2b into US data centre firm amid AI fever
-The industry super fund has made a massive investment in DataBank, a US data centre developer, as it seeks to capitalise on the AI gold rush.
-[Read more](https://www.afr.com/technology/australiansuper-pours-2-2b-into-us-data-centre-firm-amid-ai-fever-20241015-p5kimb)
+## Pokemon Developer Game Freak Suffers Major Data Breach: Report
+According to reports, the Pokemon developer Game Freak suffered a massive data breach that led to the leak of vital information and game codenames.
+[Read more](https://www.news18.com/movies/pokemon-developer-game-freak-suffers-major-data-breach-report-9088085.html)
 
 
 
-Last updated: 2024-10-16 02:16:25
+Last updated: 2024-10-16 12:40:45
