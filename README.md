@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Qualcomm cancels Snapdragon X Elite devkit just days after first orders arrive
-The highly anticipated $900 Snapdragon X Elite developer kit that was first announced on stage at Microsoft's developer conference earlier this year has been canned
-[Read more](https://www.windowscentral.com/hardware/qualcomm-cancels-snapdragon-x-elite-devkit-just-days-after-first-orders-arrive)
+## Now on DVD: Windows 11 24H2 (yes, really) has been slimmed down and ready for action by Tiny11 developer
+NTDEV shrinks Windows 11 24H2, maximizing performance on minimal hardware
+[Read more](https://www.techradar.com/computing/windows/now-on-dvd-windows-11-24h2-yes-really-has-been-slimmed-down-and-ready-for-action-by-tiny11-developer)
 
 
 
-Last updated: 2024-10-18 12:39:58
+Last updated: 2024-10-19 02:12:52
