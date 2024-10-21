@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Bloober Team Is More Than Interested in Making More Silent Hill
-Wojciech Piejko from Bloober Team said the developer is more than interested in making more Silent Hill, as long as KONAMI is in.
-[Read more](https://wccftech.com/bloober-team-is-more-than-interested-in-making-more-silent-hill/)
+## Iberdrola bids for French renewables developer Neoen’s Vic assets
+It comes after Neoen antagonised bidders for its Australian assets, by concurrently negotiating a whole-of-the-company bid with Brookfield.
+[Read more](https://www.afr.com/street-talk/iberdrola-bids-for-french-renewables-developer-neoen-s-vic-assets-20241021-p5kjvt)
 
 
 
-Last updated: 2024-10-20 12:38:35
+Last updated: 2024-10-21 02:17:20
