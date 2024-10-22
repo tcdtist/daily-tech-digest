@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Iberdrola bids for French renewables developer Neoen’s Vic assets
-It comes after Neoen antagonised bidders for its Australian assets, by concurrently negotiating a whole-of-the-company bid with Brookfield.
-[Read more](https://www.afr.com/street-talk/iberdrola-bids-for-french-renewables-developer-neoen-s-vic-assets-20241021-p5kjvt)
+## Cisco takes its developer hub offline following data theft
+It still stays by its assessment that there was no breach
+[Read more](https://www.techradar.com/pro/security/cisco-takes-its-developer-hub-offline-following-data-theft)
 
 
 
-Last updated: 2024-10-21 12:41:25
+Last updated: 2024-10-22 02:15:30
