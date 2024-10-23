@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Slieve Russell Hotel sold to Australian-based developer
-Much-anticipated sale of the four-star Cavan venue was conducted by CBRE on behalf of the liquidators of IBRC
-[Read more](https://www.irishtimes.com/business/2024/10/22/slieve-russell-hotel-sold-to-australian-based-developer/)
+## Need a digital detox? This free app lets you turn your iPhone into a dumbphone
+The Boring Mode app comes from an unlikely developer
+[Read more](https://www.techradar.com/phones/need-a-digital-detox-this-free-app-lets-you-turn-your-iphone-into-a-dumbphone)
 
 
 
-Last updated: 2024-10-23 02:14:26
+Last updated: 2024-10-23 12:40:44
