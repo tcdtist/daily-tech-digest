@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Optibrium demonstrates superior molecular docking method for small molecules and macrocycles
-Optibrium, a leading developer of software and AI solutions for molecular design today announced the publication of a peer-reviewed study in the Journal of Computer-Aided Molecular Design, 'Structure-Based Pose Prediction: Non-cognate Docking Extended to Macrocylic Ligands'.
-[Read more](https://www.news-medical.net/news/20241022/Optibrium-demonstrates-superior-molecular-docking-method-for-small-molecules-and-macrocycles.aspx)
+## Slieve Russell Hotel sold to Australian-based developer
+Much-anticipated sale of the four-star Cavan venue was conducted by CBRE on behalf of the liquidators of IBRC
+[Read more](https://www.irishtimes.com/business/2024/10/22/slieve-russell-hotel-sold-to-australian-based-developer/)
 
 
 
-Last updated: 2024-10-22 12:40:55
+Last updated: 2024-10-23 02:14:26
