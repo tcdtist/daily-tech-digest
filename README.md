@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Sass brothers splash more than $61m on Sorrento clifftop compound
-Melbourne developer duo Steven and Tony Sass, who co-founded Oreana Group, have spent a combined $61m across three neighbouring Sorrento clifftop estates.
-[Read more](https://www.afr.com/property/residential/sass-brothers-splash-more-than-61m-on-sorrento-clifftop-compound-20241024-p5kl5q)
+## Helldivers 2 celebrates Liberty Day with the gift of a returning beloved weapon
+To celebrate Liberty Day, Helldivers 2 developer Arrowhead Game Studios is bringing gear from the original game to the sequel.
+[Read more](https://www.windowscentral.com/gaming/helldivers-2-celebrates-liberty-day-with-the-gift-of-a-returning-beloved-weapon)
 
 
 
-Last updated: 2024-10-25 12:40:25
+Last updated: 2024-10-26 02:11:30
