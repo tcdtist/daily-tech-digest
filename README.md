@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## News from the Star you should know about on Wed., Oct. 30
-The Ford government tables its mini-budget today, a Bloc push to topple Justin Trudeau and more allegations against The One developer.
-[Read more](https://www.thestar.com/news/morning-digest/what-to-expect-in-doug-fords-pre-election-mini-budget-the-bloc-qu-b-cois/article_23f4d218-96ac-11ef-92db-6309a14e6a2f.html)
+## Nuclear developer tapped to build reactor at Chalk River site applies for court-supervised sale
+Ultra Safe Nuclear Corp. announced it intends to sell its assets under Chapter 11 of the U.S. Bankruptcy Code
+[Read more](https://www.theglobeandmail.com/business/article-nuclear-developer-tapped-to-build-reactor-at-chalk-river-site-applies/)
 
 
 
-Last updated: 2024-10-30 12:41:18
+Last updated: 2024-10-31 02:16:35
