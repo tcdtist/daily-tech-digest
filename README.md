@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## PHINIA Turns To Q3 Profit, But Sales Drop; Cuts Annual Outlook
-(RTTNews) - PHINIA Inc. (PHIN), a developer of fuel systems and aftermarket parts, Thursday reported net income of $31 million or $0.70 per share ...
-[Read more](https://markets.businessinsider.com/news/stocks/phinia-turns-to-q3-profit-but-sales-drop-cuts-annual-outlook-1033928140)
+## How to use Visual Intelligence on your iPhone in iOS 18.2
+With the iOS 18.2 developer beta, it unlocks Apple Intelligence to give the iPhone 16 new searching powers with the help of the Camera Control button.
+[Read more](https://www.tomsguide.com/ai/apple-intelligence/how-to-use-visual-intelligence-in-iOS-18-2-developer-beta)
 
 
 
-Last updated: 2024-11-01 02:22:35
+Last updated: 2024-11-01 12:39:06
