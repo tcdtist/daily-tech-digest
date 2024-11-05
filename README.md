@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Apple will let you upgrade to ChatGPT Plus right from Settings in iOS 18.2
-Apple’s second iOS 18.2 developer beta lets users upgrade to ChatGPT Plus from the Settings menu. The upgrade costs $19.99 per month.
-[Read more](https://www.theverge.com/2024/11/4/24288015/apple-ios-18-2-upgrade-to-chatgpt-plus-settings)
+## David Di Pilla’s HMC buys into Lifestyle Communities
+The company says it’s ‘early days’, and could increase its stake by a further 4.5 per cent in the developer and landlord of affordable housing for downsizers.
+[Read more](https://www.afr.com/property/commercial/david-di-pilla-s-hmc-buys-into-lifestyle-communities-20241105-p5ko0y)
 
 
 
-Last updated: 2024-11-05 02:12:30
+Last updated: 2024-11-05 12:38:23
