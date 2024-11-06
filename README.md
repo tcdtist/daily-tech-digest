@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## David Di Pilla’s HMC buys into Lifestyle Communities
-The company says it’s ‘early days’, and could increase its stake by a further 4.5 per cent in the developer and landlord of affordable housing for downsizers.
-[Read more](https://www.afr.com/property/commercial/david-di-pilla-s-hmc-buys-into-lifestyle-communities-20241105-p5ko0y)
+## Developer plans England’s biggest onshore wind farm near Manchester
+The 21-turbine site could create enough electricity to power 100,000 homes, and comes after Labour reversed a de facto onshore wind farm ban.
+[Read more](https://www.standard.co.uk/business/business-news/developer-plans-england-s-biggest-onshore-wind-farm-near-manchester-b1192138.html)
 
 
 
-Last updated: 2024-11-05 12:38:23
+Last updated: 2024-11-06 02:11:49
