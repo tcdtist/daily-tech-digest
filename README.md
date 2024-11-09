@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## I put Apple Image Playground vs Google Pixel Studio to the test - which AI image generator wins?
-With the availability of Image Playground with the iOS 18.2 developer beta, I test out Apple's AI image generator against Google's Pixel Studio to see which one can generate the correct image based on my prompt.
-[Read more](https://www.tomsguide.com/ai/ai-image-video/i-put-apple-image-playground-vs-google-pixel-studio-to-the-test-which-ai-image-generator-wins)
+## These are the patents Nintendo and The Pokémon Company are suing Palworld over
+Palworld developer Pocketpair has revealed the patents cited in an infringement lawsuit from Nintendo and The Pokémon Company.
+[Read more](https://www.theverge.com/2024/11/8/24291232/nintendo-pocketpair-palworld-lawsuit-patents)
 
 
 
-Last updated: 2024-11-08 12:39:22
+Last updated: 2024-11-09 02:08:34
