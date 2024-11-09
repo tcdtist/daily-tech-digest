@@ -8,4 +8,4 @@ Palworld developer Pocketpair has revealed the patents cited in an infringement 
 
 
 
-Last updated: 2024-11-09 02:08:34
+Last updated: 2024-11-09 12:36:21
