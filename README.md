@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## End of the micro condo? Why one housing developer is building bigger units
-It's hard to come by such a big unit in Toronto — especially in a new build — where units have been steadily shrinking. But Devron Devlopments is constructing a new building where a majority of the units will be 800 square feet with two bedrooms.
-[Read more](https://www.cbc.ca/radio/costofliving/micro-condos-larger-units-1.7371264)
+## Forrest debt feud threatens future of rare earths hopeful Hastings
+The West Australian developer took a loan from its chairman, angering its biggest financier, the billionaire businessman’s private mining vehicle.
+[Read more](https://www.afr.com/companies/mining/forrest-debt-feud-threatens-future-of-rare-earths-hopeful-hastings-20241108-p5kp4c)
 
 
 
-Last updated: 2024-11-10 12:36:04
+Last updated: 2024-11-11 02:14:10
