@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Apple will let you share AirTag locations with a link
-Apple’s new Share Item Location feature is now available as part of the iOS 18.2 public beta. The feature appeared earlier in a developer beta.
-[Read more](https://www.theverge.com/2024/11/11/24293654/apple-ios-18-2-share-airtag-locations)
+## Apple Faces Epic Games-Style China Lawsuit Over App Store Practices
+A Chinese court has agreed to hear a lawsuit against Apple from Beijing Bodyreader, a developer seeking around $420,000 in damages after their...
+[Read more](https://www.macrumors.com/2024/11/12/apple-china-lawsuit-antitrust-app-store/)
 
 
 
-Last updated: 2024-11-12 02:11:01
+Last updated: 2024-11-12 12:40:54
