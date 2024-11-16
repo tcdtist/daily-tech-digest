@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Half-Life 2 Gets Big 20th Anniversary Update And Is Now Free
-Valve's classic and beloved FPS now has Steam Workshop support and developer commentary
-[Read more](https://kotaku.com/half-life-2-free-20th-anniversary-update-workshop-valve-1851701040)
+## ‘Here’s how it feels’: how a Lebanese businessman lost everything in five years of turmoil and war
+Beirut property developer among many denied access to fortunes by banks after a financial crisis and now reeling from effects of Israel’s airstrikes
+[Read more](https://www.theguardian.com/world/2024/nov/16/lebanese-businessman-war-beirut-financial-crisis-airstrikes)
 
 
 
-Last updated: 2024-11-16 02:17:46
+Last updated: 2024-11-16 12:38:42
