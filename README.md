@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## How the Aussie dream is making the housing crisis worse
-Pakistani migrant turned property developer Khurram Saeed says the Victorian government cannot rely on apartment construction to meet its ambitious housing targets.
-[Read more](https://www.afr.com/politics/how-the-aussie-dream-is-making-the-housing-crisis-worse-20241113-p5kq7o)
+## Sony Buying Owners Of Elden Ring Developer FromSoftware
+It would mean the PlayStation corp also own Dark Souls, Danganronpa, and the developers of Mario & Luigi: Brothership
+[Read more](https://kotaku.com/sony-fromsoftware-elden-ring-dragon-ball-zero-1851702536)
 
 
 
-Last updated: 2024-11-19 02:20:12
+Last updated: 2024-11-19 12:42:57
