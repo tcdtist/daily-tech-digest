@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## If Sony buys the Dark Soul developer, it could change Japanese tabletop
-Sony might be buying Kadokawa, the developer of Dark Souls and Elden Ring. They also make a lot of TTRPGs and board games, which could mean big shakeups to the Japanese tabletop industry
-[Read more](https://www.polygon.com/tabletop-games/481764/sony-acquisition-kadokawa-japanese-tabletop-industry-ttrpg)
+## Android 16 release schedule set, Beta starts in January
+With the release of Android 16 DP1 today, Google shared the schedule for the Developer Preview and upcoming Beta...
+[Read more](https://9to5google.com/2024/11/20/android-16-beta-release-schedule/)
 
 
 
-Last updated: 2024-11-20 02:19:14
+Last updated: 2024-11-20 12:42:22
