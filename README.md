@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Sony Buying Owners Of Elden Ring Developer FromSoftware
-It would mean the PlayStation corp also own Dark Souls, Danganronpa, and the developers of Mario & Luigi: Brothership
-[Read more](https://kotaku.com/sony-fromsoftware-elden-ring-dragon-ball-zero-1851702536)
+## If Sony buys the Dark Soul developer, it could change Japanese tabletop
+Sony might be buying Kadokawa, the developer of Dark Souls and Elden Ring. They also make a lot of TTRPGs and board games, which could mean big shakeups to the Japanese tabletop industry
+[Read more](https://www.polygon.com/tabletop-games/481764/sony-acquisition-kadokawa-japanese-tabletop-industry-ttrpg)
 
 
 
-Last updated: 2024-11-19 12:42:57
+Last updated: 2024-11-20 02:19:14
