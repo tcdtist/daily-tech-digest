@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Android 16 release schedule set, Beta starts in January
-With the release of Android 16 DP1 today, Google shared the schedule for the Developer Preview and upcoming Beta...
-[Read more](https://9to5google.com/2024/11/20/android-16-beta-release-schedule/)
+## Indie Game '6-Sided Stories' Launches on Steam with Lofi Beats and Puzzles
+Independent game developer DarZal Games has released "6-Sided Stories," a cozy puzzle game now available on Steam for $4.99, currently offered at a 10% launch discount. The game combines hand-drawn pu
+[Read more](https://www.invenglobal.com/articles/19100/indie-game-6-sided-stories-launches-on-steam-with-lofi-beats-and-puzzles)
 
 
 
-Last updated: 2024-11-20 12:42:22
+Last updated: 2024-11-21 02:19:19
