@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Indie Game '6-Sided Stories' Launches on Steam with Lofi Beats and Puzzles
-Independent game developer DarZal Games has released "6-Sided Stories," a cozy puzzle game now available on Steam for $4.99, currently offered at a 10% launch discount. The game combines hand-drawn pu
-[Read more](https://www.invenglobal.com/articles/19100/indie-game-6-sided-stories-launches-on-steam-with-lofi-beats-and-puzzles)
+## Why Punjab farmers are crying foul over yield of PR 126 paddy variety & what's developer PAU's defence
+Farmers have complained of low yield & procurement issues with the Punjab Agricultural University-developed variety. Oppn says govt promoted it without proper yield testing.
+[Read more](https://theprint.in/india/why-punjab-farmers-are-crying-foul-over-yield-of-pr-126-paddy-variety-whats-developer-paus-defence/2366555/)
 
 
 
-Last updated: 2024-11-21 02:19:19
+Last updated: 2024-11-21 12:43:02
