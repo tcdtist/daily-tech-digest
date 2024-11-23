@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## AdGuard CTO on Chrome sell-off: Prepare for ad and search shakeups
-The CTO of ad blocker developer AdGuard offered interesting predictions on the ad, search, and browser markets' futures should Google offload Chrome
-[Read more](https://www.androidpolice.com/browser-search-ad-market-uncertainty-google-chrome-sale/)
+## Nintendo's Most Inventive Console Revealed Today's Weird Future
+The developer's oddest handheld provided a roadmap for leaving the console wars, and Nintendo hasn't looked back since.
+[Read more](https://www.inverse.com/gaming/nintendo-ds-20-year-anniversary)
 
 
 
-Last updated: 2024-11-23 02:15:51
+Last updated: 2024-11-23 12:39:29
