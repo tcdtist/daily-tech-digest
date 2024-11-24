@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Nintendo's Most Inventive Console Revealed Today's Weird Future
-The developer's oddest handheld provided a roadmap for leaving the console wars, and Nintendo hasn't looked back since.
-[Read more](https://www.inverse.com/gaming/nintendo-ds-20-year-anniversary)
+## Report on Dallas gentrification is right about problem but falters on solutions
+Builders of Hope, a local nonprofit and affordable housing developer, recently published a report about potential solutions to the displacement of low-income...
+[Read more](https://www.dallasnews.com/opinion/editorials/2024/11/24/report-on-dallas-gentrification-is-right-about-problem-but-falters-on-solutions/)
 
 
 
-Last updated: 2024-11-24 02:25:34
+Last updated: 2024-11-24 12:39:37
