@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Solo Leveling: ARISE, November 20 Developer Livestream Summary (Roguelike, Enchantment, Thomas Andre)
-On November 20, "Solo Leveling: ARISE" hosted a developer live stream to preview the upcoming November updates.
-[Read more](https://www.invenglobal.com/articles/19104/solo-leveling-arise-november-20-developer-livestream-summary-roguelike-enchantment-thomas-andre)
+## Google adds new Premium tier to its Developer Program
+Officially unveiled earlier this year at I/O, Google’s Developer Program is now getting a Premium tier that offers some extra benefits.
+[Read more](https://www.phonearena.com/news/google-developer-program-premium-tier_id165201)
 
 
 
-Last updated: 2024-11-25 12:43:47
+Last updated: 2024-11-26 02:20:58
