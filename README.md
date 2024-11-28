@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Two companies cut ties with Conor McGregor after civil jury ruling in sexual-assault case
-The owner of Irish whiskey brand Proper No. 12 will no longer feature McGregor’s name or image on the drink, while video game developer IO Interactive also ended its collaboration with the MMA fighter
-[Read more](https://www.theglobeandmail.com/sports/article-two-companies-cut-ties-with-conor-mcgregor-after-civil-jury-ruling-in/)
+## Co-living can be used for Airbnb-style short lets due to loophole
+Dún Laoghaire Rathdown County Council drops planning enforcement case against developer Bartra following legal advice
+[Read more](https://www.irishtimes.com/ireland/housing-planning/2024/11/28/co-living-can-be-used-for-airbnb-style-short-lets-due-to-loophole/)
 
 
 
-Last updated: 2024-11-28 02:22:28
+Last updated: 2024-11-28 12:44:53
