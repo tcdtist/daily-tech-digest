@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Canadian news publishers suing ChatGPT developer OpenAI
-OTTAWA — A coalition of Canadian news publishers is suing OpenAI for using news content to train its ChatGPT generative artificial intelligence system.
-[Read more](https://ca.finance.yahoo.com/news/canadian-news-publishers-suing-chatgpt-163037384.html)
+## New Florida condo rules: Developer buyouts offer lifelines to owners | Opinion
+Florida condo associations are going to soon be waking up to the reality that their financial situation is more tenuous than previously believed.
+[Read more](https://news.yahoo.com/news/florida-condo-rules-developer-buyouts-101126517.html)
 
 
 
-Last updated: 2024-11-30 02:18:23
+Last updated: 2024-11-30 12:39:37
