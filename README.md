@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Developer Paddy Kelly told by High Court to vacate second D4 home
-Paddy Kelly, who previously had to move out of his luxury Shrewsbury Road home after running up debts of €350million, must now vacate another Ballsbridge home.
-[Read more](https://extra.ie/2024/11/29/news/courts/paddy-kelly-property-developer)
+## Canadian news publishers suing ChatGPT developer OpenAI
+OTTAWA — A coalition of Canadian news publishers is suing OpenAI for using news content to train its ChatGPT generative artificial intelligence system.
+[Read more](https://ca.finance.yahoo.com/news/canadian-news-publishers-suing-chatgpt-163037384.html)
 
 
 
-Last updated: 2024-11-29 12:43:08
+Last updated: 2024-11-30 02:18:23
