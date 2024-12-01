@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## New Florida condo rules: Developer buyouts offer lifelines to owners | Opinion
-Florida condo associations are going to soon be waking up to the reality that their financial situation is more tenuous than previously believed.
-[Read more](https://news.yahoo.com/news/florida-condo-rules-developer-buyouts-101126517.html)
+## What to Know About Charles Kushner, Trump's Pick for Ambassador to France
+Trump nominated Charles Kushner, a real estate developer and father of Trump's son-in-law, Jared Kushner, for U.S. ambassador to France.
+[Read more](https://www.newsweek.com/what-know-about-charles-kushner-trumps-pick-ambassador-france-1993721)
 
 
 
-Last updated: 2024-11-30 12:39:37
+Last updated: 2024-12-01 02:43:52
