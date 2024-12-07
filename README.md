@@ -8,4 +8,4 @@ Life is Strange developer Deck Nine Games has announced their second round of la
 
 
 
-Last updated: 2024-12-07 02:22:18
+Last updated: 2024-12-07 12:40:22
