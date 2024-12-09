@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Life is Strange: Double Exposure Devs Deck Nine Lay Off More Staff
-Life is Strange developer Deck Nine Games has announced their second round of layoffs for the year, with an unspecified amount affected.
-[Read more](https://wccftech.com/life-is-strange-double-exposure-devs-deck-nine-lay-off-more-staff/)
+## "My 5 minute game took me like 5 years to draw by hand": one dev broke 50 pencils to make this gorgeous "interactive illustration"
+Short Trip stays true to its name, even if it took the developer years to make
+[Read more](https://www.gamesradar.com/games/adventure/my-5-minute-game-took-me-like-5-years-to-draw-by-hand-one-dev-broke-50-pencils-to-make-this-gorgeous-interactive-illustration/)
 
 
 
-Last updated: 2024-12-08 12:40:59
+Last updated: 2024-12-09 02:27:23
