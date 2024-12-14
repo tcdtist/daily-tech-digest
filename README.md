@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Intergalactic: The Heretic Project's sci-fi sword fights might seem a departure for Naughty Dog, but it's actually the perfect evolution from Uncharted 4
-Opinion | Promising "the deepest gameplay in Naughty Dog\u2019s history", Intergalactic is in prime position to really evolve on the developer's previous stellar combat systems
-[Read more](https://www.gamesradar.com/games/action/intergalactic-the-heretic-projects-sci-fi-sword-fights-might-seem-a-departure-for-naughty-dog-but-its-actually-the-perfect-evolution-from-uncharted-4/)
+## All The Biggest Reveals From the 2024 Game Awards
+The 2024 Game Awards are a wrap, and brought with them news of 'The Witcher 4,' the next game from 'The Last of Us' developer Naughty Dog, and a new game from the minds behind 'Shadow of the Colossus.'
+[Read more](https://lifehacker.com/entertainment/all-the-biggest-reveals-from-the-2024-game-awards)
 
 
 
-Last updated: 2024-12-13 12:43:57
+Last updated: 2024-12-14 02:20:30
