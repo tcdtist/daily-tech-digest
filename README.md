@@ -8,4 +8,4 @@ The 2024 Game Awards are a wrap, and brought with them news of 'The Witcher 4,' 
 
 
 
-Last updated: 2024-12-14 02:20:30
+Last updated: 2024-12-14 12:40:05
