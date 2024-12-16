@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Developer accused of misappropriating funds, as 2 more condo projects placed into receivership
-A lawyer for a mortgage company accused the embattled developers of three debt-ridden Lower Mainland condo projects Friday of misappropriating funds meant for the Canada Revenue Agency.
-[Read more](https://www.cbc.ca/news/canada/british-columbia/thind-properties-receivership-debt-1.7410275)
+## Meet Raja V: The Indian Developer Behind 2024’s Best Apple Watch App
+Raja V transitioned from mechanical engineering to app development.
+[Read more](https://in.mashable.com/tech/86776/meet-raja-v-the-indian-developer-behind-2024s-best-apple-watch-app)
 
 
 
-Last updated: 2024-12-16 02:27:17
+Last updated: 2024-12-16 12:46:54
