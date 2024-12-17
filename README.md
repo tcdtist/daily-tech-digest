@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Meet Raja V: The Indian Developer Behind 2024’s Best Apple Watch App
-Raja V transitioned from mechanical engineering to app development.
-[Read more](https://in.mashable.com/tech/86776/meet-raja-v-the-indian-developer-behind-2024s-best-apple-watch-app)
+## iPhone users can return to the iOS 18 beta program with Apple's latest update
+Apple released iOS 18.3 developer beta 1, the first beta update since stable iOS 18.2 was dropped recently.
+[Read more](https://www.phonearena.com/news/apple-restarts-the-ios-beta-process-with-ios-18.3-developer-beta-1_id165906)
 
 
 
-Last updated: 2024-12-16 12:46:54
+Last updated: 2024-12-17 02:23:49
