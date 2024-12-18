@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Enforcement is part of a healthy homeless response
-Developer Shawn Todd says enforcement is part of a healthy homeless response.
-[Read more](https://www.dallasnews.com/opinion/commentary/2024/12/17/enforcement-is-part-of-a-healthy-homeless-response/)
+## Civilization 7 fans jealous of old man with wonderful flexibility beg the strategy game's developer to make him stop dancing
+Prospector hit the Griddy
+[Read more](https://www.gamesradar.com/games/strategy/civilization-7-fans-jealous-of-old-man-with-wonderful-flexibility-beg-the-strategy-games-developer-to-make-him-stop-dancing/)
 
 
 
-Last updated: 2024-12-17 12:45:37
+Last updated: 2024-12-18 02:19:45
