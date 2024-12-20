@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Corre raises €4m from sale of Dutch battery energy storage stake
-Shares in renewable energy storage developer have plunged more than 92% so far this year amid funding concerns
-[Read more](https://www.irishtimes.com/business/2024/12/19/corre-raises-4m-from-sale-of-dutch-battery-energy-storage-stake/)
+## Vancouver council orders demolition Dunsmuir street building
+Vancouver city council unanimous in order to demolish dilapidated, 1908-era building on 500 Dunsmuir St., which is owned by developer Holborn Group
+[Read more](https://www.vancouverisawesome.com/local-news/vancouver-council-unanimous-in-order-to-demolish-dunsmuir-street-building-holborn-9982896)
 
 
 
-Last updated: 2024-12-19 12:42:55
+Last updated: 2024-12-20 02:14:27
