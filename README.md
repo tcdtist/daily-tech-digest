@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Magna Mining forks over a dollar for 30,000 hectares of Sudbury base metal properties
-Area mine developer swings its second major land acquisition deal in 2024
-[Read more](https://www.elliotlaketoday.com/local-news/magna-mining-forks-over-a-dollar-for-30000-hectares-of-sudbury-base-metal-properties-9983523)
+## James Packer-backed $400m Toorak project gets the green light
+Developer Orchard Piper has won an appeal against a council decision regarding its eight-level project on the site of a former Mercedes-Benz dealership.
+[Read more](https://www.afr.com/property/residential/james-packer-backed-400m-toorak-project-gets-the-green-light-20241219-p5kzmt)
 
 
 
-Last updated: 2024-12-22 12:36:52
+Last updated: 2024-12-23 02:15:28
