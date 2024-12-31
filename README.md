@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Top Skills for Landing a Developer Job as a 2025 Graduate in India
-Startups and tech giants across India are actively seeking Python and Java-proficient developers to drive their AI initiatives.
-[Read more](https://analyticsindiamag.com/ai-trends/top-skills-for-landing-a-developer-job-as-a-2025-graduate-in-india-2/)
+## Solo developer behind The Falconeer and Bulwark explains why Game Pass is so great for indies: "If you get in it's generally a very positive thing for a dev."
+I'd be on Game Pass the moment they could fit me in, no questions asked.
+[Read more](https://www.gamesradar.com/games/city-builder/solo-developer-behind-the-falconeer-and-bulwark-explains-why-game-pass-is-so-great-for-indies-if-you-get-in-its-generally-a-very-positive-thing-for-a-dev/)
 
 
 
-Last updated: 2024-12-30 12:40:20
+Last updated: 2024-12-31 02:12:46
