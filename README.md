@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Plans to build 20 homes in rural Nottinghamshire village turned down over concern for countryside
-A developer wanted to build the properties in Hayton, near Retford
-[Read more](https://www.nottinghampost.com/news/local-news/plans-build-20-homes-rural-9828330)
+## The RTS genre "hasn’t changed much" says former Age of Empires developer, "you’re still playing the same game we’re playing 20 years ago"
+If it ain't broke, don't fix it
+[Read more](https://www.gamesradar.com/games/real-time-strategy/the-rts-genre-hasnt-changed-much-says-former-age-of-empires-developer-youre-still-playing-the-same-game-were-playing-20-years-ago/)
 
 
 
-Last updated: 2025-01-01 02:20:49
+Last updated: 2025-01-01 12:39:19
