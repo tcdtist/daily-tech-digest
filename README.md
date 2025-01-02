@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## 3 food resolutions far more fun than a diet
-Instead of dieting this year, recipe developer and cookbook author Justine Doiron shares three food intentions that add more joy (and deliciousness) to your life.
-[Read more](https://edition.cnn.com/2025/01/01/health/food-resolutions-wellness/index.html)
+## Indians Surpass Brits In London Real Estate Ownership, Internet Calls It Karma
+A property developer report states that Indians own more property than English in London.
+[Read more](https://www.news18.com/viral/indians-surpass-brits-in-london-real-estate-ownership-internet-calls-it-karma-aa-9175225.html)
 
 
 
-Last updated: 2025-01-02 02:12:59
+Last updated: 2025-01-02 12:40:17
