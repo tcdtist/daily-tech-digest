@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## The RTS genre "hasn’t changed much" says former Age of Empires developer, "you’re still playing the same game we’re playing 20 years ago"
-If it ain't broke, don't fix it
-[Read more](https://www.gamesradar.com/games/real-time-strategy/the-rts-genre-hasnt-changed-much-says-former-age-of-empires-developer-youre-still-playing-the-same-game-were-playing-20-years-ago/)
+## 3 food resolutions far more fun than a diet
+Instead of dieting this year, recipe developer and cookbook author Justine Doiron shares three food intentions that add more joy (and deliciousness) to your life.
+[Read more](https://edition.cnn.com/2025/01/01/health/food-resolutions-wellness/index.html)
 
 
 
-Last updated: 2025-01-01 12:39:19
+Last updated: 2025-01-02 02:12:59
