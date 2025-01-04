@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Biggest business news to watch in R.I. in 2025
-R.I. business leaders face uncertainty as Hasbro mulls relocating, turnover continues among state Housing Department leadership, and the ‘Superman’ building developer could seek more public funding.
-[Read more](https://www.bostonglobe.com/2025/01/03/metro/business-news-to-watch-in-rhode-island-ri-in-2025/)
+## Starfinder Second Edition cover reveal
+Starfinder Second Edition has a new cover but keeps the heart of the game the same, says Paizo senior developer Jenny Jarzabski
+[Read more](https://www.polygon.com/tabletop-games/503984/starfinder-second-edition-cover-reveal-interview)
 
 
 
-Last updated: 2025-01-03 12:40:04
+Last updated: 2025-01-04 02:11:13
