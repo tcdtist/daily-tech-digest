@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Legacy Fund for Boston uses developer money to rescue city relics
-The Legacy Fund of Boston stands out with the types of historic preservation work it chooses to fund and the communities in the city it is trying to target.
-[Read more](https://www.bostonglobe.com/2025/01/04/metro/legacy-fund-boston-historic-preservation-grants-massachusetts/)
+## I'm a product developer at M&S and this is my product of the year
+We may only be a few days into 2025 but this M&S product expert has already picked his ultimate item of the year
+[Read more](https://www.liverpoolecho.co.uk/whats-on/shopping/im-product-developer-ms-product-30705037)
 
 
 
-Last updated: 2025-01-05 02:19:35
+Last updated: 2025-01-05 12:37:57
