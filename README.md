@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## I'm a product developer at M&S and this is my product of the year
-We may only be a few days into 2025 but this M&S product expert has already picked his ultimate item of the year
-[Read more](https://www.liverpoolecho.co.uk/whats-on/shopping/im-product-developer-ms-product-30705037)
+## Meet This Indian Developer Who Built a JupyterLab-Killer
+Built on the Go programming language, Zasper uses only 25-27 MB of RAM, while JupyterLab typically consumes around 120 MB.
+[Read more](https://analyticsindiamag.com/ai-features/meet-this-indian-developer-who-built-a-jupyterlab-killer/)
 
 
 
-Last updated: 2025-01-06 02:18:00
+Last updated: 2025-01-06 12:41:48
