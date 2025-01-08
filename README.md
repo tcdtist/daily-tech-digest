@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Apple's WWDC 2025 Swift Student Challenge Starts on February 3
-The 2025 Swift Student Challenge that's taking place ahead of WWDC is set to begin on Monday, February 3, Apple announced today on its developer...
-[Read more](https://www.macrumors.com/2025/01/07/apple-swift-student-challenge-february-3/)
+## A daring developer runs Windows 11 on just 184MB of RAM
+Industrious developer NTDEV recently managed to run Windows 11 on less than 200MB of RAM.
+[Read more](https://www.windowscentral.com/software-apps/windows-11/forget-microsofts-stringent-4gb-windows-11-requirement-a-daring-developer-runs-the-os-on-just-184mb-of-ram)
 
 
 
-Last updated: 2025-01-08 02:13:43
+Last updated: 2025-01-08 12:41:19
