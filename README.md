@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Stargazers' delight: Efforts to cut unwanted light pollution win praise
-SANTA FE, N.M. (AP) — Advocates for limits on indiscriminate outdoor lighting that are obscuring night skies worldwide are recognizing efforts by an oil and natural gas developer to reduce scattered light in New Mexico.
-[Read more](https://ca.finance.yahoo.com/news/stargazers-delight-efforts-cut-unwanted-220631368.html)
+## A new iPhone app from Apple could change how you manage events
+Apple recently dropped the second developer beta of iOS 18.3. While the update didn't bring any major features, it seems to include references to an unreleased in-house app that is still under wraps.
+[Read more](https://www.phonearena.com/news/new-iphone-app-apple-manage-events_id166475)
 
 
 
-Last updated: 2025-01-09 02:45:40
+Last updated: 2025-01-09 12:41:18
