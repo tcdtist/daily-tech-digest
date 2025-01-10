@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## A new iPhone app from Apple could change how you manage events
-Apple recently dropped the second developer beta of iOS 18.3. While the update didn't bring any major features, it seems to include references to an unreleased in-house app that is still under wraps.
-[Read more](https://www.phonearena.com/news/new-iphone-app-apple-manage-events_id166475)
+## Houston-based developer pays $148M for Evanston apartment complex
+The purchase of the two-tower complex just west of Northwestern University could boost plans from several other developers now seeking to launch new Evanston apartment projects.
+[Read more](https://www.chicagotribune.com/2025/01/09/evanston-apartment-deal/)
 
 
 
-Last updated: 2025-01-09 12:41:18
+Last updated: 2025-01-10 02:17:08
