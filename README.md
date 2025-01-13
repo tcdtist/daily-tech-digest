@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Tragic Collapse in Raipur: Construction Site Mishap Claims Lives
-A centring frame collapsed at an under-construction building in Raipur, Chhattisgarh, claiming the lives of two workers and injuring six others. The incident occurred on an 8th-floor slab in Vishal Nagar. Rescue operations were conducted, and a private developer announced compensation for the victims' families.
-[Read more](https://www.devdiscourse.com/article/science-environment/3221619-tragic-collapse-in-raipur-construction-site-mishap-claims-lives)
+## As Marvel Rivals bans custom skin mods, one developer with experience on "multiple live service games" explains why
+Gooners, server strain, and lost income are all potential reasons
+[Read more](https://www.gamesradar.com/games/third-person-shooter/as-marvel-rivals-bans-custom-skin-mods-one-developer-with-experience-on-multiple-live-service-games-explains-why/)
 
 
 
-Last updated: 2025-01-12 12:37:38
+Last updated: 2025-01-13 02:18:53
