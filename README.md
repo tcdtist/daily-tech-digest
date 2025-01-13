@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## As Marvel Rivals bans custom skin mods, one developer with experience on "multiple live service games" explains why
-Gooners, server strain, and lost income are all potential reasons
-[Read more](https://www.gamesradar.com/games/third-person-shooter/as-marvel-rivals-bans-custom-skin-mods-one-developer-with-experience-on-multiple-live-service-games-explains-why/)
+## Boston Scientific announces agreement to acquire Bolt Medical, Inc.
+Boston Scientific Corporation today announced it has entered into a definitive agreement to acquire Bolt Medical, Inc., the developer of an intravascular lithotripsy (IVL) advanced laser-based platform for the treatment of coronary and peripheral artery disease.
+[Read more](https://www.news-medical.net/news/20250113/Boston-Scientific-announces-agreement-to-acquire-Bolt-Medical-Inc.aspx)
 
 
 
-Last updated: 2025-01-13 02:18:53
+Last updated: 2025-01-13 12:42:38
