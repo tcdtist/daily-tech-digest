@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## The return of a 'legendary' Japanese franchise could be the Xbox Developer Direct mystery title
-Xbox Developer Direct's mystery game could be the return of a 'legendary' Japanese franchise with 'decades of history'.
-[Read more](https://www.techradar.com/gaming/the-return-of-a-legendary-japanese-franchise-could-be-the-xbox-developer-direct-mystery-title)
+## Apartment building collapses in south Kolkata, no one injured
+A Haryana-based firm was given the contract by the developer to strengthen the foundation as the 10-year-old building had tilted to the right over time, an official of the KMC said.
+[Read more](https://indianexpress.com/article/cities/kolkata/apartment-building-collapses-in-south-kolkata-no-one-injured-9779289/)
 
 
 
-Last updated: 2025-01-14 12:39:26
+Last updated: 2025-01-15 02:10:59
