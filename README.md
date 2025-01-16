@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Alan Wake 2 devs won’t fix a bug used by speedrunners
-Alan Wake 2 developer Remedy Entertainment won’t remove a bug from The Lake House after watching a speedrunner beat the game in just 15 minutes at AGDQ 2025
-[Read more](https://www.polygon.com/news/509309/alan-wake-2-lake-house-speedrun-bug-elevator-skip-remedy)
+## China Vanke has no plans to extend bonds amid market slump, REDD reports
+The news outlet said on Thursday that the investors were briefed on the matter after online rumors that China Vanke was considering bond extensions. The property developer, however, did not clarify whether it had prepared funds to repay debt maturing this quarter, REDD reported.
+[Read more](https://ca.finance.yahoo.com/news/china-vanke-no-plans-extend-042333881.html)
 
 
 
-Last updated: 2025-01-16 02:09:35
+Last updated: 2025-01-16 12:39:28
