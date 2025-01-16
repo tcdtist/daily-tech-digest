@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Friendship ended with Overwatch 2 as Marvel Rivals developer promises a new hero every six weeks
-Marvel Rivals is set to receive plenty of balance changes with the launch of Season 1, NetEase confirms.
-[Read more](https://www.techradar.com/gaming/consoles-pc/friendship-ended-with-overwatch-2-as-marvel-rivals-developer-promises-a-new-hero-every-six-weeks)
+## Alan Wake 2 devs won’t fix a bug used by speedrunners
+Alan Wake 2 developer Remedy Entertainment won’t remove a bug from The Lake House after watching a speedrunner beat the game in just 15 minutes at AGDQ 2025
+[Read more](https://www.polygon.com/news/509309/alan-wake-2-lake-house-speedrun-bug-elevator-skip-remedy)
 
 
 
-Last updated: 2025-01-15 12:39:47
+Last updated: 2025-01-16 02:09:35
