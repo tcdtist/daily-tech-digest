@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## China Vanke Faces Crisis: CEO's Detention Shakes Property Market
-China Vanke's shares plummeted after reports of its CEO's detention, with Shenzhen authorities overseeing the state-backed developer. Financial troubles stem from debt and declining sales, notably when it fell from second to fifth in sales value in 2023. This event may further undermine confidence in China's property sector.
-[Read more](https://www.devdiscourse.com/article/law-order/3227893-china-vanke-faces-crisis-ceos-detention-shakes-property-market)
+## Xbox Developer Direct 2025 scheduled for January 23 with new games, announcements and more
+Xbox Developer Direct 2025 is scheduled for January 23, with rumours of many surprises from Microsoft. The event will be streamed on Twitch and YouTube, providing a view of the future of Xbox Game Pass and potentially announcing day-one additions.
+[Read more](https://www.altchar.com/game-news/xbox-developer-direct-2025-scheduled-for-january-23-with-new-games-announcements-and-more-ampnD0q3c91i)
 
 
 
-Last updated: 2025-01-17 12:38:50
+Last updated: 2025-01-18 02:07:01
