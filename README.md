@@ -8,4 +8,4 @@ Genshin Impact developer Cognosphere agreed to a $20 million settlement and seve
 
 
 
-Last updated: 2025-01-19 02:15:36
+Last updated: 2025-01-19 12:35:39
