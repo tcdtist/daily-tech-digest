@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## The quaint Peak District town which is set to become seriously cool
-Developer Capital&Centric have big plans for Buxton
-[Read more](https://www.manchestereveningnews.co.uk/news/greater-manchester-news/quaint-peak-district-town-set-30736852)
+## Genshin Impact’s developer to pay $20 million fine to settle FTC charges
+Genshin Impact developer Cognosphere agreed to a $20 million settlement and several new restrictions on its loot box sales and data handling for children.
+[Read more](https://www.theverge.com/2025/1/18/24346862/genshin-impact-developer-20-million-fine-ftc-data-lootboxes)
 
 
 
-Last updated: 2025-01-18 12:35:53
+Last updated: 2025-01-19 02:15:36
