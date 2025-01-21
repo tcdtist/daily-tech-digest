@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Genshin Impact’s developer to pay $20 million fine to settle FTC charges
-Genshin Impact developer Cognosphere agreed to a $20 million settlement and several new restrictions on its loot box sales and data handling for children.
-[Read more](https://www.theverge.com/2025/1/18/24346862/genshin-impact-developer-20-million-fine-ftc-data-lootboxes)
+## Finnish developer pitches 250-room floating hotel for Vancouver harbour
+Sunborn International Holding says proposed hotel would be spread out over six floors and connected to the Vancouver Convention Centre by a ramp from the seawall walkway
+[Read more](https://www.theglobeandmail.com/canada/british-columbia/article-finnish-developer-pitches-250-room-floating-hotel-for-vancouver/)
 
 
 
-Last updated: 2025-01-20 12:40:26
+Last updated: 2025-01-21 02:10:22
