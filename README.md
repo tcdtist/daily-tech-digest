@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## HPE investigating claims that hacker breached developer environments, source code
-IntelBroker is selling a database of files allegedly stolen from HPE
-[Read more](https://www.techradar.com/pro/security/hpe-investigating-claims-that-hacker-breached-developer-environments-source-code)
+## Gaming on Apple Vision Pro could see huge growth soon, per game makers
+Apple’s Vision Pro doesn’t have much of a gaming story so far, but that could be changing soon per a new game developer survey.
+[Read more](https://9to5mac.com/2025/01/21/gaming-on-apple-vision-pro-could-see-huge-growth-soon-per-game-makers/)
 
 
 
-Last updated: 2025-01-21 12:40:11
+Last updated: 2025-01-22 02:12:42
