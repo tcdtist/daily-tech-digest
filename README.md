@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Much more powerful than original, dev claims
-Based on the Mario Kart footage from the reveal video, one developer says the Switch 2 will be "significantly more powerful" than the Switch.
-[Read more](https://bgr.com/entertainment/switch-2-significantly-more-powerful-than-the-switch-says-game-developer/)
+## How to watch the Xbox Developer_Direct 2025
+Hoping to watch the Xbox Developer_Direct 2025 show? Here's how you can, along with everything else you need to know about the show.
+[Read more](https://www.windowscentral.com/gaming/xbox/how-to-watch-the-xbox-developer-direct-2025-start-time-what-to-expect-and-everything-you-need-to-know)
 
 
 
-Last updated: 2025-01-22 12:40:09
+Last updated: 2025-01-23 02:10:33
