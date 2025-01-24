@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Everything we saw at Xbox’s Developer Direct 2025
-Xbox’s first developer direct of the year featured the surprise reveal of Ninja Gaiden 4 while also giving deep dives into other big games including Doom: The Dark Ages.
-[Read more](https://www.theverge.com/2025/1/23/24350382/xbox-developer-direct-january-2025-doom-ninja-gaiden-trailers)
+## Get Xbox Game Pass for the best price and play everything from the Xbox Developer Direct
+Xbox's 2025 lineup is stacked—here’s how to stack Xbox Game Pass codes and save big.
+[Read more](https://www.windowscentral.com/gaming/get-xbox-game-pass-for-the-best-price-and-play-everything-from-the-xbox-developer-direct)
 
 
 
-Last updated: 2025-01-24 02:11:11
+Last updated: 2025-01-24 12:39:12
