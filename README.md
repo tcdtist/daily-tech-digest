@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Gas hopeful Tamboran pitches Trump on $8b outback data centre plan
-The ASX-listed LNG developer is backed by incoming US energy secretary Chris Wright, and wants to power defence-focused digital infrastructure in the Northern Territory.
-[Read more](https://www.afr.com/world/north-america/gas-hopeful-tamboran-pitches-trump-on-8b-outback-data-centre-plan-20250123-p5l6l0)
+## Everything we saw at Xbox’s Developer Direct 2025
+Xbox’s first developer direct of the year featured the surprise reveal of Ninja Gaiden 4 while also giving deep dives into other big games including Doom: The Dark Ages.
+[Read more](https://www.theverge.com/2025/1/23/24350382/xbox-developer-direct-january-2025-doom-ninja-gaiden-trailers)
 
 
 
-Last updated: 2025-01-23 12:40:03
+Last updated: 2025-01-24 02:11:11
