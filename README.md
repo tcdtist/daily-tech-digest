@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Plans for a golf resort and 1k homes could only happen if Bolton is awarded the Ryder Cup - the developer wants to start work anyway
-Developer Peel Land face planning permission expiring for the £240M project unless they begin work on the site in the next nine months
-[Read more](https://www.manchestereveningnews.co.uk/news/greater-manchester-news/plans-golf-resort-1k-homes-30859177)
+## Marvel Snap is coming back to app stores soon, says developer
+Developer Second Dinner said it’s starting work to get Marvel Snap back on Google Play, days after saying it’s switching from the game’s ByteDance-owned publisher.
+[Read more](https://www.theverge.com/2025/1/25/24351641/marvel-snap-google-play-apple-app-store-tiktok-ban-new-publisher)
 
 
 
-Last updated: 2025-01-25 12:35:41
+Last updated: 2025-01-26 02:13:11
