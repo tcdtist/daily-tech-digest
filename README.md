@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## High noon for developer Paddy Kelly, who faces run-in with the sheriff over unpaid rent arrears
-Plus: Imma cafe operator departs over contract changes; former Ponzi schemer takes up golf; and Patagonia wants to shut the world out
-[Read more](https://www.irishtimes.com/ireland/2025/01/26/overheard-high-noon-for-developer-paddy-kelly-who-faces-run-in-with-the-sheriff-over-unpaid-rent-arrears/)
+## Dana Crawford Saved Buildings...and Made Many Memories
+Memories from people who knew Dana Crawford, the legendary Denver developer, preservationist and visionary.
+[Read more](https://www.westword.com/news/denver-developer-and-preservationist-dana-crawford-left-many-memories-23218839)
 
 
 
-Last updated: 2025-01-26 12:35:36
+Last updated: 2025-01-27 02:12:23
