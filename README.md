@@ -8,4 +8,4 @@ The Chinese Room has shared a new developer diary focused on Vampire: The Masque
 
 
 
-Last updated: 2025-02-01 02:14:08
+Last updated: 2025-02-01 12:35:39
