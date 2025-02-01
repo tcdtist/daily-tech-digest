@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## SoftBank's Mega Investment Plan: The Future of OpenAI
-SoftBank is considering a massive investment in OpenAI, potentially leading a $40 billion funding round that values the AI developer at $300 billion. This move signals SoftBank's bold strategy in AI, amidst growing competition from Chinese startup DeepSeek. The investment will support OpenAI's restructuring and its global AI race initiatives.
-[Read more](https://www.devdiscourse.com/article/technology/3246418-softbanks-mega-investment-plan-the-future-of-openai)
+## Bloodlines 2 Combat Is Shaping Well Based on the Latest Dev Diary
+The Chinese Room has shared a new developer diary focused on Vampire: The Masquerade - Bloodlines 2 combat, which is looking good.
+[Read more](https://wccftech.com/bloodlines-2-combat-is-shaping-well-based-on-the-latest-dev-diary/)
 
 
 
-Last updated: 2025-01-31 12:39:00
+Last updated: 2025-02-01 02:14:08
