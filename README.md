@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Bloodlines 2 Combat Is Shaping Well Based on the Latest Dev Diary
-The Chinese Room has shared a new developer diary focused on Vampire: The Masquerade - Bloodlines 2 combat, which is looking good.
-[Read more](https://wccftech.com/bloodlines-2-combat-is-shaping-well-based-on-the-latest-dev-diary/)
+## ‘Mansions’ planned at Surfside collapse site. Do developers ‘hope people forget’ tragedy?
+A Dubai-based developer has unveiled the details of an ultra-luxury project on the Surfside property where a building collapse in 2021 left 98 people dead and shattered a community.
+[Read more](https://www.mercurynews.com/2025/02/01/mansions-surfside-collapse-site/)
 
 
 
-Last updated: 2025-02-01 12:35:39
+Last updated: 2025-02-02 02:13:29
