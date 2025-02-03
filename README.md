@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## ‘Mansions’ planned at Surfside collapse site. Do developers ‘hope people forget’ tragedy?
-A Dubai-based developer has unveiled the details of an ultra-luxury project on the Surfside property where a building collapse in 2021 left 98 people dead and shattered a community.
-[Read more](https://www.mercurynews.com/2025/02/01/mansions-surfside-collapse-site/)
+## Developer to sell former Dallas Morning News building as revamp plans fade
+Sale to a data center comes as Washburne “couldn’t get anything out of the city” on the new convention center buildout.
+[Read more](https://www.dallasnews.com/business/real-estate/2025/02/02/developer-to-sell-former-dallas-morning-news-building-as-revamp-plans-fade/)
 
 
 
-Last updated: 2025-02-03 02:11:21
+Last updated: 2025-02-03 12:39:40
