@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Developer to sell former Dallas Morning News building as revamp plans fade
-Sale to a data center comes as Washburne “couldn’t get anything out of the city” on the new convention center buildout.
-[Read more](https://www.dallasnews.com/business/real-estate/2025/02/02/developer-to-sell-former-dallas-morning-news-building-as-revamp-plans-fade/)
+## Discord now runs on Windows 98 (and even Windows 95) with this unofficial client
+Discord Messenger, from developer iProgramInCpp, is a free Discord-compatible messaging client that works across nearly three decades of Windows versions. It is officially supported back to Windows...
+[Read more](https://www.techspot.com/news/106624-custom-discord-client-brings-modern-chat-windows-95.html)
 
 
 
-Last updated: 2025-02-03 12:39:40
+Last updated: 2025-02-04 02:10:41
