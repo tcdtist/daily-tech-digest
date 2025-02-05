@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Inside the shrine, the developer and the city hall showdown
-The battle to develop a 16.8-acre riverside property at 3100 Weston Rd. heads to city council on Wednesday.
-[Read more](https://www.thestar.com/news/gta/the-shrine-the-developer-and-the-showdown-how-a-toronto-property-wound-up-at-the/article_27c5d1ea-ddaa-11ef-816e-1b083ffe607b.html)
+## Optibrium widens access to industry-leading docking method
+Optibrium, a leading developer of software and AI solutions for molecular design today announced the introduction of a new PyMOL Graphical User Interface (GUI) for Surflex-Dock, its industry-leading structure-based design method, which is part of the company’s BioPharmics 3D molecular modelling suite.
+[Read more](https://www.news-medical.net/news/20250205/Optibrium-widens-access-to-industry-leading-docking-method.aspx)
 
 
 
-Last updated: 2025-02-05 02:12:15
+Last updated: 2025-02-05 12:40:30
