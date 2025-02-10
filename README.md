@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## 13-year WoW vet left Blizzard for the indie life because "I didn't really feel like a game developer in some way," agrees it's harder for AAA giants to "maintain this connection to the player"
-Chris Kaleiki's Notorious Studios is prepping to release its first game, Legacy: Steel & Sorcery, in February
-[Read more](https://www.gamesradar.com/games/mmo/13-year-wow-vet-left-blizzard-for-the-indie-life-because-i-didnt-really-feel-like-a-game-developer-in-some-way-agrees-its-harder-for-aaa-giants-to-maintain-this-connection-to-the-player/)
+## Unreal Engine 5 engineers look to solve developer problems
+Failure to "precache" is catching up with game developers who don't follow basic Unreal Engine development principles.
+[Read more](https://www.windowscentral.com/gaming/unreal-engine-5-engineers-looking-to-solve-problems-devs-have-with-engine)
 
 
 
-Last updated: 2025-02-10 02:13:45
+Last updated: 2025-02-10 12:40:55
