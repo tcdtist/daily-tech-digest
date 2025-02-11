@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Unreal Engine 5 engineers look to solve developer problems
-Failure to "precache" is catching up with game developers who don't follow basic Unreal Engine development principles.
-[Read more](https://www.windowscentral.com/gaming/unreal-engine-5-engineers-looking-to-solve-problems-devs-have-with-engine)
+## Couple win refund after buying £32m moth-infested London mansion
+Iya Patarkatsishvili and Dr Yevhen Hunyak sued property developer over infestation that ruined wine and clothes
+[Read more](https://www.theguardian.com/uk-news/2025/feb/10/couple-win-refund-after-buying-moth-infested-london-mansion)
 
 
 
-Last updated: 2025-02-10 12:40:55
+Last updated: 2025-02-11 02:13:32
