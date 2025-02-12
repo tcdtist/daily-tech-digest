@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Google I/O 2025's date is official and you can register now
-After debuting a puzzle game earlier today, Google officially revealed the dates for the Google I/O 2025 developer conference.
-[Read more](https://www.androidcentral.com/phones/google/google-io-2025-date-official)
+## Josh Kraft releases housing plan as part of Boston mayoral run
+Kraft details developer-friendly measures to jumpstart housing
+[Read more](https://www.nbcboston.com/boston-business-journal/boston-mayoral-candidate-josh-kraft-details-developer-friendly-measures-to-jumpstart-housing/3630121/)
 
 
 
-Last updated: 2025-02-12 02:12:37
+Last updated: 2025-02-12 12:40:29
