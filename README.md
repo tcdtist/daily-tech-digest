@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Rebellion reveals new Atomfall trailer - Game's setting, key features and more
-Rebellion, the developer of Sniper Elite and Zombie Army, has released a new trailer for Atomfall, their next survival action game.
-[Read more](https://www.altchar.com/game-news/rebellion-reveals-new-atomfall-trailer-games-setting-key-features-and-more-arRPx5Q7tdAz)
+## Who is Vince Dizon, Marcos’ new transport secretary?
+Prior to his new appointment, Dizon was the chief regulatory officer of infrastructure developer and operator Prime Infra of ports tycoon Enrique Razon Jr.
+[Read more](https://www.rappler.com/business/things-to-know-vince-dizon/)
 
 
 
-Last updated: 2025-02-13 02:13:06
+Last updated: 2025-02-13 12:40:46
