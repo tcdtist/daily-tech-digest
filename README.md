@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Mumbai police’s EOW arrests developer who assisted bank official in siphoning Rs 122 crore
-New India Cooperative Bank former GM ‘took the money from bank’s safe’
-[Read more](https://indianexpress.com/article/cities/mumbai/mumbai-polices-eow-arrests-developer-who-assisted-bank-official-in-siphoning-rs-122-crore-9839607/)
+## Lendlease counts on Baby Boomer demand for luxury apartments
+CEO Tony Lombardo says the builder, developer and investor is looking firmly at downsizers, because interest rates don’t bother them.
+[Read more](https://www.afr.com/property/commercial/lendlease-counts-on-baby-boomer-demand-for-luxury-apartments-20250216-p5lcks)
 
 
 
-Last updated: 2025-02-17 02:16:02
+Last updated: 2025-02-17 12:41:51
