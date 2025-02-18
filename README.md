@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Lendlease counts on Baby Boomer demand for luxury apartments
-CEO Tony Lombardo says the builder, developer and investor is looking firmly at downsizers, because interest rates don’t bother them.
-[Read more](https://www.afr.com/property/commercial/lendlease-counts-on-baby-boomer-demand-for-luxury-apartments-20250216-p5lcks)
+## Beulah to cut ‘hundreds of millions’ from tallest residential tower
+The developer of Sth Bnk, to be the tallest apartment tower in Australia, aims to reduce its $2 billion construction bill, putting it in a tussle with authorities.
+[Read more](https://www.afr.com/property/residential/beulah-to-cut-hundreds-of-millions-from-tallest-residential-tower-20250215-p5lcfy)
 
 
 
-Last updated: 2025-02-17 12:41:51
+Last updated: 2025-02-18 02:12:26
