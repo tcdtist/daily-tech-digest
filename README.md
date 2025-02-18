@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Beulah to cut ‘hundreds of millions’ from tallest residential tower
-The developer of Sth Bnk, to be the tallest apartment tower in Australia, aims to reduce its $2 billion construction bill, putting it in a tussle with authorities.
-[Read more](https://www.afr.com/property/residential/beulah-to-cut-hundreds-of-millions-from-tallest-residential-tower-20250215-p5lcfy)
+## Markham residents oppose to proposal of buidling rentals
+A developer is proposing to build three rental towers with nearly 800 apartments, which the mayor says is needed attainable housing for the city.
+[Read more](https://www.thestar.com/real-estate/this-neighbourhood-is-already-full-why-a-rental-development-has-markham-neighbours-and-their-mayor/article_575ec1f4-eadf-11ef-978e-ef8b877c3e8c.html)
 
 
 
-Last updated: 2025-02-18 02:12:26
+Last updated: 2025-02-18 12:39:42
