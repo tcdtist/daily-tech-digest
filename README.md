@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## At least 50 basis point cut needed to boost housing demand: Stockland
-The diversified developer says new homebuyer appetite picked up before Tuesday’s rate cut, but further monetary policy easing is crucial.
-[Read more](https://www.afr.com/property/commercial/at-least-50-basis-point-cut-needed-to-boost-housing-demand-stockland-20250217-p5lctw)
+## Niantic, developer of Pokémon GO, to sell off games division
+Niantic, the company behind popular augmented reality games Ingress and Pokémon GO, is reportedly looking to sell its games division. Ingress broke onto
+[Read more](https://www.androidheadlines.com/2025/02/niantic-developer-of-pokemon-go-to-sell-off-games-division.html)
 
 
 
-Last updated: 2025-02-19 12:38:43
+Last updated: 2025-02-20 02:13:58
