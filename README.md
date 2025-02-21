@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## North Texas billionaire Ross Perot Jr. sees ‘Big concern’ on Trump tariff threats
-Ross Perot Jr., a billionaire North Texas real estate developer and longtime Republican donor, said President Donald Trump’s tariff threats are emerging as a “b...
-[Read more](https://www.dallasnews.com/business/2025/02/20/north-texas-billionaire-ross-perot-jr-sees-big-concern-on-trump-tariff-threats/)
+## Cosy Animal Crossing-like Lord of the Rings game Tales of the Shire delayed to July 2025
+Developer Weta Workshop have announced that their cosy life sim Lords of the Rings title Tales of The Shire is now set to launch later this Summer on July 29.
+[Read more](https://www.altchar.com/game-news/cosy-animal-crossing-like-lord-of-the-rings-game-tales-of-the-shire-delayed-to-july-2025-ayz8E8h3qUFd)
 
 
 
-Last updated: 2025-02-21 02:14:13
+Last updated: 2025-02-21 12:40:48
