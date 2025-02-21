@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Niantic, developer of Pokémon GO, to sell off games division
-Niantic, the company behind popular augmented reality games Ingress and Pokémon GO, is reportedly looking to sell its games division. Ingress broke onto
-[Read more](https://www.androidheadlines.com/2025/02/niantic-developer-of-pokemon-go-to-sell-off-games-division.html)
+## North Texas billionaire Ross Perot Jr. sees ‘Big concern’ on Trump tariff threats
+Ross Perot Jr., a billionaire North Texas real estate developer and longtime Republican donor, said President Donald Trump’s tariff threats are emerging as a “b...
+[Read more](https://www.dallasnews.com/business/2025/02/20/north-texas-billionaire-ross-perot-jr-sees-big-concern-on-trump-tariff-threats/)
 
 
 
-Last updated: 2025-02-20 12:41:28
+Last updated: 2025-02-21 02:14:13
