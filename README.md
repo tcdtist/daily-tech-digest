@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Cosy Animal Crossing-like Lord of the Rings game Tales of the Shire delayed to July 2025
-Developer Weta Workshop have announced that their cosy life sim Lords of the Rings title Tales of The Shire is now set to launch later this Summer on July 29.
-[Read more](https://www.altchar.com/game-news/cosy-animal-crossing-like-lord-of-the-rings-game-tales-of-the-shire-delayed-to-july-2025-ayz8E8h3qUFd)
+## The first iOS 18.4 developer beta is here, with support for Priority Notifications
+The first developer beta for Apple’s next iPhone update, iOS 18.4, previews features like Priority Notifications, News Plus Food, and new default app choices.
+[Read more](https://www.theverge.com/news/617534/ios-18-4-developer-beta-default-navigation-news-plus-food)
 
 
 
-Last updated: 2025-02-21 12:40:48
+Last updated: 2025-02-22 02:10:14
