@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Developer Bensons buys $20 million Docklands site
-A week after coming out of administration owing $813 million, the company has a new $20 million site to develop. And it needs money.
-[Read more](https://www.afr.com/property/commercial/developer-bensons-offers-unpaid-creditors-chance-to-stump-up-again-20250221-p5le77)
+## How to Install the iOS 18.4 Developer Beta
+Apple officially released the iOS 18.4 developer beta, featuring Priority Notifications and a new Genmoji button. Before installing, however, you should be aware of the risks.
+[Read more](https://lifehacker.com/tech/how-to-install-the-ios-184-developer-beta)
 
 
 
-Last updated: 2025-02-24 12:42:20
+Last updated: 2025-02-25 02:16:25
