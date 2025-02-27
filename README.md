@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## How to Install the iOS 18.4 Developer Beta
-Apple officially released the iOS 18.4 developer beta, featuring Priority Notifications and a new Genmoji button. Before installing, however, you should be aware of the risks.
-[Read more](https://lifehacker.com/tech/how-to-install-the-ios-184-developer-beta)
+## Perplexity launches $50M seed and pre-seed VC fund
+Perplexity, the developer of an AI-powered search engine, is raising a $50 million seed and pre-seed investment fund, CNBC reported. Although the majority
+[Read more](https://techcrunch.com/2025/02/25/perplexity-launches-50m-seed-and-pre-seed-vc-fund/)
 
 
 
-Last updated: 2025-02-25 12:41:52
+Last updated: 2025-02-27 02:16:56
