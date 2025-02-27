@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Perplexity launches $50M seed and pre-seed VC fund
-Perplexity, the developer of an AI-powered search engine, is raising a $50 million seed and pre-seed investment fund, CNBC reported. Although the majority
-[Read more](https://techcrunch.com/2025/02/25/perplexity-launches-50m-seed-and-pre-seed-vc-fund/)
+## The Entire Middle Class of Tech is Vanishing
+With AI tools like GitHub Copilot and Cursor, a single developer can now accomplish what once required an entire team.
+[Read more](https://analyticsindiamag.com/ai-features/the-entire-middle-class-of-tech-is-vanishing/)
 
 
 
-Last updated: 2025-02-27 02:16:56
+Last updated: 2025-02-27 12:41:52
