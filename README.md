@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## GTA 6 LIVE: Release date 'confirmed' by 'developer' online
-GTA 6 rumours and speculation continue to swirl as fans eagerly await any further updates on the most anticipated game in history. The only official content we've had from Rockstar Games itself so far is the first, and so far only, trailer for GTA 6 in December 2023. Keep up-to-date with all the latest as it happens with our live blog.
-[Read more](https://www.indy100.com/gaming/gta-6-release-date-trailer-leaks-rumours-map-news-2671238536)
+## No-code and AI coding tools: Risks, dangers, limitations, and hidden costs you need to know
+No-code platforms and AI-driven coding tools have surged in popularity, and it’s easy to see why. With intuitive interfaces like Bolt, Bubble, Lovable, Replit, or Webflow, and AI assistants like GitHub Copilot, you can build an app without touching a line of code—or breaking the bank on a developer. Entrepreneurs, small businesses, and even solo
+[Read more](https://techstartups.com/2025/03/01/no-code-and-ai-coding-tools-risks-dangers-limitations-and-hidden-costs-you-need-to-know/)
 
 
 
-Last updated: 2025-03-02 02:20:35
+Last updated: 2025-03-02 12:37:15
