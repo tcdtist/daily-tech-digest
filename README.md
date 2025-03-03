@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## No-code and AI coding tools: Risks, dangers, limitations, and hidden costs you need to know
-No-code platforms and AI-driven coding tools have surged in popularity, and it’s easy to see why. With intuitive interfaces like Bolt, Bubble, Lovable, Replit, or Webflow, and AI assistants like GitHub Copilot, you can build an app without touching a line of code—or breaking the bank on a developer. Entrepreneurs, small businesses, and even solo
-[Read more](https://techstartups.com/2025/03/01/no-code-and-ai-coding-tools-risks-dangers-limitations-and-hidden-costs-you-need-to-know/)
+## 4 modern games that failed to out-shine their retro originals
+Just because a developer can put more money and better tech behind an old game, doesn't mean it'll be a better one.
+[Read more](https://www.xda-developers.com/modern-games-that-failed-to-out-do-their-retro-originals/)
 
 
 
-Last updated: 2025-03-02 12:37:15
+Last updated: 2025-03-03 02:18:58
