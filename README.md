@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Job Developer
-JOB TITLE: Job Developer – Internal/External Posting POSITION STATUS: Full-time, permanent (35 hrs./week) COMPENSATION: $42,630 - $52, 212 per year REPORTS TO: Manager of Employment Programs CLOSING DATE: Sunday, March 16, 2025, at 3:00 p.m.
-[Read more](https://www.sootoday.com/classifieds/careers/non-profit/1942191)
+## Bethesda says Xbox's Starfield is about to have a big 2025
+After months of silence, Starfield developer Bethesda has hinted that something big is coming to the RPG this year.
+[Read more](https://www.windowscentral.com/gaming/bethesda-says-xboxs-starfield-is-about-to-have-a-big-2025-with-new-updates-is-the-starborn-dlc-on-the-way)
 
 
 
-Last updated: 2025-03-06 12:42:25
+Last updated: 2025-03-07 02:19:00
