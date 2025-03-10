@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Trump's transactional approach to diplomacy is a driving force on the world stage
-Donald Trump, the real estate developer turned commander in chief, is laying bare his style of diplomacy in the early weeks of his new term: It’s a whole lot like a high-stakes business deal, and his No. 1 goal is to come out of the transaction on top.
-[Read more](https://www.cp24.com/news/world/2025/03/09/trumps-transactional-approach-to-diplomacy-is-a-driving-force-on-the-world-stage/)
+## 3 things game creators can learn from the Balatro dev’s diary
+Balatro developer LocalThunk opened up about how he made the award-winning game — and all the decisions that helped it become a success.
+[Read more](https://www.polygon.com/gaming/536336/balatro-developer-diary-lessons-creativity)
 
 
 
-Last updated: 2025-03-09 12:31:10
+Last updated: 2025-03-10 02:00:59
