@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Argotec announces modular satellite platform
-Italian smallsat developer Argotec has unveiled a new modular satellite bus design that it believes provides flexibility in accommodating payloads.
-[Read more](https://spacenews.com/argotec-announces-modular-satellite-platform/)
+## Coding AI tells developer to write it himself
+Can AI just walk off the job?
+[Read more](https://www.techradar.com/computing/artificial-intelligence/coding-ai-tells-developer-to-write-it-himself)
 
 
 
-Last updated: 2025-03-14 12:41:08
+Last updated: 2025-03-15 02:16:41
