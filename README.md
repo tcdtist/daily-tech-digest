@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## ICYMI: Developer seeks final public approval for long-planned student housing project
-Proposal calls for 11-storey building with 1,149 bedrooms at the corner of Gordon Street and Stone Road
-[Read more](https://www.guelphtoday.com/local-news/icymi-developer-seeks-final-public-approval-for-long-planned-student-housing-project-10375768)
+## Knights of the Old Republic remake developer Saber Interactive states all its projects are 'still in development'
+Yes, the Star Wars: Knights of the Old Republic remake seems to still be in development.
+[Read more](https://www.techradar.com/gaming/knights-of-the-old-republic-remake-developer-saber-interactive-states-all-its-projects-are-still-in-development)
 
 
 
-Last updated: 2025-03-17 02:22:03
+Last updated: 2025-03-17 12:45:27
