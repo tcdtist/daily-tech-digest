@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Texas man faces prison for activating 'kill switch' on former employer's network
-Software developer Davis Lu was found guilty of sabotaging the company's systems.
-[Read more](https://techcrunch.com/2025/03/17/texas-man-faces-prison-for-activating-kill-switch-on-former-employers-network/)
+## 145 new homes to be built with a third set to be 'affordable'
+Developer to stump up £600K for the community
+[Read more](https://www.manchestereveningnews.co.uk/news/greater-manchester-news/145-new-homes-built-third-31223622)
 
 
 
-Last updated: 2025-03-18 02:21:23
+Last updated: 2025-03-18 12:44:36
