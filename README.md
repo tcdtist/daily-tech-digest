@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Minecraft developer rejects generative AI, 'it's important that it makes us feel happy to create as humans'
-You don't need to worry about generative AI being added to Minecraft, it seems.
-[Read more](https://www.techradar.com/gaming/gaming-industry/minecraft-developer-rejects-generative-ai-its-important-that-it-makes-us-feel-happy-to-create-as-humans)
+## Nintendo's Pokémon-Like Nemesis Won't Back Down From Switch 2 Dreams
+Pocketpair's communications director says the Tokyo-based developer wants to bring its hit game Palworld to Nintendo Switch 2 despite ongoing legal challenges.
+[Read more](https://www.inverse.com/gaming/palworld-devs-switch-2-challenges-nintendo-pokemon-company)
 
 
 
-Last updated: 2025-03-24 12:45:48
+Last updated: 2025-03-25 02:22:23
