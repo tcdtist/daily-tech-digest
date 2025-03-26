@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## All the Solihull areas set to benefit from 'developer tax' windfalls - full list
-A string of groups are set to receive money to boost their community work
-[Read more](https://www.birminghammail.co.uk/news/midlands-news/solihull-areas-set-benefit-developer-31279584)
+## Ronan Group reaches fresh heights at Citi’s new European headquarters
+Developer Johnny Ronan’s RGRE hosts topping-out ceremony at global banking giant’s new office in Dublin docklands
+[Read more](https://www.irishtimes.com/property/commercial-property/2025/03/26/ronan-group-reaches-fresh-heights-at-citis-new-european-headquarters/)
 
 
 
-Last updated: 2025-03-26 02:21:24
+Last updated: 2025-03-26 12:44:58
