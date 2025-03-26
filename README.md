@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Nintendo's Pokémon-Like Nemesis Won't Back Down From Switch 2 Dreams
-Pocketpair's communications director says the Tokyo-based developer wants to bring its hit game Palworld to Nintendo Switch 2 despite ongoing legal challenges.
-[Read more](https://www.inverse.com/gaming/palworld-devs-switch-2-challenges-nintendo-pokemon-company)
+## All the Solihull areas set to benefit from 'developer tax' windfalls - full list
+A string of groups are set to receive money to boost their community work
+[Read more](https://www.birminghammail.co.uk/news/midlands-news/solihull-areas-set-benefit-developer-31279584)
 
 
 
-Last updated: 2025-03-25 12:44:10
+Last updated: 2025-03-26 02:21:24
