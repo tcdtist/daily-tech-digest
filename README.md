@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Ronan Group reaches fresh heights at Citi’s new European headquarters
-Developer Johnny Ronan’s RGRE hosts topping-out ceremony at global banking giant’s new office in Dublin docklands
-[Read more](https://www.irishtimes.com/property/commercial-property/2025/03/26/ronan-group-reaches-fresh-heights-at-citis-new-european-headquarters/)
+## This Developer Ditched Windsurf, Cursor Using Claude with MCPs
+Anthropic’s Claude, combined with the engineer’s MCP server, helped unlock new abilities that go beyond what traditional AI coding tools can offer.
+[Read more](https://analyticsindiamag.com/ai-features/this-developer-ditched-windsurf-cursor-using-claude-with-mcps/)
 
 
 
-Last updated: 2025-03-27 02:21:18
+Last updated: 2025-03-27 12:45:00
