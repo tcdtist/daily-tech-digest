@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## This Developer Ditched Windsurf, Cursor Using Claude with MCPs
-Anthropic’s Claude, combined with the engineer’s MCP server, helped unlock new abilities that go beyond what traditional AI coding tools can offer.
-[Read more](https://analyticsindiamag.com/ai-features/this-developer-ditched-windsurf-cursor-using-claude-with-mcps/)
+## City, developer settle differences over Gordon Street apartment plans
+Appeal body gives in-principle approval for two 12-storey buildings with 393 units
+[Read more](https://www.guelphtoday.com/local-news/city-developer-settle-differences-over-gordon-street-apartment-plans-10441830)
 
 
 
-Last updated: 2025-03-28 12:43:28
+Last updated: 2025-03-29 02:20:00
