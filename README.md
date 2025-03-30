@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Top Stories: WWDC 2025 Announced, iPhone 17 Pro and iOS 19 Rumors, and More
-Apple's big developer event is a little over two months away, and rumors about what we can expect to see in Apple's next major operating...
-[Read more](https://www.macrumors.com/2025/03/29/top-stories-wwdc-2025-announced/)
+## Federation plots a path from asset manager to batteries developer
+The investment firm is launching a multi-billion dollar platform that will specialise building and operating large, long-duration storage.
+[Read more](https://www.afr.com/companies/energy/federation-plots-a-path-from-asset-manager-to-batteries-developer-20250326-p5lml5)
 
 
 
-Last updated: 2025-03-30 02:28:09
+Last updated: 2025-03-30 12:40:08
