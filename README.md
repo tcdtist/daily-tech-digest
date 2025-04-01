@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Federation plots a path from asset manager to batteries developer
-The investment firm is launching a multi-billion dollar platform that will specialise building and operating large, long-duration storage.
-[Read more](https://www.afr.com/companies/energy/federation-plots-a-path-from-asset-manager-to-batteries-developer-20250326-p5lml5)
+## Study challenges claims foreign buyer taxes are racist
+Experts from SFU and UBC warn that developer-led interests are distorting the housing crisis narrative to downplay foreign capital’s role in rising prices.
+[Read more](https://www.vancouverisawesome.com/real-estate/study-challenges-claims-foreign-buyer-taxes-are-racist-10454981)
 
 
 
-Last updated: 2025-03-31 12:46:33
+Last updated: 2025-04-01 02:41:28
