@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Construction begins on more than 750 new Nottinghamshire homes at huge £191m estate
-The estate's developer says nearly £6 million will be spend on improving services so they can cope with the new houses
-[Read more](https://www.nottinghampost.com/news/local-news/construction-begins-more-750-new-10073260)
+## Vibe coding isn’t here to take developer jobs. It’s here to transform them into AI architects
+Vibe coding won’t take developer jobs. The developers who use AI will.
+[Read more](https://www.techradar.com/pro/website-hosting/vibe-coding-isnt-here-to-take-developer-jobs-its-here-to-transform-them-into-ai-architects)
 
 
 
-Last updated: 2025-04-02 12:46:24
+Last updated: 2025-04-03 02:22:24
