@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Vibe coding isn’t here to take developer jobs. It’s here to transform them into AI architects
-Vibe coding won’t take developer jobs. The developers who use AI will.
-[Read more](https://www.techradar.com/pro/website-hosting/vibe-coding-isnt-here-to-take-developer-jobs-its-here-to-transform-them-into-ai-architects)
+## New data on use of EndoZip™ to treat obese patients be presented at leading global medical conferences
+Nitinotes, developer of EndoZip™, a fully automated endoscopic suturing system aimed at treating obesity, today announced that clinical research on the EndoZip™ system will be presented at upcoming leading international medical conferences.
+[Read more](https://www.news-medical.net/news/20250403/New-data-on-use-of-EndoZipe284a2-to-treat-obese-patients-be-presented-at-leading-global-medical-conferences.aspx)
 
 
 
-Last updated: 2025-04-03 02:22:24
+Last updated: 2025-04-03 12:46:13
