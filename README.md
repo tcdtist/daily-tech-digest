@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Developer Stephens & Stephens paid people using money that did not belong to it
-It's left some hard-working Cornish tradespeople now facing repaying more than £100,000 and potential bankruptcy after the dodgy payments from Stephens & Stephens
-[Read more](https://www.cornwalllive.com/news/cornwall-news/traders-repay-thousands-after-illegal-10074829)
+## How a 25-year-old Dutch game developer reclaimed her childhood
+Ryan K. Rigney interviews Dutch developer Lente, who made the oil-clean-up game Spilled! from her houseboat.
+[Read more](https://www.polygon.com/features/553839/push-to-talk-newsletter-spilled-game-dutch-game-dev)
 
 
 
-Last updated: 2025-04-05 12:39:40
+Last updated: 2025-04-06 02:26:43
