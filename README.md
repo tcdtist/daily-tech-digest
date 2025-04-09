@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Lendlease faces $100m hit in Sydney land dispute
-The setback at Figtree Hill comes as the ASX-listed developer, led by Tony Lombardo, presses ahead with a radical overhaul of its global business.
-[Read more](https://www.afr.com/property/commercial/lendlease-faces-100m-hit-in-sydney-land-dispute-20250409-p5lqd6)
+## Warning over another 'Night & Day'-style row as 44-storey skyscraper planned in Manchester
+The developer says it will 'push the boundaries of city-centre living' - but objectors have hit out at the bid
+[Read more](https://www.manchestereveningnews.co.uk/news/greater-manchester-news/warning-over-another-night--31377951)
 
 
 
-Last updated: 2025-04-09 02:24:20
+Last updated: 2025-04-09 12:46:33
