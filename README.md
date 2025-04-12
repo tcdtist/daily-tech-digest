@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Shuttered Espanola mill may have a buyer
-Brownfield developer looks to finalize deal with Domtar to acquire pulp and paper plant, which closed in 2023
-[Read more](https://www.baytoday.ca/local-news/shuttered-espanola-mill-may-have-a-buyer-10510407)
+## Developer granted permission for €200m Waterford North Quays project
+Construction set to begin at the end of 2025
+[Read more](https://www.irishtimes.com/business/2025/04/12/developer-granted-permission-for-200m-waterford-north-quays-project/)
 
 
 
-Last updated: 2025-04-12 02:20:55
+Last updated: 2025-04-12 12:39:49
