@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## OpenAI countersues Elon Musk over ‘unlawful harassment’ of company
-ChatGPT developer asks US federal judge to stop former founder making any further attacks
-[Read more](https://www.theguardian.com/technology/2025/apr/11/openai-countersues-elon-musk-over-unlawful-harassment-of-company)
+## Shuttered Espanola mill may have a buyer
+Brownfield developer looks to finalize deal with Domtar to acquire pulp and paper plant, which closed in 2023
+[Read more](https://www.baytoday.ca/local-news/shuttered-espanola-mill-may-have-a-buyer-10510407)
 
 
 
-Last updated: 2025-04-11 12:44:54
+Last updated: 2025-04-12 02:20:55
