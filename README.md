@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## GTA 6 LIVE: Game release to end 'post-pandemic industry depression' hopes developer
-GTA 6 rumours and speculation continue to swirl as fans eagerly await any further updates on the most anticipated game in history. The only official content we've had from Rockstar Games itself so far is the first, and so far only, trailer for GTA 6 in December 2023. Keep up-to-date with all the latest as it happens with our live blog.
-[Read more](https://www.indy100.com/gaming/gta-6-release-date-leaks-trailer-2-price-rumours-map-news-2671770584)
+## Leaked images suggest Oblivion remaster coming soon
+Rumors of an Elder Scrolls IV: Oblivion remaster have kicked up again after images were leaked on a developer website
+[Read more](https://www.theverge.com/news/648877/oblivion-remaster-images-leaked-microsoft)
 
 
 
-Last updated: 2025-04-15 12:46:07
+Last updated: 2025-04-16 02:26:00
