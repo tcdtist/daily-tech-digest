@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Rebellion says Atomfall is a success, praises Xbox Game Pass.
-Another developer comes to bat for Game Pass, crediting success to Atomfall and other titles on the service.
-[Read more](https://www.windowscentral.com/gaming/rebellion-ceo-says-atomfall-is-a-success-praises-xbox-game-pass)
+## Staff at fintech went unpaid for six months after finance chief ‘forced out’, WRC told
+Software developer drained his savings and resorted to selling his photography equipment to cover his rent, commission told
+[Read more](https://www.irishtimes.com/business/2025/04/17/staff-at-fintech-went-unpaid-for-six-months-after-finance-chief-forced-out-wrc-told/)
 
 
 
-Last updated: 2025-04-17 12:46:02
+Last updated: 2025-04-18 02:22:14
