@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Trump halts construction of big wind farm off New York coast: ‘reckless and overreaching’
-Wind power developer eyes legal remedies to order that blocks renewable energy projects and eliminates green job opportunities
-[Read more](https://www.theguardian.com/us-news/2025/apr/18/trump-new-york-wind-farm-cancellaction)
+## The creator of Papers, Please wants developers to make weirder, more personal games
+Lucas Pope, the developer of Papers, Please and Return of the Obra Dinn, won a Pioneer Award at GDC 2025, and we interviewed him.
+[Read more](https://www.theverge.com/games/651376/lucas-pope-papers-please-gdc-2025-pioneer-award)
 
 
 
-Last updated: 2025-04-19 12:40:10
+Last updated: 2025-04-20 02:36:51
