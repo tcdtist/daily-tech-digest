@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## The creator of Papers, Please wants developers to make weirder, more personal games
-Lucas Pope, the developer of Papers, Please and Return of the Obra Dinn, won a Pioneer Award at GDC 2025, and we interviewed him.
-[Read more](https://www.theverge.com/games/651376/lucas-pope-papers-please-gdc-2025-pioneer-award)
+## Elected mayor campaigner urges council to take over Millbay docks
+'Angus Forbes is not a property developer'
+[Read more](https://www.plymouthherald.co.uk/news/plymouth-news/elected-mayor-campaigner-urges-council-10109015)
 
 
 
-Last updated: 2025-04-20 02:36:51
+Last updated: 2025-04-20 12:40:14
