@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Elected mayor campaigner urges council to take over Millbay docks
-'Angus Forbes is not a property developer'
-[Read more](https://www.plymouthherald.co.uk/news/plymouth-news/elected-mayor-campaigner-urges-council-10109015)
+## Google rushes to fix new 'attack' that lets hackers take over Gmail account
+The worrying alert was first raised by developer Nick Johnson, who says he was hit by an "extremely sophisticated" phishing attack which looked incredibly real.
+[Read more](https://www.birminghammail.co.uk/news/midlands-news/google-rushes-fix-new-attack-31479274)
 
 
 
-Last updated: 2025-04-21 02:37:32
+Last updated: 2025-04-21 12:44:58
