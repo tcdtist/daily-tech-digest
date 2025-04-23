@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Proposed Kelowna apartment a family 'legacy,' says developer
-Owners of a property on Bernard Avenue are going back to the city in hopes of tweaking an apartment development already approved by city council.
-[Read more](https://www.castanet.net/news/Kelowna/545982/Proposed-Kelowna-apartment-a-family-legacy-says-developer)
+## Osoyoos game developer a quarter finalist at Okanagan Angel Summit
+The Osoyoos-based co-founder of a women-led game studio just competed as a quarter finalist at the Okanagan Angel Summit.
+[Read more](https://www.castanet.net/news/Oliver-Osoyoos/546017/Osoyoos-game-developer-a-quarter-finalist-at-Okanagan-Angel-Summit)
 
 
 
-Last updated: 2025-04-23 02:25:49
+Last updated: 2025-04-23 12:47:33
