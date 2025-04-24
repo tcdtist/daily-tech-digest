@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Osoyoos game developer a quarter finalist at Okanagan Angel Summit
-The Osoyoos-based co-founder of a women-led game studio just competed as a quarter finalist at the Okanagan Angel Summit.
-[Read more](https://www.castanet.net/news/Oliver-Osoyoos/546017/Osoyoos-game-developer-a-quarter-finalist-at-Okanagan-Angel-Summit)
+## Developer halves height of Gold Coast apartment tower
+The move to cut the 40-storey tower to just 21 is the biggest example to date of the construction sector’s inability to meet the country’s housing needs.
+[Read more](https://www.afr.com/property/residential/developer-halves-height-of-gold-coast-apartment-tower-20250423-p5ltoj)
 
 
 
-Last updated: 2025-04-23 12:47:33
+Last updated: 2025-04-24 02:26:51
