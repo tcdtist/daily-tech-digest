@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## How to watch LlamaCon 2025, Meta's first generative AI developer conference
-Meta's LlamaCon developer conference will stream live on Facebook and feature a chat between Meta CEO Mark Zuckerberg and Microsoft CEO Satya Nadella.
-[Read more](https://www.engadget.com/ai/how-to-watch-llamacon-2025-metas-first-generative-ai-developer-conference-215241289.html)
+## Local developer reshaping look and livability of Kelowna’s North End
+A local development company is revitalizing north Kelowna with a unique collection of homes designed to meet the city’s housing demand in high style.
+[Read more](https://www.castanet.net/news/Think-Local/547003/Local-developer-reshaping-look-and-livability-of-Kelowna-s-North-End)
 
 
 
-Last updated: 2025-04-27 02:37:28
+Last updated: 2025-04-27 12:41:01
