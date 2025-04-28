@@ -8,4 +8,4 @@ A local development company is revitalizing north Kelowna with a unique collecti
 
 
 
-Last updated: 2025-04-28 02:38:13
+Last updated: 2025-04-28 12:55:16
