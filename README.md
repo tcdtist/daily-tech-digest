@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## This 2024 Game Pass hit just got a huge Xbox award
-In recognition of STALKER 2's excellence, Microsoft and Xbox have given developer GSC Game World a special award.
-[Read more](https://www.windowscentral.com/gaming/xbox/the-game-pass-hit-stalker-2-just-got-a-huge-xbox-award-and-i-cant-think-of-a-game-more-deserving)
+## Licensing agreed for Optimer as novel vaccine adjuvant
+Aptamer Group plc, the leading developer of next-generation synthetic binders delivering innovation to the life science industry, has entered into a global licensing agreement with the University of Glasgow for the commercial use of a developed panel of Optimer binders as vaccine adjuvants in the swine health sector.
+[Read more](https://www.news-medical.net/news/20250430/Licensing-agreed-for-Optimer-as-novel-vaccine-adjuvant.aspx)
 
 
 
-Last updated: 2025-04-30 02:26:55
+Last updated: 2025-04-30 12:45:58
