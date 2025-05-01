@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## London’s only heliport objects to plans to build giant 35-storey tower next door
-Wandsworth Council is considering developer Heliport London Ltd’s proposals to build the tower in Battersea
-[Read more](https://www.standard.co.uk/news/london/london-heliport-giant-tower-next-door-b1225287.html)
+## Newquay hotel owner ordered to repay £20,000 after being paid by broke developer
+The developer used an account it wasn't supposed to
+[Read more](https://www.cornwalllive.com/news/cornwall-news/newquay-hotel-owner-ordered-repay-10138570)
 
 
 
-Last updated: 2025-05-01 02:44:00
+Last updated: 2025-05-01 12:44:57
