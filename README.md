@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Licensing agreed for Optimer as novel vaccine adjuvant
-Aptamer Group plc, the leading developer of next-generation synthetic binders delivering innovation to the life science industry, has entered into a global licensing agreement with the University of Glasgow for the commercial use of a developed panel of Optimer binders as vaccine adjuvants in the swine health sector.
-[Read more](https://www.news-medical.net/news/20250430/Licensing-agreed-for-Optimer-as-novel-vaccine-adjuvant.aspx)
+## London’s only heliport objects to plans to build giant 35-storey tower next door
+Wandsworth Council is considering developer Heliport London Ltd’s proposals to build the tower in Battersea
+[Read more](https://www.standard.co.uk/news/london/london-heliport-giant-tower-next-door-b1225287.html)
 
 
 
-Last updated: 2025-04-30 12:45:58
+Last updated: 2025-05-01 02:44:00
