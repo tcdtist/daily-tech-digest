@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## GTA 6 release delayed to May 2026
-Rockstar Games is delaying the release of Grand Theft Auto VI to May 26th, 2026. The developer says it needs more time to focus on the quality of the game.
-[Read more](https://www.theverge.com/news/660057/grand-theft-auto-6-release-date-delay-may-2026)
+## Why Bethesda Games Will Probably Always Have Unwanted Loading Screens
+The Elder Scrolls IV: Oblivion remaster has been a smash hit, but the game's loading screens have been a point of frustration. A former Besthesda Developer explains why.
+[Read more](https://hothardware.com/news/why-bethesda-games-have-loading-screens)
 
 
 
-Last updated: 2025-05-02 12:45:38
+Last updated: 2025-05-03 02:24:56
