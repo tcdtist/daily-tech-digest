@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Why Bethesda Games Will Probably Always Have Unwanted Loading Screens
-The Elder Scrolls IV: Oblivion remaster has been a smash hit, but the game's loading screens have been a point of frustration. A former Besthesda Developer explains why.
-[Read more](https://hothardware.com/news/why-bethesda-games-have-loading-screens)
+## $20,000 worth of reasons to celebrate Ascent by Highstreet
+Local Kelowna developer Highstreet celebrates its birthday and 20 years of doing the right thing.
+[Read more](https://www.castanet.net/news/Think-Local/548141/20-000-worth-of-reasons-to-celebrate-Ascent-by-Highstreet-)
 
 
 
-Last updated: 2025-05-03 02:24:56
+Last updated: 2025-05-03 12:41:34
