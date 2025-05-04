@@ -8,4 +8,4 @@ Local Kelowna developer Highstreet celebrates its birthday and 20 years of doing
 
 
 
-Last updated: 2025-05-04 02:43:54
+Last updated: 2025-05-04 12:42:09
