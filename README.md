@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## $20,000 worth of reasons to celebrate Ascent by Highstreet
-Local Kelowna developer Highstreet celebrates its birthday and 20 years of doing the right thing.
-[Read more](https://www.castanet.net/news/Think-Local/548141/20-000-worth-of-reasons-to-celebrate-Ascent-by-Highstreet-)
+## Adam Vaughan joins Ontario Place spa developer Therme
+Former city councillor and ex-MP Adam Vaughan, long one of the sharpest critics of Doug Ford's plans for Toronto's waterfront, is now working for Therme Canada, the company developing a luxury spa at Ontario Place.
+[Read more](https://www.cbc.ca/news/canada/toronto/ontario-place-spa-therme-adam-vaughan-1.7525211)
 
 
 
-Last updated: 2025-05-05 02:40:23
+Last updated: 2025-05-05 12:48:21
