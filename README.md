@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Adam Vaughan joins Ontario Place spa developer Therme
-Former city councillor and ex-MP Adam Vaughan, long one of the sharpest critics of Doug Ford's plans for Toronto's waterfront, is now working for Therme Canada, the company developing a luxury spa at Ontario Place.
-[Read more](https://www.cbc.ca/news/canada/toronto/ontario-place-spa-therme-adam-vaughan-1.7525211)
+## Experts Explain: AI as ‘normal’ technology
+It will take decades, not years, for artificial intelligence to transform society in the revolutionary ways that big developer labs and companies have been predicting, say AI researchers at Princeton University. AI, they argue, is a general-purpose technology like electricity which will not make human labour redundant
+[Read more](https://indianexpress.com/article/explained/explained-sci-tech/experts-explain-ai-as-normal-technology-9984804/)
 
 
 
-Last updated: 2025-05-05 12:48:21
+Last updated: 2025-05-06 02:28:49
