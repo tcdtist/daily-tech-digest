@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## 866-unit subdivision being proposed for the outskirts of Arthur
-Developer Tribute/Sorbara Arthur Holdings Inc. has applied to construct an 866-unit housing development at 665 Eliza St. and vacant lands nearby
-[Read more](https://www.guelphtoday.com/wellington-county/866-unit-subdivision-being-proposed-for-the-outskirts-of-arthur-10625433)
+## Developer lodges appeal after demolition works on historic Coventry street stopped
+The planning inspectorate will now make the final decision
+[Read more](https://www.coventrytelegraph.net/news/coventry-news/developer-lodges-appeal-after-demolition-31592864)
 
 
 
-Last updated: 2025-05-08 02:38:16
+Last updated: 2025-05-08 12:48:27
