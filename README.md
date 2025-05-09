@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Developer lodges appeal after demolition works on historic Coventry street stopped
-The planning inspectorate will now make the final decision
-[Read more](https://www.coventrytelegraph.net/news/coventry-news/developer-lodges-appeal-after-demolition-31592864)
+## Helldivers 2 players are putting its new Warbond on blast
+Helldivers 2 developer Arrowhead has finally announced the game's new Masters of Ceremony Warbond, but the disappointing look of its unlocks has left many underwhelmed.
+[Read more](https://www.windowscentral.com/gaming/helldivers-2-players-are-putting-the-underwhelming-new-warbond-on-blast)
 
 
 
-Last updated: 2025-05-08 12:48:27
+Last updated: 2025-05-09 02:37:05
