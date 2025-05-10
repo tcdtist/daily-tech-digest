@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Don’t expect to hear about the Outer Wilds team’s next game for ‘years’
-Outer Wilds developer Mobius Digital is working on a new game, but it might be a very long time before we hear anything about it, the studio’s head of production tells The Verge.
-[Read more](https://www.theverge.com/news/664445/outer-wilds-developer-mobius-digital-new-game)
+## Google I/O 2025: What to expect, including updates to Gemini and Android 16
+Google I/O, Google's biggest developer conference of the year, is nearly upon us. Here's what to expect, including updates to Gemini and Android.
+[Read more](https://techcrunch.com/2025/05/09/google-i-o-2025-what-to-expect-including-updates-to-gemini-and-android-16/)
 
 
 
-Last updated: 2025-05-10 02:25:01
+Last updated: 2025-05-10 12:41:36
