@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Google I/O 2025: What to expect, including updates to Gemini and Android 16
-Google I/O, Google's biggest developer conference of the year, is nearly upon us. Here's what to expect, including updates to Gemini and Android.
-[Read more](https://techcrunch.com/2025/05/09/google-i-o-2025-what-to-expect-including-updates-to-gemini-and-android-16/)
+## Top Stories: iOS 18.5 Release Imminent, iPhone Rumors for 2025 and Beyond, and More
+With Apple's developer conference where it will show off iOS 19 just a month away, the company is wrapping up work on iOS 18.5 ahead of an...
+[Read more](https://www.macrumors.com/2025/05/10/top-stories-ios-18-5-release-imminent-iphone-rumors-for-2025-and-beyond-and-more/)
 
 
 
-Last updated: 2025-05-10 12:41:36
+Last updated: 2025-05-11 02:41:44
