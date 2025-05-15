@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Some of my favorite FPS games are getting big remasters next week
-Several months after STALKER 2's release, developer GSC Game World is launching remasters for the original STALKER trilogy on all of its platforms next week.
-[Read more](https://www.windowscentral.com/gaming/some-of-my-favorite-fps-games-are-getting-big-remasters-next-week-and-youll-get-them-for-free-if-you-own-the-originals)
+## Google I/O 2025: How to watch and what the event schedule tells us
+Google's annual developer conference is next week. Here's what to expect.
+[Read more](https://www.zdnet.com/article/google-io-2025-how-to-watch-and-what-the-event-schedule-tells-us/)
 
 
 
-Last updated: 2025-05-15 02:29:12
+Last updated: 2025-05-15 12:48:51
