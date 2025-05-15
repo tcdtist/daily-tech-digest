@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Google redesigns Android and WearOS ahead of annual developer conference
-Google will release Android 16 and Wear OS 6 this fall, with its Pixel devices being the first to receive the new features.
-[Read more](https://indianexpress.com/article/technology/tech-news-technology/google-redesigns-android-and-wearos-ahead-of-annual-developer-conference-10000001/)
+## Some of my favorite FPS games are getting big remasters next week
+Several months after STALKER 2's release, developer GSC Game World is launching remasters for the original STALKER trilogy on all of its platforms next week.
+[Read more](https://www.windowscentral.com/gaming/some-of-my-favorite-fps-games-are-getting-big-remasters-next-week-and-youll-get-them-for-free-if-you-own-the-originals)
 
 
 
-Last updated: 2025-05-14 12:48:48
+Last updated: 2025-05-15 02:29:12
