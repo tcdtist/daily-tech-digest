@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## City lawyer: waiving fees for student housing a 'windfall' for developer at taxpayer expense
-Student housing proposed for the former Holiday Inn site on Scottsdale Drive should be exempt from development charges, argues developer
-[Read more](https://www.guelphtoday.com/local-news/city-lawyer-waiving-fees-for-student-housing-a-windfall-for-developer-at-taxpayer-expense-10667159)
+## Bungie responds to Marathon art theft controversy, admitting it stole assets
+Following a recent claim from an artist that Bungie stole her artwork for Marathon, the developer has now responded — confirming the theft, and promising to conduct a review of the game's assets.
+[Read more](https://www.windowscentral.com/gaming/bungie-responds-to-marathon-art-theft-controversy-admitting-it-stole-assets-and-blaming-a-former-developer)
 
 
 
-Last updated: 2025-05-16 12:48:37
+Last updated: 2025-05-17 02:27:22
