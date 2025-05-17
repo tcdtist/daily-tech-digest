@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Bungie responds to Marathon art theft controversy, admitting it stole assets
-Following a recent claim from an artist that Bungie stole her artwork for Marathon, the developer has now responded — confirming the theft, and promising to conduct a review of the game's assets.
-[Read more](https://www.windowscentral.com/gaming/bungie-responds-to-marathon-art-theft-controversy-admitting-it-stole-assets-and-blaming-a-former-developer)
+## Google I/O will be an AI show
+Google’s big developer conference used to feature Android front and center. That’s no longer the case.
+[Read more](https://www.theverge.com/tech/667872/google-io-android-16-ai)
 
 
 
-Last updated: 2025-05-17 02:27:22
+Last updated: 2025-05-17 12:42:07
