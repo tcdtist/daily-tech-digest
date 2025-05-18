@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Google I/O will be an AI show
-Google’s big developer conference used to feature Android front and center. That’s no longer the case.
-[Read more](https://www.theverge.com/tech/667872/google-io-android-16-ai)
+## Grollos put Mount Buller hotel stake up for sale
+The developer of Victoria’s alpine regions plans to sell assets for the first time to a small investor. But it has plans that involve big investors, too.
+[Read more](https://www.afr.com/property/commercial/grollos-put-mount-buller-hotel-stake-up-for-sale-20250515-p5lzmm)
 
 
 
-Last updated: 2025-05-17 12:42:07
+Last updated: 2025-05-18 02:44:30
