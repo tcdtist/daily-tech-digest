@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Provincial housing bill could pass developer costs onto taxpayers: local mayor
-Reducing development charges without a sustainable funding alternative may result in the costs of growth being passed onto existing residents, 'and that’s simply not fair,' Aurora mayor says
-[Read more](https://www.bradfordtoday.ca/local-news/provincial-housing-bill-could-pass-developer-costs-onto-taxpayers-local-mayor-10664932)
+## The Witcher 4: Everything we know so far
+Developer, CD Projekt Red, revealed a brand new cinematic trailer for The Witcher 4 at The Game Awards 2024 and more details about the game have emerged in recent interviews.
+[Read more](https://www.indy100.com/gaming/witcher-4-release-date-news-2672120254)
 
 
 
-Last updated: 2025-05-19 02:44:20
+Last updated: 2025-05-19 12:50:29
