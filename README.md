@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Grollos put Mount Buller hotel stake up for sale
-The developer of Victoria’s alpine regions plans to sell assets for the first time to a small investor. But it has plans that involve big investors, too.
-[Read more](https://www.afr.com/property/commercial/grollos-put-mount-buller-hotel-stake-up-for-sale-20250515-p5lzmm)
+## Provincial housing bill could pass developer costs onto taxpayers: local mayor
+Reducing development charges without a sustainable funding alternative may result in the costs of growth being passed onto existing residents, 'and that’s simply not fair,' Aurora mayor says
+[Read more](https://www.bradfordtoday.ca/local-news/provincial-housing-bill-could-pass-developer-costs-onto-taxpayers-local-mayor-10664932)
 
 
 
-Last updated: 2025-05-18 12:42:57
+Last updated: 2025-05-19 02:44:20
