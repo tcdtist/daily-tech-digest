@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Here are all the exciting Android advancements that you'll get... after developers toy with them first
-From smarter AI to immersive XR, these developer tools set the stage for what’s next on your Android device
-[Read more](https://www.phonearena.com/news/here-are-all-the-exciting-android-advancements-that-youll-get_id170587)
+## Google’s Wear OS 6: What’s New, What’s Missing, and What’s… Familiar?
+Google reveals Wear OS 6 with improved battery life, new design language, and developer features. Full release coming later in 2025.
+[Read more](https://www.gizchina.com/2025/05/21/googles-wear-os-6-whats-new-whats-missing-and-whats-familiar/)
 
 
 
-Last updated: 2025-05-21 02:39:25
+Last updated: 2025-05-21 12:49:51
