@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## One of the most promising open-world RPGs releases next week
-Battle your way through this Arthurian legend by the rightfully named developer Questline.
-[Read more](https://www.windowscentral.com/gaming/one-of-the-most-promising-open-world-rpgs-in-years-is-releasing-next-week)
+## Here are all the exciting Android advancements that you'll get... after developers toy with them first
+From smarter AI to immersive XR, these developer tools set the stage for what’s next on your Android device
+[Read more](https://www.phonearena.com/news/here-are-all-the-exciting-android-advancements-that-youll-get_id170587)
 
 
 
-Last updated: 2025-05-20 12:50:24
+Last updated: 2025-05-21 02:39:25
