@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Mary Ronan, separated wife of developer Johnny Ronan, leaves estate valued at €5.6 million
-Pat Veale, former director of property firm PJ Walls Group, left €6.9 million estate, latest Probate Office filings show
-[Read more](https://www.irishtimes.com/ireland/2025/05/25/mary-ronan-separated-wife-of-developer-johnny-ronan-leaves-estate-valued-at-56-million/)
+## Everything from Google I/O 2025 you might've missed: Gemini, smart glasses, and more
+Here's the rundown of every major news story at the annual developer conference earlier this week.
+[Read more](https://www.zdnet.com/article/everything-from-google-io-2025-you-mightve-missed-gemini-smart-glasses-and-more/)
 
 
 
-Last updated: 2025-05-25 12:43:00
+Last updated: 2025-05-26 02:43:26
