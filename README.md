@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Decision blocking Irish investors from pursuing developer of Polish shopping centre overturned
-Fraud alleged by backers of development
-[Read more](https://www.irishtimes.com/crime-law/courts/2025/05/26/decision-blocking-irish-investors-from-pursuing-developer-of-polish-shopping-centre-overturned/)
+## James Bond franchise owners request more time to defend control of 007 spy name
+Exclusive: Dubai-based property developer has challenged trademark registrations over lack of use
+[Read more](https://www.theguardian.com/film/2025/may/27/james-bond-franchise-owners-request-more-time-to-defend-control-of-007-spy-name)
 
 
 
-Last updated: 2025-05-27 02:38:08
+Last updated: 2025-05-27 12:50:23
