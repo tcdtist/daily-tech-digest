@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Everything from Google I/O 2025 you might've missed: Gemini, smart glasses, and more
-Here's the rundown of every major news story at the annual developer conference earlier this week.
-[Read more](https://www.zdnet.com/article/everything-from-google-io-2025-you-mightve-missed-gemini-smart-glasses-and-more/)
+## Decision blocking Irish investors from pursuing developer of Polish shopping centre overturned
+Fraud alleged by backers of development
+[Read more](https://www.irishtimes.com/crime-law/courts/2025/05/26/decision-blocking-irish-investors-from-pursuing-developer-of-polish-shopping-centre-overturned/)
 
 
 
-Last updated: 2025-05-26 12:47:35
+Last updated: 2025-05-27 02:38:08
