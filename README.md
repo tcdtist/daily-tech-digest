@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## James Bond franchise owners request more time to defend control of 007 spy name
-Exclusive: Dubai-based property developer has challenged trademark registrations over lack of use
-[Read more](https://www.theguardian.com/film/2025/may/27/james-bond-franchise-owners-request-more-time-to-defend-control-of-007-spy-name)
+## Apple is ready to replace Game Center with a more Xbox-like gaming app
+Apple plans to announce an app focused on video games for iPhone, iPad, Mac, and Apple TV at WWDC. It also acquired Sneaky Sasquatch developer RAC7.
+[Read more](https://www.theverge.com/news/675241/apple-game-center-app-replace-rac7-sneaky-sasquatch-acquisition)
 
 
 
-Last updated: 2025-05-27 12:50:23
+Last updated: 2025-05-28 02:40:15
