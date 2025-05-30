@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Developer secures financing for new Fulton Market tower
-A tower crane will soon appear at 370 N. Morgan St., the site of the old single-story Fox Deluxe Foods building, where developer Vista Property Group plans to construct a 31-story residential tower.
-[Read more](https://www.chicagotribune.com/2025/05/29/fulton-market-tower/)
+## Apple Flexes $400B App Store Payout - But Not Everyone's Cheering
+According to a recent Apple-funded study, the company paid out 400 billion dollars in developer billings and sales in 2024.
+[Read more](https://www.androidheadlines.com/2025/05/apple-400-billion-dollars-app-store-payout.html)
 
 
 
-Last updated: 2025-05-30 02:38:21
+Last updated: 2025-05-30 12:49:05
