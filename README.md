@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Apple Flexes $400B App Store Payout - But Not Everyone's Cheering
-According to a recent Apple-funded study, the company paid out 400 billion dollars in developer billings and sales in 2024.
-[Read more](https://www.androidheadlines.com/2025/05/apple-400-billion-dollars-app-store-payout.html)
+## AI agents, open standards at Build 2025
+MICROSOFT is placing AI agents at the center of its developer strategy, as showcased at its annual Build 2025 conference.
+[Read more](https://www.manilatimes.net/2025/06/01/business/sunday-business-it/ai-agents-open-standards-at-build-2025/2124503)
 
 
 
-Last updated: 2025-05-31 12:43:30
+Last updated: 2025-06-01 02:58:28
