@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## ‘Humanity deserves better’: iPhone designer on new partnership with OpenAI
-Sir Jony Ive indicates unease over impact of modern technology amid tie-up with ChatGPT developer
-[Read more](https://www.theguardian.com/technology/2025/jun/02/iphone-designer-jonny-ive-openai-chatgpt-smartphones-apple)
+## The big new plan for Greengate
+A property developer has shared new plans
+[Read more](https://www.manchestereveningnews.co.uk/news/greater-manchester-news/big-new-plan-greengate-31773267)
 
 
 
-Last updated: 2025-06-02 12:50:14
+Last updated: 2025-06-03 02:42:19
