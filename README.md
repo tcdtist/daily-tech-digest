@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## The big new plan for Greengate
-A property developer has shared new plans
-[Read more](https://www.manchestereveningnews.co.uk/news/greater-manchester-news/big-new-plan-greengate-31773267)
+## Hitman developer IO Interactive will show off its new James Bond game, 007 First Light, at a special showcase this week
+IO Interactive has announced its new James Bond game, 007 First Light, and it's set to be revealed at a special developer showcase this week.
+[Read more](https://www.techradar.com/gaming/hitman-developer-io-interactive-will-show-off-its-new-james-bond-game-007-first-light-at-a-special-showcase-this-week)
 
 
 
-Last updated: 2025-06-03 02:42:19
+Last updated: 2025-06-03 12:50:50
