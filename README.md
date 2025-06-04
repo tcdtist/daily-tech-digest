@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Hitman developer IO Interactive will show off its new James Bond game, 007 First Light, at a special showcase this week
-IO Interactive has announced its new James Bond game, 007 First Light, and it's set to be revealed at a special developer showcase this week.
-[Read more](https://www.techradar.com/gaming/hitman-developer-io-interactive-will-show-off-its-new-james-bond-game-007-first-light-at-a-special-showcase-this-week)
+## Watch: 'The Witcher 4' tech demo shows Ciri on the hunt
+Video game developer CD Projekt Red showcased its highly anticipated sequel "The Witcher 4" with a tech demo at Unreal Fest on Tuesday.
+[Read more](https://www.upi.com/Entertainment_News/2025/06/03/witcher-4-tech-demo-gameplay-ciri/5791748974712/)
 
 
 
-Last updated: 2025-06-03 12:50:50
+Last updated: 2025-06-04 02:42:47
