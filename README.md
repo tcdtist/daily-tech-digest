@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Apple is on defense at WWDC
-Apple is in a uniquely weak position coming into its annual developer conference.
-[Read more](https://www.theverge.com/apple/681739/wwdc-2025-epic-trial-apple-intelligence)
+## BEYOND LOCAL: It's a 'mess' - Developer builds 'road' through protected wetland
+'It's upsetting for me as well,' says Severn Township mayor, noting the township has no jurisdiction to step in. 'We notified the MNR,' he says
+[Read more](https://www.bradfordtoday.ca/local-news/beyond-local-its-a-mess-developer-builds-road-through-protected-wetland-10773837)
 
 
 
-Last updated: 2025-06-07 12:44:12
+Last updated: 2025-06-08 02:50:23
