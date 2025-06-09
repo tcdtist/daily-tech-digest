@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Bentley driving drug kingpin posing as property developer ran cannabis empire worth millions
-Roman Le claimed he was a legitimate property developer in Birmingham, but actually fronted an organised crime gang capable of producing millions of pounds worth of cannabis
-[Read more](https://www.birminghammail.co.uk/news/midlands-news/bentley-driving-drug-kingpin-posing-31805230)
+## Vampire Survivors developer poncle dives into publishing with chaotic keyboard-bashing game Berserk or Die
+poncle and Nao Games launch keyboard-bashing action game Berserk or Die on Steam.
+[Read more](https://www.altchar.com/game-news/vampire-survivors-developer-poncle-dives-into-publishing-with-chaotic-keyboard-bashing-game-berserk-or-die-arFLQ5h7jnPm)
 
 
 
-Last updated: 2025-06-08 12:43:54
+Last updated: 2025-06-09 02:48:28
