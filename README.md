@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Vampire Survivors developer poncle dives into publishing with chaotic keyboard-bashing game Berserk or Die
-poncle and Nao Games launch keyboard-bashing action game Berserk or Die on Steam.
-[Read more](https://www.altchar.com/game-news/vampire-survivors-developer-poncle-dives-into-publishing-with-chaotic-keyboard-bashing-game-berserk-or-die-arFLQ5h7jnPm)
+## The first developer betas for iOS 26, macOS Tahoe, and more are now available
+The developer betas for iOS 26, iPadOS 26, watchOS 26, tvOS 26, visionOS 26, and macOS Tahoe are now available for download.
+[Read more](https://www.theverge.com/news/682871/apple-developer-beta-ios-26-watchos-26-macos-availability)
 
 
 
-Last updated: 2025-06-09 12:50:19
+Last updated: 2025-06-10 02:44:25
