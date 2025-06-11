@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## MacOS Tahoe 26 hands-on: Spotlight changes and Liquid Glass everywhere
-macOS Tahoe 26 developer beta 1 is here, with our first glimpse at Liquid Glass on the desktop, plus the first glimmers of Spotlight’s big new moves.
-[Read more](https://www.theverge.com/apple/685052/apple-macos-tahoe-26-beta-hands-on-liquid-glass-themes-spotlight)
+## Ambrosia Sky preview: A gorgeous sci-fi game all about death
+Ambrosia Sky is the debut title from developer Soft Rains, and I played this gorgeous science-fiction game at Summer Game Fest 2025.
+[Read more](https://www.windowscentral.com/gaming/pc-gaming/ambrosia-sky-summer-game-fest-2025)
 
 
 
-Last updated: 2025-06-11 02:43:33
+Last updated: 2025-06-11 12:50:42
