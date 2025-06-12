@@ -8,4 +8,4 @@ The long awaited plan to redevelop a portion of the Kelowna Springs golf course 
 
 
 
-Last updated: 2025-06-12 02:42:30
+Last updated: 2025-06-12 12:50:05
