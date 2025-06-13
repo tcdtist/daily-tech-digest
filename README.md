@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Bloober Team and Konami Announce Silent Hill Remake
-Following the successeful remake of Silent Hill 2, Bloober and Konami are teaming up to developer a remake of the first Silent Hill game.
-[Read more](https://www.altchar.com/game-news/bloober-team-and-konami-announce-silent-hill-remake-aTgo13D1j7gx)
+## iOS 26 beta is available to download on your iPhone now. Here's how to get it
+The latest iPhone developer beta includes one of the biggest iOS redesigns ever. Here's how to download it on a compatible iPhone.
+[Read more](https://www.zdnet.com/article/ios-26-beta-is-available-to-download-on-your-iphone-now-heres-how-to-get-it/)
 
 
 
-Last updated: 2025-06-13 02:43:36
+Last updated: 2025-06-13 12:49:36
