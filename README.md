@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Developer formally submits plans to redevelop portion of Kelowna Springs golf course
-The long awaited plan to redevelop a portion of the Kelowna Springs golf course property has now been submitted to Kelowna’s planning department.
-[Read more](https://www.castanet.net/news/Kelowna/555727/Developer-formally-submits-plans-to-redevelop-portion-of-Kelowna-Springs-golf-course)
+## Bloober Team and Konami Announce Silent Hill Remake
+Following the successeful remake of Silent Hill 2, Bloober and Konami are teaming up to developer a remake of the first Silent Hill game.
+[Read more](https://www.altchar.com/game-news/bloober-team-and-konami-announce-silent-hill-remake-aTgo13D1j7gx)
 
 
 
-Last updated: 2025-06-12 12:50:05
+Last updated: 2025-06-13 02:43:36
