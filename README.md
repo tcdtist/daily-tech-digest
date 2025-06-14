@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## iOS 26 beta is available to download on your iPhone now. Here's how to get it
-The latest iPhone developer beta includes one of the biggest iOS redesigns ever. Here's how to download it on a compatible iPhone.
-[Read more](https://www.zdnet.com/article/ios-26-beta-is-available-to-download-on-your-iphone-now-heres-how-to-get-it/)
+## Senator's RISE Act would require AI developers to list training data, evaluation methods in exchange for 'safe harbor' from lawsuits
+The developer must also publish known failure modes, keep all documentation current, and push updates within 30 days of a version change.
+[Read more](https://venturebeat.com/ai/senators-rise-act-would-require-ai-developers-to-list-training-data-evaluation-methods-in-exchange-for-safe-harbor-from-lawsuits/)
 
 
 
-Last updated: 2025-06-14 02:37:56
+Last updated: 2025-06-14 12:44:08
