@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Dubai: Over 3,500 Residents Evacuated Safely After High-rise Catches Fire
-The DMO said the authorities are working closely with the building's developer to arrange temporary housing for the affected residents
-[Read more](https://www.deccanchronicle.com/dubai-over-3500-residents-evacuated-safely-after-high-rise-catches-fire)
+## Erin developer says he'll to 'take measures' after council defers project
+Council deferred site plan approval until they have more information about the development's impact on traffic and groundwater
+[Read more](https://www.guelphtoday.com/wellington-county/erin-developer-says-hell-to-take-measures-after-council-defers-project-10805423)
 
 
 
-Last updated: 2025-06-15 12:45:00
+Last updated: 2025-06-16 02:47:51
