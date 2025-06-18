@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## The Battlefield X Mass Effect Crossover Gives Me The Ick
-Battlefield 2042 is getting Mass Effect cosmetics months after EA gutted its developer
-[Read more](https://kotaku.com/battlefield-2042-mass-effect-cosmetics-gun-armor-dlc-1851784693)
+## OpenAI moves forward with GPT-4.5 deprecation in API, triggering developer anguish and confusion
+Despite the strong reaction, OpenAI had in fact already announced the plan to deprecate GPT-4.5 Preview back in April 2025.
+[Read more](https://venturebeat.com/ai/openai-moves-forward-with-gpt-4-5-deprecation-in-api-triggering-developer-anguish-and-confusion/)
 
 
 
-Last updated: 2025-06-18 02:43:01
+Last updated: 2025-06-18 12:51:08
