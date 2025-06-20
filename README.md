@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## "So many amazing Forgers have just given up" - Halo Infinite just lost its best Forge creators over lack of support
-A team of the best Forge creators in Halo Infinite is leaving the game due to frustrations with a lack of support from developer Halo Studios.
-[Read more](https://www.windowscentral.com/gaming/halo-infinite-just-lost-its-best-forge-creators-over-lack-of-support)
+## Blood Message Is NetEase Games' First AAA Single-Player Title
+NetEase and the developer of Naraka Bladepoint have just dropped a stunning trailer for their first AAA single-player action adventure called Blood Message.
+[Read more](https://www.altchar.com/game-news/blood-message-is-netease-games-first-aaa-single-player-title-avHio6g9lTRH)
 
 
 
-Last updated: 2025-06-20 02:43:25
+Last updated: 2025-06-20 12:49:59
