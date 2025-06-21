@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Blood Message Is NetEase Games' First AAA Single-Player Title
-NetEase and the developer of Naraka Bladepoint have just dropped a stunning trailer for their first AAA single-player action adventure called Blood Message.
-[Read more](https://www.altchar.com/game-news/blood-message-is-netease-games-first-aaa-single-player-title-avHio6g9lTRH)
+## Apple seeks to improve AI capabilities through Perplexity deal
+Following an underwhelming AI offering at their Worldwide Developer’s Conference, Apple is making moves to strengthen their AI capabilities.
+[Read more](https://www.afr.com/companies/telecommunications/apple-execs-held-internal-talks-about-buying-ai-startup-perplexity-20250621-p5m97m)
 
 
 
-Last updated: 2025-06-20 12:49:59
+Last updated: 2025-06-21 02:38:47
