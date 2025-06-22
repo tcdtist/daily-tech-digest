@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Apple seeks to improve AI capabilities through Perplexity deal
-Following an underwhelming AI offering at their Worldwide Developer’s Conference, Apple is making moves to strengthen their AI capabilities.
-[Read more](https://www.afr.com/companies/telecommunications/apple-execs-held-internal-talks-about-buying-ai-startup-perplexity-20250621-p5m97m)
+## Mount Forest developer feels municipality is asking for too much
+Unless it changes its mind, the developer says the Cork Street reconstruction that is part of a development will end up before the Ontario Land Tribunal
+[Read more](https://www.guelphtoday.com/wellington-county/mount-forest-developer-feels-municipality-is-asking-for-too-much-10834740)
 
 
 
-Last updated: 2025-06-21 12:44:54
+Last updated: 2025-06-22 02:52:01
