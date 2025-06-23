@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## 'Brought back to life': Developer wants to restore local heritage home
-City Park Homes presented a plan to Newmarket's heritage committee for Bogart House, which has been boarded up and deteriorating for years
-[Read more](https://www.bradfordtoday.ca/local-news/brought-back-to-life-developer-wants-to-restore-local-heritage-home-10832905)
+## OpenAI takes down mentions of Jony Ive’s io amid trademark row
+ChatGPT developer forced to act after receiving legal complaint from earbud maker iyO
+[Read more](https://www.theguardian.com/technology/2025/jun/23/openai-jony-ive-io-amid-trademark-iyo)
 
 
 
-Last updated: 2025-06-23 02:52:11
+Last updated: 2025-06-23 12:51:54
