@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## OpenAI takes down mentions of Jony Ive’s io amid trademark row
-ChatGPT developer forced to act after receiving legal complaint from earbud maker iyO
-[Read more](https://www.theguardian.com/technology/2025/jun/23/openai-jony-ive-io-amid-trademark-iyo)
+## Apple releases iOS 26 Developer Beta 2 with new features and a clue about the iPhone 17 Air
+Apple releases the next Developer Beta for iOS 26 which includes a clue about the iPhone 17 Air's display.
+[Read more](https://www.phonearena.com/news/ios-26-developer-beta-2-contains-clue-about-iphone-17-air-display_id171616)
 
 
 
-Last updated: 2025-06-23 12:51:54
+Last updated: 2025-06-24 02:44:49
