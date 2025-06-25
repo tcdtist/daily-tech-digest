@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Apple releases iOS 26 Developer Beta 2 with new features and a clue about the iPhone 17 Air
-Apple releases the next Developer Beta for iOS 26 which includes a clue about the iPhone 17 Air's display.
-[Read more](https://www.phonearena.com/news/ios-26-developer-beta-2-contains-clue-about-iphone-17-air-display_id171616)
+## iOS 26 Update Can Wait: Apple Brings iOS 18.6 Beta For iPhone Users With These Features
+iOS 18.6 beta has come out for iPhone users as Apple sets the base for the iOS 26 version with the developer version for now.
+[Read more](https://www.news18.com/tech/ios-26-update-can-wait-apple-brings-ios-18-6-beta-for-iphone-users-with-these-features-9402305.html)
 
 
 
-Last updated: 2025-06-24 12:51:10
+Last updated: 2025-06-25 02:45:40
