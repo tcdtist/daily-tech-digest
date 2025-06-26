@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## The Outer Worlds 2, the most expensive Xbox game yet
-Xbox is putting a lot behind its new space action-RPG sequel – which will be the first $80/£70 video game from Microsoft. Does it earn its price tag? We asked the developer what went into it
-[Read more](https://www.theguardian.com/games/2025/jun/25/the-outer-worlds-2-the-most-expensive-xbox-game-yet)
+## Top Startup and Tech Funding News - June 25, 2025
+It’s Wednesday, June 25, 2025, and the midweek tech funding push is strong. Today’s deals reveal where the smartest money is going—AI infrastructure, prediction markets, developer tools, and privacy-first encryption. From bold Series C plays to scrappy seed rounds, startups are attracting capital to rewire everything from how we bet on global events to how
+[Read more](https://techstartups.com/2025/06/25/top-startup-and-tech-funding-news-june-25-2025/)
 
 
 
-Last updated: 2025-06-25 12:51:51
+Last updated: 2025-06-26 02:44:26
