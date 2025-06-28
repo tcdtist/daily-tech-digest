@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Google Photos merges classic search with AI to speed up results
-The AI feature, first introduced at Google's I/O developer conference last year, allows users to search across their collection of digital photos using natural language queries.
-[Read more](https://techcrunch.com/2025/06/26/google-photos-merges-classic-search-with-ai-to-speed-up-results/)
+## Developer acquires 422 acres near expanding McKinney airport in ‘significant’ land deal
+Holley Development Company, a Texas commercial real estate development firm founded last year, has acquired 422 acres of land near the expanding McKinney...
+[Read more](https://www.dallasnews.com/business/real-estate/2025/06/27/developer-acquires-422-acres-near-expanding-mckinney-airport-in-significant-land-deal/)
 
 
 
-Last updated: 2025-06-27 12:49:51
+Last updated: 2025-06-28 02:40:00
