@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Developer acquires 422 acres near expanding McKinney airport in ‘significant’ land deal
-Holley Development Company, a Texas commercial real estate development firm founded last year, has acquired 422 acres of land near the expanding McKinney...
-[Read more](https://www.dallasnews.com/business/real-estate/2025/06/27/developer-acquires-422-acres-near-expanding-mckinney-airport-in-significant-land-deal/)
+## ICYMI: Prominent Guelph developer files for bankruptcy
+A number of companies attached to local developer Reid's Heritage Properties are in financial trouble
+[Read more](https://www.guelphtoday.com/local-news/icymi-prominent-guelph-developer-files-for-bankruptcy-10875372)
 
 
 
-Last updated: 2025-06-28 12:45:20
+Last updated: 2025-06-29 02:55:01
