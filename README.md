@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## The Sunday Seven: Prominent local developer in deep financial trouble files for bankruptcy
-Texan brings barbecue to Guelph, Jesuits of Canada suing for $7.2 million and man making garbage cans smile made headlines this week
-[Read more](https://www.guelphtoday.com/local-news/the-sunday-seven-prominent-local-developer-in-deep-financial-trouble-files-for-bankruptcy-10873102)
+## Details emerge amid former Neighbours star Holly Valance’s split from billionaire husband
+The former Neighbours actress and property developer are prominent figures in the right-wing Reform UK party.
+[Read more](https://www.perthnow.com.au/entertainment/details-emerge-amid-former-neighbours-star-holly-valances-split-from-billionaire-husband-c-19192412)
 
 
 
-Last updated: 2025-06-29 12:46:24
+Last updated: 2025-06-30 02:50:48
