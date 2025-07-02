@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Millions in developer cash could be poured into huge city revamp
-Proposals for the Fabric District are currently under consultation
-[Read more](https://www.liverpoolecho.co.uk/news/liverpool-news/millions-developer-cash-could-poured-31963227)
+## Optibrium partners with TalTech on EU-funded PhD program to advance sustainable drug discovery
+Optibrium, a leading developer of software and AI solutions for molecular design, today announced its partnership with TalTech (Tallinn University of Technology) to co-supervise an EU-funded PhD position as part of the INNOCHEMBIO programme.
+[Read more](https://www.news-medical.net/news/20250702/Optibrium-partners-with-TalTech-on-EU-funded-PhD-program-to-advance-sustainable-drug-discovery.aspx)
 
 
 
-Last updated: 2025-07-02 02:45:06
+Last updated: 2025-07-02 12:50:59
