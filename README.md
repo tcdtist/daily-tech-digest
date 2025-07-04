@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## The big "Stop Killing Games" petition just hit 1 million signatures - in partial thanks to one dev who tried to kill it
-#StopKillingGames completed its goal despite one prominent developer opposing the movement.
-[Read more](https://www.windowscentral.com/gaming/the-big-stop-killing-games-petition-just-hit-1-million-signatures-in-partial-thanks-to-one-dev-who-tried-to-kill-it)
+## Better late than never as homes plan site finally set for construction
+Developer reveals plan for eight new semi-detached homes in Kingshurst
+[Read more](https://www.birminghammail.co.uk/news/midlands-news/better-late-never-homes-plan-31992364)
 
 
 
-Last updated: 2025-07-04 02:44:54
+Last updated: 2025-07-04 12:49:47
