@@ -8,4 +8,4 @@ Cursor has issued a clarification that they “missed the mark” with the updat
 
 
 
-Last updated: 2025-07-05 12:45:41
+Last updated: 2025-07-06 02:53:29
