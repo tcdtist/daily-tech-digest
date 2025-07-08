@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Biosynth expands Berlin site with a new commercial bioconjugation suite
-Biosynth, a leading developer and supplier of critical raw materials and services for life sciences and diagnostics, is pleased to announce the opening of its expanded GMP bioconjugation facility at its existing Berlin site.
-[Read more](https://www.news-medical.net/news/20250707/Biosynth-expands-Berlin-site-with-a-new-commercial-bioconjugation-suite.aspx)
+## Apple just added more frost to its Liquid Glass design
+Apple just changed its Liquid Glass design again. In the third iOS 26 developer beta, Apple made the design elements more opaque following complaints about readability.
+[Read more](https://www.theverge.com/news/700066/apple-liquid-glass-frosted-ios-26-developer-beta)
 
 
 
-Last updated: 2025-07-07 12:51:24
+Last updated: 2025-07-08 02:46:21
