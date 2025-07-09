@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Lifestyle Communities shares plunge after tribunal ruling
-Following a judgment that found its lucrative exit fees were invalid, the listed property developer’s stock tumbled.
-[Read more](https://www.afr.com/property/commercial/lifestyle-communities-shares-plunge-after-tribunal-ruling-20250709-p5mdm4)
+## 3 reasons to buy NextDC shares today
+Up 37% since April, we look at three reasons that data centre developer NextDC Ltd (ASX: NXT) shares can keep charging higher into 2026.
+[Read more](https://www.fool.com.au/2025/07/09/3-reasons-to-buy-nextdc-shares-today/)
 
 
 
-Last updated: 2025-07-09 02:48:20
+Last updated: 2025-07-09 12:51:27
