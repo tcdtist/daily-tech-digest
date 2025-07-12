@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Google drops 'Android Canary Release Channel' to build the future of foldables
-If you're a developer looking to dive deeper into Android, this is for you.
-[Read more](https://www.androidcentral.com/apps-software/android-os/google-android-canary-release-channel-devs-rigorous-testing-pixels)
+## Wyoming's new coal mine to extract rare earths
+The developer of what would be the first new coal mine in Wyoming in decades is launching a potentially half-billion-dollar effort to extract rare earth metals from the fossil fuel that are crucial for tech products and military hardware.
+[Read more](https://www.cp24.com/news/world/2025/07/11/wyomings-first-new-coal-mine-in-decades-to-extract-rare-earths/)
 
 
 
-Last updated: 2025-07-11 12:50:35
+Last updated: 2025-07-12 02:51:10
