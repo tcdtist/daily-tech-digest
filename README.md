@@ -8,4 +8,4 @@ The developer of what would be the first new coal mine in Wyoming in decades is 
 
 
 
-Last updated: 2025-07-12 12:47:28
+Last updated: 2025-07-13 02:59:00
