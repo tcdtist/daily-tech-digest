@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Thinking Machines first product coming in months, open source
-Backed by $2B and with OpenAI’s open-weight model now in limbo, Thinking Machines could capture developer attention and interest.
-[Read more](https://venturebeat.com/ai/mira-murati-says-her-startup-thinking-machines-will-release-new-product-in-months-with-significant-open-source-component/)
+## Fugitive daughter Ashlyn Nassif seeks to have $150m fraud case thrown out of court
+The glamorous daughter of a controversial property developer is hoping to get her $150m fraud case, linked to her fugitive father, thrown out of court.
+[Read more](https://www.perthnow.com.au/entertainment/fugitive-daughter-ashlyn-nassif-seeks-to-have-150m-fraud-case-thrown-out-of-court-c-19374495)
 
 
 
-Last updated: 2025-07-16 02:52:19
+Last updated: 2025-07-16 12:54:05
