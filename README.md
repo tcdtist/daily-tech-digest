@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Tampa Bay Rays sale reportedly expected to be completed by September for $1.7 billion
-A group led by developer Patrick Zalupski is reportedly working to keep the team in Tampa rather than moving to St. Petersburg.
-[Read more](https://au.sports.yahoo.com/tampa-bay-rays-sale-reportedly-expected-to-be-completed-by-september-for-17-billion-213630838.html)
+## Thinking Machines first product coming in months, open source
+Backed by $2B and with OpenAI’s open-weight model now in limbo, Thinking Machines could capture developer attention and interest.
+[Read more](https://venturebeat.com/ai/mira-murati-says-her-startup-thinking-machines-will-release-new-product-in-months-with-significant-open-source-component/)
 
 
 
-Last updated: 2025-07-15 12:53:22
+Last updated: 2025-07-16 02:52:19
