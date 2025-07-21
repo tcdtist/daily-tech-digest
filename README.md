@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Developer Jreissati cuts $1.5m from Eureka Tower penthouse price
-It’s the latest effort by the family to sell their level-82 apartment in a building one pundit calls the city’s ‘white elephant’.
-[Read more](https://www.afr.com/property/residential/developer-jreissati-cuts-1-5m-from-eureka-tower-penthouse-price-20250718-p5mfwk)
+## Developer eyes $80m Bondi site for luxury apartments
+A series of shopfronts banded together to become Bondi Beach’s largest development site, selling for $80 million.
+[Read more](https://www.afr.com/property/commercial/bondi-beach-s-post-office-eyed-for-luxury-apartments-20250721-p5mgfo)
 
 
 
-Last updated: 2025-07-21 03:01:26
+Last updated: 2025-07-21 12:54:45
