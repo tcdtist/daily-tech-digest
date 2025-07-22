@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Brighton Studio The Chinese Room Completes Management Buyout, Reclaims Independence from Tencent
-The Chinese Room, a Brighton-based developer, has officially announced its independence from Sumo Digital in a statement released in the UK. Sumo Digital, formerly the parent company of The Chinese Ro
-[Read more](https://www.invenglobal.com/articles/19486/brighton-studio-the-chinese-room-completes-management-buyout-reclaims-independence-from-tencent)
+## Kaiju No. 8 THE GAME Surpasses 500,000 Pre-Registrations, Unlocks Mina Ashiro Reward
+Kaiju No. 8 THE GAME, the forthcoming mobile and PC adaptation of Naoya Matsumoto's best-selling manga and anime, has cleared 500,000 pre-registrations, developer Akatsuki Games announced Monday. That
+[Read more](https://www.invenglobal.com/articles/19488/kaiju-no-8-the-game-surpasses-500000-pre-registrations-unlocks-mina-ashiro-reward)
 
 
 
-Last updated: 2025-07-22 02:54:22
+Last updated: 2025-07-22 12:54:46
