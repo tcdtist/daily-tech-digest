@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Kaiju No. 8 THE GAME Surpasses 500,000 Pre-Registrations, Unlocks Mina Ashiro Reward
-Kaiju No. 8 THE GAME, the forthcoming mobile and PC adaptation of Naoya Matsumoto's best-selling manga and anime, has cleared 500,000 pre-registrations, developer Akatsuki Games announced Monday. That
-[Read more](https://www.invenglobal.com/articles/19488/kaiju-no-8-the-game-surpasses-500000-pre-registrations-unlocks-mina-ashiro-reward)
+## Bengaluru software developer beats iron deficiency with this plant protein in her diet: Why masoor dal can be every woman’s anaemia fighter
+Unlike the iron in animal protein, the iron in masoor dal comes with its own absorption boosters: Ridhima Khamesra
+[Read more](https://indianexpress.com/article/health-wellness/bengaluru-software-developer-beats-iron-deficiency-with-this-plant-protein-in-her-diet-why-masoor-dal-can-be-every-womans-anaemia-fighter-10143478/)
 
 
 
-Last updated: 2025-07-22 12:54:46
+Last updated: 2025-07-23 02:55:48
