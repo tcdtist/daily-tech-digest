@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## RIP Julian LeFay, The Father Of The Elder Scrolls
-The lead developer on The Elder Scrolls: Arena and Daggerfall died yesterday
-[Read more](https://kotaku.com/julian-lefay-the-elder-scrolls-daggerfall-bethesda-1851786769)
+## $110,000 coffee date: CFMEU peace deal revealed as rot spreads north
+A peace deal between a gangland associate and a Gold Coast developer has sparked calls for company bosses and gangland figures to join unionists at an inquiry.
+[Read more](https://www.afr.com/politics/110k-coffee-date-cfmeu-peace-deal-revealed-as-rot-spreads-north-20250723-p5mhc8)
 
 
 
-Last updated: 2025-07-23 12:54:57
+Last updated: 2025-07-24 02:54:30
