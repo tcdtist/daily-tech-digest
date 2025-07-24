@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## $110,000 coffee date: CFMEU peace deal revealed as rot spreads north
-A peace deal between a gangland associate and a Gold Coast developer has sparked calls for company bosses and gangland figures to join unionists at an inquiry.
-[Read more](https://www.afr.com/politics/110k-coffee-date-cfmeu-peace-deal-revealed-as-rot-spreads-north-20250723-p5mhc8)
+## Beachside hotel, conference centre and apartments part of Tasmanian developer's latest plans
+Developer Errol Stewart has released plans for more than $100 million of projects in Tasmania, including a beachside hotel in Burnie and a conference centre in Launceston.
+[Read more](https://www.abc.net.au/news/2025-07-24/developer-errol-stewart-hotel-conference-apartment-plans/105563864)
 
 
 
-Last updated: 2025-07-24 02:54:30
+Last updated: 2025-07-24 12:54:22
