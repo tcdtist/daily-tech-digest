@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Rep. Ralph Norman, among House’s most conservative, set to enter South Carolina governor’s race
-The wealthy real estate developer and longtime ally of former Gov. Nikki Haley is expected to file his candidacy paperwork with state officials on Friday.
-[Read more](https://www.wistv.com/2025/07/25/rep-ralph-norman-among-houses-most-conservative-set-enter-south-carolina-governors-race/)
+## MindsEye Delays Hitman Mission And Devs Promise More Updates
+MindsEye developer Build A Rocket Boy is focusing on fixing the game before adding new content
+[Read more](https://kotaku.com/mindseye-worst-game-2025-update-hitman-crossover-delay-1851787011)
 
 
 
-Last updated: 2025-07-25 12:53:10
+Last updated: 2025-07-26 02:49:12
