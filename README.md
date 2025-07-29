@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Horizon Quantum Joins the QuEra Quantum Alliance, Strengthening Quantum Software Ecosystem
-Press Release Horizon Quantum Computing Pte. Ltd. (“Horizon Quantum”), a developer of advanced software development tools for quantum computers, and QuEra Computing, the leader in neutral-atom quantum computing, today announced that Horizon Quantum has joined the QuEra…
-[Read more](https://venturebeat.com/business/horizon-quantum-joins-the-quera-quantum-alliance-strengthening-quantum-software-ecosystem/)
+## Amazon's AI coding agent was hacked - update now to avoid possible risks, users warned
+Amazon Q Developer Extension updated to avoid threats
+[Read more](https://www.techradar.com/pro/amazon-ai-coding-agent-hacked-to-inject-data-wiping-commands)
 
 
 
-Last updated: 2025-07-28 12:55:36
+Last updated: 2025-07-29 03:06:08
