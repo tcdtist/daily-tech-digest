@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Almost 100 new homes to be built on 'dormant' sites
-The developer's director say the project will be "crucial" in addressing the area's housing needs
-[Read more](https://www.liverpoolecho.co.uk/news/liverpool-news/almost-100-new-homes-built-32157919)
+## Spain to expand antitrust investigation into App Store pricing rules
+Spain’s competition watchdog is expanding its own investigation, citing “new evidence” related to Apple’s developer pricing rules.
+[Read more](https://9to5mac.com/2025/07/29/spain-to-expand-antitrust-investigation-into-app-store-pricing-rules/)
 
 
 
-Last updated: 2025-07-29 12:56:10
+Last updated: 2025-07-30 02:58:50
