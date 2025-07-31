@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Drugs kingpin who posed as property developer to run multi million cannabis empire is jailed
-Roman Le, aged 38, from Birmingham, headed a gang who operated at least eight farms in residential and commercial properties
-[Read more](https://www.birminghammail.co.uk/news/midlands-news/drugs-kingpin-who-posed-property-32166030)
+## Figma prices IPO at $33, above expected range
+Software developer Figma is poised to debut on the New York Stock Exchange on Thursday, becoming the latest high-profile tech company to go public.
+[Read more](https://www.cnbc.com/2025/07/30/figma-prices-ipo-at-33-above-expected-range.html)
 
 
 
-Last updated: 2025-07-30 12:55:54
+Last updated: 2025-07-31 02:58:08
