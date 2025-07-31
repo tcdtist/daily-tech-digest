@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Figma prices IPO at $33, above expected range
-Software developer Figma is poised to debut on the New York Stock Exchange on Thursday, becoming the latest high-profile tech company to go public.
-[Read more](https://www.cnbc.com/2025/07/30/figma-prices-ipo-at-33-above-expected-range.html)
+## Smilegate launches Mmorpg “Lordnine: Infinite Class” in 9 Asian nations
+GLOBAL game developer and publisher Smilegate announces the official launch of its new massively multiplayer online role-playing game (Mmorpg), “Lordnine: Infinite Class” (developed by NX3GAMES), in nine Asian nations, including the Philippines on Friday.
+[Read more](https://www.manilatimes.net/2025/07/31/tmt-newswire/smilegate-launches-mmorpg-lordnine-infinite-class-in-9-asian-nations/2159456)
 
 
 
-Last updated: 2025-07-31 02:58:08
+Last updated: 2025-07-31 12:54:28
