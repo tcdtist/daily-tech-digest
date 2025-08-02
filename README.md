@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Battlefield 6 developer reveals Classes will result in a major change for players
-A ​Battlefield 6​ developer has given more detailed insight into exactly how Classes will work in the upcoming game and how they will have a significant impact on gaining XP and progression.
-[Read more](https://www.indy100.com/gaming/battlefield-6-classes-thoughts-first-impressions-preview-gameplay-maps-release-date)
+## macOS Tahoe Review: Spotlight Shines, Liquid Glass Disappoints
+We're on the fourth developer beta and first public beta of macOS Tahoe, which means we're getting closer to the launch version that's...
+[Read more](https://www.macrumors.com/2025/08/01/macos-tahoe-review/)
 
 
 
-Last updated: 2025-08-01 12:54:56
+Last updated: 2025-08-02 02:50:18
