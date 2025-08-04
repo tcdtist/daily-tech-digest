@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## CitiGlobal targets Tagaytay market with P6.5-b project
-CitiGlobal Realty and Development, Inc., a real estate developer specializing in affordable, income-generating leisure properties, is aiming for a
-[Read more](https://manilastandard.net/business/314625324/citiglobal-targets-tagaytay-market-with-p6-5-b-project.html)
+## Nintendo’s Palworld Lawsuit Is Probably Just The Beginning
+Nintendo’s lawsuit against Palworld and its developer is unlikely to be the last of its kind, and that could cause a huge problem for the industry.
+[Read more](https://screenrant.com/nintendo-palworld-lawsuit-sony-originality/)
 
 
 
-Last updated: 2025-08-03 12:52:47
+Last updated: 2025-08-04 03:08:54
