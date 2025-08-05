@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## D.C. Zoning Commission signs off on smaller McMillan grocery store
-D.C.’s Zoning Commission approved developer Jair Lynch’s request to scale back a planned grocery store in the new Reservoir District neighborhood.
-[Read more](https://www.washingtonpost.com/dc-md-va/2025/08/04/jair-lynch-mcmillan-grocery-approved/)
+## Watch out - those Firefox add-ons could be a real threat to your entire system, Mozilla warns
+Mozilla's add-on developer community is under attack
+[Read more](https://www.techradar.com/pro/security/watch-out-those-firefox-add-ons-could-be-a-real-threat-to-your-entire-system-mozilla-warns)
 
 
 
-Last updated: 2025-08-05 03:01:34
+Last updated: 2025-08-05 12:56:56
