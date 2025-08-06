@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Everything New in iOS 26 Beta 5
-Apple seeded the fifth developer beta of iOS 26 today, and while the number of significant changes has dropped, there are quite a few smaller tweaks....
-[Read more](https://www.macrumors.com/2025/08/05/ios-26-beta-5-features/)
+## macOS Tahoe dev beta 5 just dropped - here's 3 new features for your Mac
+macOS Tahoe 26's latest developer beta is all about the look and feel of the new operating system.
+[Read more](https://www.tomsguide.com/computing/macos/macos-tahoe-dev-beta-5-just-dropped-heres-3-new-features-for-your-mac)
 
 
 
-Last updated: 2025-08-06 02:59:50
+Last updated: 2025-08-06 12:56:48
