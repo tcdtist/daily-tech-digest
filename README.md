@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Watch out - those Firefox add-ons could be a real threat to your entire system, Mozilla warns
-Mozilla's add-on developer community is under attack
-[Read more](https://www.techradar.com/pro/security/watch-out-those-firefox-add-ons-could-be-a-real-threat-to-your-entire-system-mozilla-warns)
+## Everything New in iOS 26 Beta 5
+Apple seeded the fifth developer beta of iOS 26 today, and while the number of significant changes has dropped, there are quite a few smaller tweaks....
+[Read more](https://www.macrumors.com/2025/08/05/ios-26-beta-5-features/)
 
 
 
-Last updated: 2025-08-05 12:56:56
+Last updated: 2025-08-06 02:59:50
