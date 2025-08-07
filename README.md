@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Hideo Kojima corrects himself with a flex
-The veteran game developer made a mistake when sharing how many players are still in Death Stranding 2 after rolling credits on the PS5 game.
-[Read more](https://www.gamesradar.com/video/oPuPKlrj/hideo-kojima-corrects-himself-with-a-flex/)
+## School’s £40k dream playground gets boost
+A developer behind hundreds of homes has donated £1,000 to help turn a school’s dream outdoor classroom into reality
+[Read more](https://www.devonlive.com/news/devon-news/schools-40k-dream-playground-gets-10403793)
 
 
 
-Last updated: 2025-08-07 03:00:01
+Last updated: 2025-08-07 12:56:11
