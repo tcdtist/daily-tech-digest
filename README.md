@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Who will pay for the $400M LSU arena? Project expert Engquist explains
-Well-known Baton Rouge developer John Engquist is passionate about the LSU arena coming to fruition.
-[Read more](https://www.wbrz.com/news/who-will-pay-for-the-400m-lsu-arena-project-expert-engquist-explains)
+## Iress spruiks ‘transformation’ as it ponders interest from PE suitors
+The developer of a popular stockbroking platform has posted flat profits but says the turnaround of its business is under way, with money available for growth.
+[Read more](https://www.afr.com/companies/financial-services/iress-spruiks-transformation-as-it-ponders-interest-from-pe-suitors-20250811-p5mlvv)
 
 
 
-Last updated: 2025-08-10 12:49:33
+Last updated: 2025-08-11 02:59:08
