@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Iress spruiks ‘transformation’ as it ponders interest from PE suitors
-The developer of a popular stockbroking platform has posted flat profits but says the turnaround of its business is under way, with money available for growth.
-[Read more](https://www.afr.com/companies/financial-services/iress-spruiks-transformation-as-it-ponders-interest-from-pe-suitors-20250811-p5mlvv)
+## Turkish arrest of Ethereum developer raises alarms in crypto community
+Debate in the crypto community grows after Fede’s Intern arrest in Turkey under allegations of enabling Ethereum blockchain misuse.
+[Read more](https://cryptoslate.com/turkish-arrest-of-ethereum-developer-raises-alarms-in-crypto-community/)
 
 
 
-Last updated: 2025-08-11 02:59:08
+Last updated: 2025-08-11 12:54:48
