@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Ethereum Core Dev Safe And Free After Being Detained In Turkey
-An Ethereum core developer has been released after being arrested at passport control in Turkey, accused of “helping others misuse Ethereum.”
-[Read more](https://cointelegraph.com/news/ethereum-dev-released-after-being-detained-turkey)
+## Ethereum dev arrested in Turkey ups Roman Storm donation to $500K
+Ethereum core developer Federico Carrone was arrested, and released, in Turkey this week over his links to an Ethereum privacy protocol.
+[Read more](https://protos.com/ethereum-dev-arrested-in-turkey-ups-roman-storm-donation-to-500k/)
 
 
 
-Last updated: 2025-08-12 02:43:50
+Last updated: 2025-08-12 12:52:03
