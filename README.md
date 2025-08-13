@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Ethereum dev arrested in Turkey ups Roman Storm donation to $500K
-Ethereum core developer Federico Carrone was arrested, and released, in Turkey this week over his links to an Ethereum privacy protocol.
-[Read more](https://protos.com/ethereum-dev-arrested-in-turkey-ups-roman-storm-donation-to-500k/)
+## China’s property crisis icon Evergrande will delist following debt woes
+The severely indebted real estate developer China Evergrande, already in the process of liquidation, said on Tuesday it will be delisted from Hong Kong’s stock exchange on Aug. 25, another setback to mainland China’s property sector.
+[Read more](https://edition.cnn.com/2025/08/12/business/china-evergrande-delist-intl-hnk)
 
 
 
-Last updated: 2025-08-12 12:52:03
+Last updated: 2025-08-13 02:45:36
