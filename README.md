@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Core Ethereum devs' Crypto Wallet Drained by malicious AI extension
-A cursor AI extension drained the hot wallet of a core Ethereum developer, illustrating this malware’s growing threat to both beginner and seasoned crypto investors.
-[Read more](https://cointelegraph.com/news/core-ethereum-devs-crypto-wallet-drained-ai-extension)
+## Cebu Landmasters to launch 12 projects worth P29 billion in second half of 2025
+Property developer Cebu Landmasters Inc (CLI) plans to launch 12 new projects worth P29 billion in the second half of 2025 to sustain its strong growth.
+[Read more](https://manilastandard.net/business/314629746/cebu-landmasters-to-launch-12-projects-worth-p29-billion-in-second-half-of-2025.html)
 
 
 
-Last updated: 2025-08-13 12:52:57
+Last updated: 2025-08-14 02:46:58
