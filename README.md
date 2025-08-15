@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Vercel attracts investor offers valuing cloud startup at $9 billion, nearly triple last year’s worth
-Vercel might be on the verge of one of the biggest jumps in valuation the cloud sector has seen this year. The San Francisco-based startup, known for its developer-friendly “frontend cloud” platform and as the creator of Next.js, has drawn investor interest that could push its valuation to $9 billion, according to an exclusive report
-[Read more](https://techstartups.com/2025/08/14/vercel-attracts-investor-offers-valuing-cloud-startup-at-9-billion-nearly-triple-last-years-worth/)
+## 24/7 Market News: "Our Pipeline Is Roaring" VENU Breaks Out and Expanding National Footprint
+DENVER, Aug. 15, 2025 (GLOBE NEWSWIRE) -- 247marketnews.com, a pioneer in digital media dedicated to the swift distribution of financial market news and corporate information, reports that momentum is rapidly building around Venu Holding Corporation (NYSE American: VENU)('VENU”), a developer and operator of premium live music amphitheaters and hospitality destinations, announced its Q2 2025 financial results, after yesterday’s market close, during an earnings call that highlighted a surge in asset growth, record fan engagement, and expanded national momentum.
+[Read more](https://www.manilatimes.net/2025/08/15/tmt-newswire/globenewswire/247-market-news-our-pipeline-is-roaring-venu-breaks-out-and-expanding-national-footprint/2168633)
 
 
 
-Last updated: 2025-08-15 02:48:22
+Last updated: 2025-08-15 12:49:42
