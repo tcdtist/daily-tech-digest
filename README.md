@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Developer builds smaller dwellings as Albany housing shortage grows
-Albany's population is skyrocketing as sea-changers flock to the region, but a crisis is brewing away from its multi-million dollar coastline.
-[Read more](https://www.abc.net.au/news/2025-08-16/albany-homelessness-crisis-growing-smaller-houses-needed/105647560)
+## Shiba Inu Developer Reveals How Chainlink Burns SHIB: Details
+410,752,194,452,269 SHIB slashed off Shiba Inu supply through burns
+[Read more](https://u.today/shiba-inu-developer-reveals-how-chainlink-burns-shib-details)
 
 
 
-Last updated: 2025-08-16 02:40:12
+Last updated: 2025-08-16 12:47:10
