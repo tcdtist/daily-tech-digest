@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Sydney crime boss Bassam Hamzy's Belize jungle resort plan among his vast jail business empire
-This jailed Sydney crime boss wears many hats, but billion-dollar Central American resort developer is not one of them.
-[Read more](https://www.abc.net.au/news/2025-08-17/bassam-hamzy-belize-resort-plans-from-nsw-prison/105646544)
+## DayOne to build EUR 1.2 billion hyperscale data centre in Finland
+Singapore-based global data centre developer DayOne has announced a EUR 1.2 billion investment in a state-of-the-art hyperscale data centre campus in...
+[Read more](https://itwire.com/business-it-news/business-technology/dayone-to-build-eur-1-2-billion-hyperscale-data-centre-in-finland.html)
 
 
 
-Last updated: 2025-08-17 02:52:03
+Last updated: 2025-08-17 12:48:06
