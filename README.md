@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Amata VN awaits approval for new industrial land
-SET-listed Amata VN, an industrial estate developer in Vietnam, expects the Vietnamese government to approve the development of 3,100 rai of new industrial land in October, paving the way for further growth of its business there.
-[Read more](https://www.bangkokpost.com/business/general/3088536/amata-vn-awaits-approval-for-new-industrial-land)
+## ‘Am I stupid to move from Europe to India?’ Reddit post sparks debate over Rs 35k frontend developer job offer
+The user explained that he had always dreamed of living in India, which he described as a “rising superpower,” and wanted to know if the salary offered was normal for his profile, as well as how the job situation for developers in India currently looked.
+[Read more](https://www.financialexpress.com/trending/am-i-stupid-to-move-from-europe-to-india-reddit-post-sparks-debate-over-rs-35k-frontend-developer-job-offer/3949962/)
 
 
 
-Last updated: 2025-08-18 02:55:15
+Last updated: 2025-08-18 12:53:49
