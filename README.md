@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## ‘Am I stupid to move from Europe to India?’ Reddit post sparks debate over Rs 35k frontend developer job offer
-The user explained that he had always dreamed of living in India, which he described as a “rising superpower,” and wanted to know if the salary offered was normal for his profile, as well as how the job situation for developers in India currently looked.
-[Read more](https://www.financialexpress.com/trending/am-i-stupid-to-move-from-europe-to-india-reddit-post-sparks-debate-over-rs-35k-frontend-developer-job-offer/3949962/)
+## Techie quits ₹65 LPA job, takes 6-month break to travel, rejoins same company with a pay hike
+After leaving a high-paying role, a developer took time off to travel, bought a car, and returned to the same company with higher pay. | Trending
+[Read more](https://www.hindustantimes.com/trending/techie-quits-65-lpa-job-takes-6-month-break-to-travel-rejoins-same-company-with-a-pay-hike-101755569566394.html)
 
 
 
-Last updated: 2025-08-18 12:53:49
+Last updated: 2025-08-19 02:29:14
