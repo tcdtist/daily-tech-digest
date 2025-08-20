@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Who is Kairan Quazi? 16-year-old teen engineer leaving Elon Musk’s SpaceX for Citadel Securities
-Science News: Kairan Quazi, the 16-year-old prodigy, is transitioning from SpaceX's Starlink project to Citadel Securities as a quant developer. After graduating fr
-[Read more](https://timesofindia.indiatimes.com/science/who-is-kairan-quazi-16-year-old-teen-engineer-leaving-elon-musks-spacex-for-citadel-securities/articleshow/123393100.cms)
+## InZOI Island Getaway update patch notes - Big changes afoot including free DLC
+The Sims rival InZOI finally makes its debut on Mac, as the developer makes sweeping changes across the board.
+[Read more](https://www.express.co.uk/entertainment/gaming/2097833/inzoi-island-getaway-update-patch-notes-changes-DLC)
 
 
 
-Last updated: 2025-08-20 02:27:24
+Last updated: 2025-08-20 12:49:53
