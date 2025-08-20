@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Controversy after new funding granted to transform derelict Ilkeston Argos
-There are concerns after money was granted to a private developer to carry out the works
-[Read more](https://www.nottinghampost.com/news/local-news/controversy-after-new-funding-granted-10437579)
+## Who is Kairan Quazi? 16-year-old teen engineer leaving Elon Musk’s SpaceX for Citadel Securities
+Science News: Kairan Quazi, the 16-year-old prodigy, is transitioning from SpaceX's Starlink project to Citadel Securities as a quant developer. After graduating fr
+[Read more](https://timesofindia.indiatimes.com/science/who-is-kairan-quazi-16-year-old-teen-engineer-leaving-elon-musks-spacex-for-citadel-securities/articleshow/123393100.cms)
 
 
 
-Last updated: 2025-08-19 12:48:24
+Last updated: 2025-08-20 02:27:24
