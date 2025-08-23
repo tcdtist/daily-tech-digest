@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## ATCO gets approval for first of two regulatory filings for Yellowhead Pipeline Project
-The energy infrastructure developer said it received approval from the Alberta Utilities Commission on its needs-assessment application for the project
-[Read more](https://www.theglobeandmail.com/business/article-atco-yellowhead-pipeline-project-regulatory-filings-approval/)
+## Ex-Employee Sentenced to 4 Years for Sabotaging Company’s Computer Network
+The man, a former software developer for Eaton Corporation, wrote malicious code that crashed servers on the company’s network in 2019, prosecutors said.
+[Read more](https://www.nytimes.com/2025/08/22/business/eaton-corporation-hack-prison-sentence.html)
 
 
 
-Last updated: 2025-08-22 12:48:20
+Last updated: 2025-08-23 02:22:41
