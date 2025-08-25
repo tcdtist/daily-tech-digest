@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Ex-Developer Sentenced to 4 Years for 'Kill Switch' Sabotage
-Keywords
-[Read more](https://www.webpronews.com/ex-developer-sentenced-to-4-years-for-kill-switch-sabotage/)
+## Trump halts work on New England offshore wind project
+Danish wind farm developer Orsted says the Revolution Wind project is about 80% complete, with 45 out of its 65 turbines already installed.
+[Read more](https://www.boston.com/news/environment/2025/08/24/trump-halts-work-on-new-england-offshore-wind-project-thats-nearly-complete/)
 
 
 
-Last updated: 2025-08-24 12:44:07
+Last updated: 2025-08-25 02:41:41
