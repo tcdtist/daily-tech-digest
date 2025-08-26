@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## What to know about the delisting of property developer China Evergrande's shares in Hong Kong
-BANGKOK (AP) — Shares in China Evergrande were removed from the Hong Kong Stock Exchange on Monday, marking another step in the retreat of the giant real estate developer whose downfall contributed to a prolonged crisis in China’s property market
-[Read more](https://www.nbcnews.com/business/real-estate/know-delisting-property-developer-china-evergrandes-shares-hong-kong-rcna226968)
+## Waaree Energies Secures Major US Solar Module Order
+Waaree Energies' US arm, Waaree Solar Americas, has secured an order to supply 452 MW of solar modules to an American utility-scale solar developer. Scheduled for delivery in FY2026-27, this underscores India's growing role in the global renewable energy supply chain and the US's embrace of Indian manufacturing.
+[Read more](https://www.devdiscourse.com/article/headlines/3603922-waaree-energies-secures-major-us-solar-module-order)
 
 
 
-Last updated: 2025-08-26 02:28:23
+Last updated: 2025-08-26 12:51:53
