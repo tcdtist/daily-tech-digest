@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Waaree Energies Secures Major US Solar Module Order
-Waaree Energies' US arm, Waaree Solar Americas, has secured an order to supply 452 MW of solar modules to an American utility-scale solar developer. Scheduled for delivery in FY2026-27, this underscores India's growing role in the global renewable energy supply chain and the US's embrace of Indian manufacturing.
-[Read more](https://www.devdiscourse.com/article/headlines/3603922-waaree-energies-secures-major-us-solar-module-order)
+## SAS is training AI models to predict and prevent workplace injuries, says excited CTO Bryan Harris
+Bryan Harris has seen a lot of innovation in his 12 years at SAS, the developer of analytics and artificial intelligence software. One innovation that...
+[Read more](https://itwire.com/business-it-news/data/sas-is-training-ai-models-to-predict-and-prevent-workplace-injuries,-says-excited-cto-bryan-harris.html)
 
 
 
-Last updated: 2025-08-26 12:51:53
+Last updated: 2025-08-27 02:23:11
