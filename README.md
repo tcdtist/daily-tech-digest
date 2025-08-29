@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## New York Hedge Fund Buys 100,000 Orsted Shares After Record Low on Trump Halt
-When shares of beleaguered Danish wind farm developer Orsted A/S plunged to a record low earlier this week, one New York hedge fund decided it was a good time to buy.
-[Read more](https://www.bloomberg.com/news/articles/2025-08-28/new-york-hedge-fund-buys-100-000-orsted-shares-after-record-low-on-trump-halt)
+## Get a Free Month of Apple Arcade From Halfbrick
+Halfbrick, the developer behind popular titles like Fruit Ninja, teamed up with Apple to offer free Apple Arcade promo codes, and there's still...
+[Read more](https://www.macrumors.com/2025/08/28/apple-arcade-free-month-halfbrick/)
 
 
 
-Last updated: 2025-08-28 12:48:06
+Last updated: 2025-08-29 02:23:08
