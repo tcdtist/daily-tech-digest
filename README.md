@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Cholesterol-busting jab could 'transform' heart care, says developer
-Right now, statins, the most commonly prescribed drug for high cholesterol on the NHS
-[Read more](https://www.plymouthherald.co.uk/news/health/cholesterol-busting-jab-could-transform-10464562)
+## Escape from Tarkov is finally coming to Steam 'soon,' developer says
+After eight years of beta with its own proprietary launcher, Battlestate Games' influential FPS will get a Steam release.
+[Read more](https://www.engadget.com/gaming/escape-from-tarkov-is-finally-coming-to-steam-soon-developer-says-181356635.html)
 
 
 
-Last updated: 2025-08-31 12:42:14
+Last updated: 2025-09-01 02:48:48
