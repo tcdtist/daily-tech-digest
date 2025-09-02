@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Global-local alliance powers a new era in Japan's geothermal energy
-Swedish company Baseload Capital today announced a strategic investment in Japanese geothermal energy developer Furusato Netsuden. The partnership aims to unlock Japan's untapped geothermal potential and build a replicable model for sustainable energy development worldwide.
-[Read more](https://www.manilatimes.net/2025/09/02/tmt-newswire/pr-newswire/global-local-alliance-powers-a-new-era-in-japans-geothermal-energy/2177071)
+## Aptamer signs therapeutic development agreement with Invizius
+Aptamer Group plc, the developer of next-generation synthetic binders for the life sciences industry, is pleased to announce that it has signed a new therapeutic development agreement with Invizius, a clinical-stage biotechnology company focused on second-generation complement system therapies for inflammatory, fibrotic, and autoimmune diseases.
+[Read more](https://www.news-medical.net/news/20250902/Aptamer-signs-therapeutic-development-agreement-with-Invizius.aspx)
 
 
 
-Last updated: 2025-09-02 02:25:18
+Last updated: 2025-09-02 12:49:26
