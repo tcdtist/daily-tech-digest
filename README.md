@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## NetEase Shuts Down T-Minus Zero Entertainment Two Years After Its Foundation
-NetEase has shut down T-Minus Zero Entertainment, an Austin-based game developer founded by former BioWare and Bethesda veterans.
-[Read more](https://wccftech.com/netease-shuts-down-t-minus-zero-entertainment/)
+## Global-local alliance powers a new era in Japan's geothermal energy
+Swedish company Baseload Capital today announced a strategic investment in Japanese geothermal energy developer Furusato Netsuden. The partnership aims to unlock Japan's untapped geothermal potential and build a replicable model for sustainable energy development worldwide.
+[Read more](https://www.manilatimes.net/2025/09/02/tmt-newswire/pr-newswire/global-local-alliance-powers-a-new-era-in-japans-geothermal-energy/2177071)
 
 
 
-Last updated: 2025-09-01 12:49:49
+Last updated: 2025-09-02 02:25:18
