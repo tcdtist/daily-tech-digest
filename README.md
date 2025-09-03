@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Aptamer signs therapeutic development agreement with Invizius
-Aptamer Group plc, the developer of next-generation synthetic binders for the life sciences industry, is pleased to announce that it has signed a new therapeutic development agreement with Invizius, a clinical-stage biotechnology company focused on second-generation complement system therapies for inflammatory, fibrotic, and autoimmune diseases.
-[Read more](https://www.news-medical.net/news/20250902/Aptamer-signs-therapeutic-development-agreement-with-Invizius.aspx)
+## Surveyors for controversial Maryland power line project denied help of U.S. Marshals
+A judge ruled that surveyors for a controversial Maryland power line project will not be accompanied by U.S. Marshals while on landowners' properties, according to the developer.
+[Read more](https://www.cbsnews.com/baltimore/news/surveyors-controversial-maryland-power-line-project-pseg-of-u-s-marshals/)
 
 
 
-Last updated: 2025-09-02 12:49:26
+Last updated: 2025-09-03 02:16:11
