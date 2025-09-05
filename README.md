@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## The iOS 26 rollout is closer than ever, and Apple has just released the final developer beta - here’s what’s new
-There's less than a week to go
-[Read more](https://www.techradar.com/ai-platforms-assistants/apple-intelligence/apple-expected-to-launch-an-ai-search-engine-to-rival-chatgpt-and-it-could-be-powered-by-google)
+## Cronos: The New Dawn review - Dead Space x Resident Evil
+Cronos: The New Dawn is the latest game from the developer Bloober Team, makers of the Silent Hill 2 remake, with a homage to Dead Space.
+[Read more](https://metro.co.uk/2025/09/05/cronos-new-dawn-review-dead-space-x-resident-evil-24081352/)
 
 
 
-Last updated: 2025-09-04 12:43:50
+Last updated: 2025-09-05 02:19:56
