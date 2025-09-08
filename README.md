@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Infamous billionaire breaks 30-year silence on giant £100m UK palace
-EXCLUSIVE: Controversial property developer Nicholas van Hoogstraten speaks out on the delays to his enormous stately home in the English countryside.
-[Read more](https://www.express.co.uk/news/uk/2103868/billionaire-breaks-silence-unfinished-palace)
+## Windfarm boss says UK 'not windy enough' as profits slump due to calm British summer
+Danish firm Orsted has 12 farms in the UK, including Britain's largest offshore wind farm, as the developer has blamed the British weather on a profits slump this summer
+[Read more](https://www.dailystar.co.uk/news/uk-news/windfarm-boss-says-uk-not-35864332)
 
 
 
-Last updated: 2025-09-07 12:40:54
+Last updated: 2025-09-08 02:25:15
