@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Windfarm boss says UK 'not windy enough' as profits slump due to calm British summer
-Danish firm Orsted has 12 farms in the UK, including Britain's largest offshore wind farm, as the developer has blamed the British weather on a profits slump this summer
-[Read more](https://www.dailystar.co.uk/news/uk-news/windfarm-boss-says-uk-not-35864332)
+## Call of Duty: Black Ops 7 maps update is making Black Ops 2 fans lose it
+A ​Call of Duty: Black Ops 7​ developer has shared an update about the game online and it's simply music to the ears of any fans of ​Black Ops 2​. A Treyarch developer has teased Black Ops 2 maps that have never previously been remastered will be coming to Black Ops 7. And fans have been having their say on social media.
+[Read more](https://www.indy100.com/gaming/call-of-duty-black-ops-7-maps-multiplayer-gameplay-release-date-warzone)
 
 
 
-Last updated: 2025-09-08 02:25:15
+Last updated: 2025-09-08 12:49:50
