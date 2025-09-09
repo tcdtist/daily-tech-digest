@@ -8,4 +8,4 @@ A ​Call of Duty: Black Ops 7​ developer has shared an update about the game 
 
 
 
-Last updated: 2025-09-08 12:49:50
+Last updated: 2025-09-09 02:21:41
