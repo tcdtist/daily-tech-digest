@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Glac Biotech Secures U.S. Food and Drug Administration GRAS Approval for Probiotic Strain CP-9
-/PRNewswire/ -- Glac Biotech, a Taiwan-based developer of probiotics and postbiotics, announced that its core probiotic strain CP-9 (Bifidobacterium lactis...
-[Read more](https://www.prnewswire.co.uk/news-releases/glac-biotech-secures-us-food-and-drug-administration-gras-approval-for-probiotic-strain-cp-9-302551899.html)
+## 'Sheer Stupidity': Drone Pilot Who Crashed Into Firefighting Plane Gets Prison Time
+A prominent video game developer who damaged a plane fighting the Palisades Fire with his drone has been sentenced to prison.
+[Read more](https://patch.com/california/los-angeles/sheer-stupidity-drone-pilot-who-crashed-firefighting-plane-gets-prison-time)
 
 
 
-Last updated: 2025-09-16 02:17:26
+Last updated: 2025-09-16 12:48:06
