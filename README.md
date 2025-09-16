@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Supply water to Wish Town flats in 2 weeks, High Court tells Noida
-Noida: The Allahabad high court has asked Noida Authority to provide water connections to Wish Town within two weeks, provided the developer — Jaypee .
-[Read more](https://timesofindia.indiatimes.com/city/noida/supply-water-to-wish-town-flats-in-2-weeks-high-court-tells-noida/articleshow/123887270.cms)
+## Glac Biotech Secures U.S. Food and Drug Administration GRAS Approval for Probiotic Strain CP-9
+/PRNewswire/ -- Glac Biotech, a Taiwan-based developer of probiotics and postbiotics, announced that its core probiotic strain CP-9 (Bifidobacterium lactis...
+[Read more](https://www.prnewswire.co.uk/news-releases/glac-biotech-secures-us-food-and-drug-administration-gras-approval-for-probiotic-strain-cp-9-302551899.html)
 
 
 
-Last updated: 2025-09-15 12:48:52
+Last updated: 2025-09-16 02:17:26
