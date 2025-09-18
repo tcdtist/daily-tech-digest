@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Three towers in Chintels Paradiso demolished, DTCP asks developer to expedite work
-DTCP officials said that it has asked the developer to expedite the demolition of its unsafe towers to ensure that the reconstruction of the flats can start at the earliest.
-[Read more](https://www.hindustantimes.com/cities/gurugram-news/three-towers-in-chintels-paradiso-demolished-dtcp-asks-developer-to-expedite-work-101758047821731.html)
+## Meta Connect 2025 live stream: Watch Mark Zuckerberg AI glasses
+Meta Platforms, parent company of Facebook, Instagram, and WhatsApp is having its big developer conference this week.
+[Read more](https://www.fastcompany.com/91405815/meta-connect-2025-live-stream-watch-mark-zuckerberg-keynote-ai-glasses)
 
 
 
-Last updated: 2025-09-17 12:48:06
+Last updated: 2025-09-18 02:17:49
