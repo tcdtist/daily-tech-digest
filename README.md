@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## MLB owners approve Rays sale to group headed by developer
-MLB owners voted unanimously to approve the sale of the Tampa Bay Rays to group headed by real estate developer Patrick Zalupski.
-[Read more](https://lfpress.com/sports/baseball/mlb/mlb-owners-approve-sale-of-rays-to-group-headed-by-real-estate-developer)
+## Apple lays groundwork for agentic AI on iPhone, iPad, and Mac with MCP support: Report
+Apple's new Developer beta updates for iOS, iPadOS, and macOS aim to support Model Context Protocol (MCP). This development could enhance app interactions with AI models, allowing for seamless integration and functionality across its devices.
+[Read more](https://www.livemint.com/technology/gadgets/apple-lays-groundwork-for-agentic-ai-on-iphone-ipad-and-mac-with-mcp-support-report-ios-261-11758632506474.html)
 
 
 
-Last updated: 2025-09-23 12:47:25
+Last updated: 2025-09-24 02:19:08
