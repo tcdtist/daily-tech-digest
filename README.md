@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Apple lays groundwork for agentic AI on iPhone, iPad, and Mac with MCP support: Report
-Apple's new Developer beta updates for iOS, iPadOS, and macOS aim to support Model Context Protocol (MCP). This development could enhance app interactions with AI models, allowing for seamless integration and functionality across its devices.
-[Read more](https://www.livemint.com/technology/gadgets/apple-lays-groundwork-for-agentic-ai-on-iphone-ipad-and-mac-with-mcp-support-report-ios-261-11758632506474.html)
+## Are provincial parks the next target for Doug Ford's developer friends?
+The Ford government has introduced changes to the Ontario laws that protect provincial parks, but refuses to disclose what the changes will be.
+[Read more](https://www.nationalobserver.com/2025/09/24/opinion/ontario-provincial-parks-ford-laws)
 
 
 
-Last updated: 2025-09-24 02:19:08
+Last updated: 2025-09-24 12:48:22
