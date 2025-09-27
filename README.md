@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Cipher Mining Announces Pricing of Upsized Private Offering
-NEW YORK, Sept. 25, 2025 (GLOBE NEWSWIRE) -- Cipher Mining Inc. (NASDAQ:CIFR) (“Cipher” or the “Company”), a leading developer and operator of...
-[Read more](https://www.globenewswire.com/news-release/2025/09/26/3156816/0/en/Cipher-Mining-Announces-Pricing-of-Upsized-Private-Offering-of-1-1-Billion-of-0-00-Convertible-Senior-Notes.html)
+## Lawsuit accuses Adelaide Point developer of defaulting on $17M loan
+Independent Bank has sought a court-appointed receiver over parts of the $85 Adelaide Pointe development, claiming developer Ryan Leestma lacks the “financial wherewithal” to deal with the project’s numerous issues.
+[Read more](https://www.mlive.com/news/muskegon/2025/09/lawsuit-accuses-adelaide-point-developer-of-defaulting-on-17m-loan.html)
 
 
 
-Last updated: 2025-09-26 12:48:10
+Last updated: 2025-09-27 02:14:24
