@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Lawsuit accuses Adelaide Point developer of defaulting on $17M loan
-Independent Bank has sought a court-appointed receiver over parts of the $85 Adelaide Pointe development, claiming developer Ryan Leestma lacks the “financial wherewithal” to deal with the project’s numerous issues.
-[Read more](https://www.mlive.com/news/muskegon/2025/09/lawsuit-accuses-adelaide-point-developer-of-defaulting-on-17m-loan.html)
+## Punjab: HC orders status quo on 469 acres sold to a developer in Rajpura
+As per the plea of farmers, 446 acres was handed over to M/s Shriram Industrial Enterprises Limited in 1995, 91 acre in 1998 and another 57 acre in 2007
+[Read more](https://www.hindustantimes.com/cities/chandigarh-news/punjab-hc-orders-status-quo-on-469-acres-sold-to-a-developer-in-rajpura-101758917030445.html)
 
 
 
-Last updated: 2025-09-27 02:14:24
+Last updated: 2025-09-27 12:41:12
