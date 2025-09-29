@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Marvel's Wolverine
-Recent news has hinted at a Venom spin-off game from developer Insomniac, but while this is exciting, it could push back another anticipated title.
-[Read more](https://screenrant.com/marvels-venom-game-wolverine-problem/)
+## Could Nvidia's $100 billion data center gamble make it the market's first $10 trillion stock?
+Nvidia just committed up to $100 billion to OpenAI as the ChatGPT developer pursues next-generation artificial intelligence applications.
+[Read more](https://www.fool.com.au/2025/09/29/could-nvidias-100-billion-data-center-gamble-make-it-the-markets-first-10-trillion-stock-usfeed/)
 
 
 
-Last updated: 2025-09-29 02:23:02
+Last updated: 2025-09-29 12:50:22
