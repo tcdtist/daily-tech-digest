@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Dar Global to launch a $1 billion project in Saudi Arabia in a deal with Trump Organization
-DUBAI, United Arab Emirates (AP) — London real estate developer Dar Global said Monday that it plans to launch a Trump Plaza in the Red Sea city of Jeddah…
-[Read more](https://wtop.com/world/2025/09/dar-global-to-launch-a-1-billion-project-in-saudi-arabia-in-a-deal-with-trump-organization/)
+## California's Newsom signs law requiring AI safety disclosures
+California Governor Gavin Newsom signed into state law on Monday a requirement that ChatGPT developer OpenAI and other big players disclose how they plan to mitigate potential catastrophic risks from their cutting-edge AI models.
+[Read more](https://www.cnbc.com/2025/09/29/californias-newsom-signs-law-requiring-ai-safety-disclosures.html)
 
 
 
-Last updated: 2025-09-30 02:17:45
+Last updated: 2025-09-30 12:50:36
