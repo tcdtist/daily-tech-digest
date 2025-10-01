@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Businessman 'threatened to give neighbour's details to Black Lives Matter during six-year stalking campaign' after he objected to his holiday home plans
-Laxley Pennant - a property developer and salesman - allegedly threatened his neighbours during a six year campaign of stalking and harassment.
-[Read more](https://www.dailymail.co.uk/news/article-15147913/businessman-threatened-neighbour-details-BLM-home-objection.html)
+## New group finalizes Rays purchase, ending Sternberg tenure
+A group led by Florida-based real estate developer Patrick Zalupski closed on its purchase of the Tampa Bay Rays.
+[Read more](https://lfpress.com/sports/baseball/mlb/zalupskis-group-finalizes-purchase-of-rays-ending-sternbergs-18-year-tenure)
 
 
 
-Last updated: 2025-10-01 02:39:15
+Last updated: 2025-10-01 12:50:25
