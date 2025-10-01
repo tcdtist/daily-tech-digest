@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## California's Newsom signs law requiring AI safety disclosures
-California Governor Gavin Newsom signed into state law on Monday a requirement that ChatGPT developer OpenAI and other big players disclose how they plan to mitigate potential catastrophic risks from their cutting-edge AI models.
-[Read more](https://www.cnbc.com/2025/09/29/californias-newsom-signs-law-requiring-ai-safety-disclosures.html)
+## Businessman 'threatened to give neighbour's details to Black Lives Matter during six-year stalking campaign' after he objected to his holiday home plans
+Laxley Pennant - a property developer and salesman - allegedly threatened his neighbours during a six year campaign of stalking and harassment.
+[Read more](https://www.dailymail.co.uk/news/article-15147913/businessman-threatened-neighbour-details-BLM-home-objection.html)
 
 
 
-Last updated: 2025-09-30 12:50:36
+Last updated: 2025-10-01 02:39:15
