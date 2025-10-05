@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Apple bows to Trump pressure to remove ICEBlock app : NPR
-It's the latest example of tech giants bowing to pressure from the Trump administration. Legal experts say the developer of the app has free speech rights that may have been violated.
-[Read more](https://www.npr.org/2025/10/03/nx-s1-5561999/apple-google-iceblock-app-removal)
+## Donation keeps London velodrome open for another year
+A financial injection from a London developer is giving the city’s indoor cycling track a new lifeline.
+[Read more](https://lfpress.com/news/local-news/donation-keeps-london-velodrome-open-for-another-year)
 
 
 
-Last updated: 2025-10-04 12:40:59
+Last updated: 2025-10-05 02:27:08
