@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Shodeen shot down in showdown: Judge affirms Geneva ruling on 1840s blacksmith shop tarp dispute
-Kane County Circuit Judge Elizabeth Flood ruled this week that Geneva developer Shodeen Group cannot evade the city’s legal right to enforce property code standards. The dispute began over the city's insistence that a tarp be placed on top of an 1840s blacksmith shop.
-[Read more](https://www.shawlocal.com/kane-county-chronicle/2025/10/05/shodeen-shot-down-in-showdown-judge-affirms-geneva-ruling-on-1840s-blacksmith-shop-tarp-dispute/)
+## Ronnie 2K, NBA 2K26 Developer Details Shai Gilgeous-Alexander’s Involvement With Game & Why He Was Named The Cover Athlete
+Ronnnie 2K details why Shai Gilgeous-Alexander is the cover athlete of NBA 2K26 and some of the new features in the game.
+[Read more](https://www.forbes.com/sites/djsiddiqi/2025/10/06/ronnie-2k-nba-2k26-developer-details-shai-gilgeous-alexanders-involvement-with-game--why-he-was-named-the-cover-athlete/)
 
 
 
-Last updated: 2025-10-06 02:20:51
+Last updated: 2025-10-06 12:49:56
