@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Vampire Survivors will soon offer online co-op
-Developer Poncle also hinted it might answer a question it's been asked 'thousands of times.'
-[Read more](https://www.engadget.com/gaming/vampire-survivors-will-soon-offer-online-co-op-141430146.html)
+## Hepsor prepares a bond programme
+Publicly listed real estate developer Hepsor, in cooperation with LHV Pank, is preparing a bond programme and plans to list the bonds on the main list of...
+[Read more](https://www.globenewswire.com/news-release/2025/10/08/3163048/0/en/Hepsor-prepares-a-bond-programme.html)
 
 
 
-Last updated: 2025-10-08 02:17:51
+Last updated: 2025-10-08 12:49:36
