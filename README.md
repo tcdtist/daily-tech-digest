@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Virginia Beach seeks developer for Oceanfront action sports facility
-The city is issued a request for proposals and is interested in a venue for skateboarding, BMX, rock climbing, indoor ice or water sports.
-[Read more](https://www.pilotonline.com/2025/10/08/bmx-or-skateboarding-virginia-beach-wants-another-sports-venue-at-the-oceanfront/)
+## Cement block death in Jogeshwari: Police file culpable homicide case against developer
+Mumbai: Meghwadi police have registered a case of culpable homicide not amounting to murder against developer Shraddha Lifestyle LLP and others involv.
+[Read more](https://timesofindia.indiatimes.com/city/mumbai/cement-block-death-in-jogeshwari-police-file-culpable-homicide-case-against-developer/articleshow/124421991.cms)
 
 
 
-Last updated: 2025-10-09 12:49:47
+Last updated: 2025-10-10 02:20:03
