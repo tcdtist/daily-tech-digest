@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Cement block death in Jogeshwari: Police file culpable homicide case against developer
-Mumbai: Meghwadi police have registered a case of culpable homicide not amounting to murder against developer Shraddha Lifestyle LLP and others involv.
-[Read more](https://timesofindia.indiatimes.com/city/mumbai/cement-block-death-in-jogeshwari-police-file-culpable-homicide-case-against-developer/articleshow/124421991.cms)
+## HC strikes down registration of Dombivli housing society
+The court pointed out that the real dispute appeared to stem from unpaid maintenance dues of over ₹70 lakh owed by residents to the developer | Mumbai news
+[Read more](https://www.hindustantimes.com/cities/mumbai-news/hc-strikes-down-registration-of-dombivli-housing-society-101760037224840.html)
 
 
 
-Last updated: 2025-10-10 02:20:03
+Last updated: 2025-10-10 12:48:15
