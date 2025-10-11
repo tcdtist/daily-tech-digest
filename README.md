@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## City chooses developer for LaSalle Metro station properties
-A Long Island development firm has won the preferred right to redevelop the LaSalle Metro Rail station and 11 acres of surrounding land, after initially proposing a $191 million transformation
-[Read more](https://buffalonews.com/news/local/business/development/article_ba41f4e1-e158-4c05-9d7f-cac4915e5a98.html)
+## Members can’t assert independent rights over society’s contract: HC
+Justice Jain held that the 2003 agreement, executed by the society and not challenged in any forum, remained binding between the society and the developer | Mumbai news
+[Read more](https://www.hindustantimes.com/cities/mumbai-news/members-can-t-assert-independent-rights-over-society-s-contract-hc-101760121680897.html)
 
 
 
-Last updated: 2025-10-11 02:15:01
+Last updated: 2025-10-11 12:41:23
