@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Can a developer forfeit a homebuyer’s booking amount if the sale agreement is not signed and the booking is cancelled?
-MahaRERA update: Developers can forfeit only 2% of the total property cost if a homebuyer cancels the booking after 61 days, the authority said in its order | Real Estate News
-[Read more](https://www.hindustantimes.com/real-estate/can-a-developer-forfeit-a-homebuyer-s-booking-amount-if-the-sale-agreement-is-not-signed-and-the-booking-is-cancelled-101760261726952.html)
+## Stardust Power Strengthens Construction Team with Ken
+GREENWICH, Conn., Oct. 13, 2025 (GLOBE NEWSWIRE) -- Stardust Power Inc. (NASDAQ: SDST) (“Stardust Power” or the “Company”), an American developer of...
+[Read more](https://www.globenewswire.com/news-release/2025/10/13/3165446/0/en/Stardust-Power-Strengthens-Construction-Team-with-Ken-Pitts.html)
 
 
 
-Last updated: 2025-10-13 02:27:02
+Last updated: 2025-10-13 12:49:30
