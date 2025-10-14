@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Giant data centre could use as much power as every home in Glasgow and Edinburgh
-Edinburgh Council has said the developer will not have to submit an environmental impact assessment, sparking concerns data centres are avoiding scrutiny from planners
-[Read more](https://inews.co.uk/news/data-centre-power-home-glasgow-edinburgh-3973815)
+## Developer says 248 homes plan will bring 305 jobs
+VW Turnbull applied for planning permission for the homes, despite hundreds of residents strongly disagreeing that there was a need for new housing
+[Read more](https://www.gazettelive.co.uk/news/teesside-news/248-homes-eaglescliffe-plans-objections-32665731)
 
 
 
-Last updated: 2025-10-14 02:20:07
+Last updated: 2025-10-14 12:51:32
