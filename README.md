@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Stardust Power Strengthens Construction Team with Ken
-GREENWICH, Conn., Oct. 13, 2025 (GLOBE NEWSWIRE) -- Stardust Power Inc. (NASDAQ: SDST) (“Stardust Power” or the “Company”), an American developer of...
-[Read more](https://www.globenewswire.com/news-release/2025/10/13/3165446/0/en/Stardust-Power-Strengthens-Construction-Team-with-Ken-Pitts.html)
+## Giant data centre could use as much power as every home in Glasgow and Edinburgh
+Edinburgh Council has said the developer will not have to submit an environmental impact assessment, sparking concerns data centres are avoiding scrutiny from planners
+[Read more](https://inews.co.uk/news/data-centre-power-home-glasgow-edinburgh-3973815)
 
 
 
-Last updated: 2025-10-13 12:49:30
+Last updated: 2025-10-14 02:20:07
