@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Horse Powertrain working with Leapmotor, Chery and JAC for global markets, executive says
-Engine developer Horse Powertrain is working on vehicle projects with Chinese automakers Leapmotor , Chery and Jianghuai Automobile to tap global markets outside China, an executive said on Wednesday.
-[Read more](https://www.reuters.com/world/china/horse-powertrain-working-with-leapmotor-chery-jac-global-markets-executive-says-2025-10-15/)
+## made chip module sent to US firm AOS
+Around 900 intelligent power modules (IPMs) were sent to AOS — a Sunnyvale-headquartered designer, developer and global supplier of a broad range of power semiconductors. The Sanand OSAT has been set up under the aegis of India Semiconductor Mission 1.0 (ISM) with an investment of Rs 1,653.5 crore from the Centre.
+[Read more](https://economictimes.indiatimes.com/tech/technology/first-india-made-chip-module-sent-to-us-firm-aos/articleshow/124587489.cms)
 
 
 
-Last updated: 2025-10-16 02:21:52
+Last updated: 2025-10-16 12:51:10
