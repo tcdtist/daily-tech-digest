@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Sustainable Jet Fuel Developer Moves Priority From SD to ND Amid Summit Pipeline Delays
-A sustainable aviation fuel developer plans to shift its immediate investment from South Dakota to North Dakota, in part because of delays in the development of the multi-state Summit Carbon Solutions pipeline.
-[Read more](https://www.agriculture.com/partners-sustainable-jet-fuel-developer-moves-priority-from-sd-to-nd-amid-summit-pipeline-delays-11831726)
+## Trump seeks to build on momentum from Gaza deal in a busy diplomatic week
+By Kevin Liptak, CNN (CNN) — These are busy days for Steve Witkoff. The real estate developer-turned-Swiss Army Knife diplomat (officially the special presidential envoy for peace missions) was sitting in the galleries of the Israeli Knesset on Monday, listening as President Donald Trump basked in the newly brokered ceasefire-for-hostages deal, when his boss reminded
+[Read more](https://abc17news.com/politics/national-politics/cnn-us-politics/2025/10/17/trump-seeks-to-build-on-momentum-from-gaza-deal-in-a-busy-diplomatic-week/)
 
 
 
-Last updated: 2025-10-18 02:15:43
+Last updated: 2025-10-18 12:42:34
