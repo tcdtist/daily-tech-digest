@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Terra Innovatum Global Files New Investor Presentation
-NEW YORK, Oct. 17, 2025 (GLOBE NEWSWIRE) -- Terra Innovatum Global N.V. (“Terra Innovatum” or the “Company”) (NASDAQ: NKLR), a developer of micro-modular...
-[Read more](https://www.globenewswire.com/news-release/2025/10/17/3168580/0/en/Terra-Innovatum-Global-Files-New-Investor-Presentation-Updating-Timeline-for-First-of-A-Kind-SOLO-Deployment-in-2027-from-2028.html)
+## Sustainable Jet Fuel Developer Moves Priority From SD to ND Amid Summit Pipeline Delays
+A sustainable aviation fuel developer plans to shift its immediate investment from South Dakota to North Dakota, in part because of delays in the development of the multi-state Summit Carbon Solutions pipeline.
+[Read more](https://www.agriculture.com/partners-sustainable-jet-fuel-developer-moves-priority-from-sd-to-nd-amid-summit-pipeline-delays-11831726)
 
 
 
-Last updated: 2025-10-17 12:49:22
+Last updated: 2025-10-18 02:15:43
