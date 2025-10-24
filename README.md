@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Future uncertain for thousands of planned homes after Vancouver council rejects city-owned development corporation
-The future appears uncertain for thousands of planned homes after Vancouver council rejects plan to create city-owned developer. Read more.
-[Read more](https://theprovince.com/opinion/columnists/future-uncertain-for-thousands-of-planned-homes-after-vancouver-council-rejects-city-owned-development-corporation/wcm/89046155-2fa1-4c6e-8acd-19fba53fe0bc)
+## Enlight to Report Third Quarter 2025 Financial Results on Wednesday, November 12, 2025
+TEL AVIV, Israel, Oct. 23, 2025 (GLOBE NEWSWIRE) -- Enlight Renewable Energy (TASE & NASDAQ: ENLT), a leading global renewable energy developer and an independent power producer, will release its financial results for the third quarter ended September 30, 2025, before market open on Wednesday, November 12, 2025.
+[Read more](https://www.manilatimes.net/2025/10/23/tmt-newswire/globenewswire/enlight-to-report-third-quarter-2025-financial-results-on-wednesday-november-12-2025/2207209)
 
 
 
-Last updated: 2025-10-23 12:51:41
+Last updated: 2025-10-24 02:19:57
