@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Terra Innovatum Global and Manufacturing Partner ATB Riva Calzoni Announce Joint Participation at World Nuclear Exhibition 2025 in Paris
-NEW YORK, Oct. 27, 2025 -- Terra Innovatum Global N.V. , a developer of micro-modular nuclear reactors, today announced that it will jointly participate with nuclear supply partner ATB Riva...
-[Read more](https://www.marketscreener.com/news/terra-innovatum-global-and-manufacturing-partner-atb-riva-calzoni-announce-joint-participation-at-wo-ce7d5ddfd88ff02d)
+## Civilization 7 update brings pirates and "powerful" Ocean Tiles, but developer Firaxis won't say much more: "You'll notice smaller, less frequent updates while the team shifts into testing"
+Ahoy, Civilization
+[Read more](https://www.gamesradar.com/games/strategy/civilization-7-update-brings-pirates-and-powerful-ocean-tiles-but-developer-firaxis-wont-say-much-more-youll-notice-smaller-less-frequent-updates-while-the-team-shifts-into-testing/)
 
 
 
-Last updated: 2025-10-28 02:24:25
+Last updated: 2025-10-28 12:50:07
