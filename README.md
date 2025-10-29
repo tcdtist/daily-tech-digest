@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Free software developer Timothée Giet visits KITE
-Timothée Giet, French graphic artist, co-maintainer of the famous edutainment free educational software ‘GCompris,’ and an active contributor to the Krita software, visited Kerala Infrastructure and Technology for Education (KITE) here on Tuesday.
-[Read more](https://www.thehindu.com/news/national/kerala/free-software-developer-timothee-giet-visits-kite/article70212953.ece)
+## Australia's richest person doubles stake on Australia's Arafura Rare Earths
+Australia's richest person Gina Rinehart has doubled down on her holdings in Australia's Arafura Rare Earths , even as shares of the developer fell by more than a fifth of its value on Wednesday due to a discounted share placement.
+[Read more](https://www.reuters.com/world/asia-pacific/australias-richest-person-doubles-stake-australias-arafura-rare-earths-2025-10-28/)
 
 
 
-Last updated: 2025-10-29 02:42:08
+Last updated: 2025-10-29 12:51:58
