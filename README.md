@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Vention Advances Intelligent Manufacturing with Major AI and Developer Platform Expansions at 6th Annual Demo Day
-New developer toolkit and AI Operator expansion for the only AI-powered full-stack software and hardware automation platform available now, along with advanced...
-[Read more](https://www.prnewswire.co.uk/news-releases/vention-advances-intelligent-manufacturing-with-major-ai-and-developer-platform-expansions-at-6th-annual-demo-day-302597907.html)
+## Lifetime Brands Announces Third Quarter 2025 Financial
+GARDEN CITY, N.Y., Oct. 30, 2025 (GLOBE NEWSWIRE) -- Lifetime Brands, Inc. (NasdaqGS: LCUT) (the “Company”), a leading global designer, developer and...
+[Read more](https://www.globenewswire.com/news-release/2025/10/30/3177302/0/en/Lifetime-Brands-Announces-Third-Quarter-2025-Financial-Results-Release-Date-and-Conference-Call.html)
 
 
 
-Last updated: 2025-10-30 02:29:06
+Last updated: 2025-10-30 12:50:36
