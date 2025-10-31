@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Developer reveals plans for 130 Leicestershire homes close to proposed new Lidl
-The homes would also be close to where 1,250 new properties have been proposed
-[Read more](https://www.leicestermercury.co.uk/news/local-news/developer-reveals-plans-130-leicestershire-10609653)
+## Flux Power Announces Pricing of $9.6 Million Underwritten
+VISTA, Calif., Oct. 31, 2025 (GLOBE NEWSWIRE) -- Flux Power Holdings, Inc. (“Flux Power”) (NASDAQ: FLUX), a leading developer of advanced lithium-ion...
+[Read more](https://www.globenewswire.com/news-release/2025/10/31/3178276/24114/en/Flux-Power-Announces-Pricing-of-9-6-Million-Underwritten-Public-Offering.html)
 
 
 
-Last updated: 2025-10-31 02:27:32
+Last updated: 2025-10-31 12:50:03
