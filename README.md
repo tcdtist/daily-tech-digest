@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## A Practical Money Guide for Global Tech Workers: FX, Bullion, and Crypto (Canada & US Edition)
-Whether you’re a developer relocating for a contract, a founder opening a North American branch, or a student starting an internship, your financial setup can either save you money—or quietly burn it. Here’s an objective, step-by-step playbook for managing foreign exchange, precious metals, and crypto across Canada and the United States. 1) Foreign Exchange: Control […]
-[Read more](https://techbullion.com/a-practical-money-guide-for-global-tech-workers-fx-bullion-and-crypto-canada-us-edition/)
+## Mumbai News: Bandra Developer Neeraj Kakad Detained For ₹9.57 Crore Cheating And Threat Case; Family, Aides Absconding
+According to the police Kakad was picked up from his Bandra West home, while his wife Divya, son Sahil, and aides Ujjal Singh and Vikas Kadam are absconding.
+[Read more](https://www.freepressjournal.in/mumbai/mumbai-news-bandra-developer-neeraj-kakad-detained-for-957-crore-cheating-and-threat-case-family-aides-absconding)
 
 
 
-Last updated: 2025-11-01 02:28:54
+Last updated: 2025-11-01 12:43:04
