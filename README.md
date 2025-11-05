@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Google shutters developer-only Gemma AI model after a U.S. Senator's encounter with an offensive hallucination
-A senator’s angry letter over a fabricated claim forces Google to rethink access to AI models
-[Read more](https://www.techradar.com/ai-platforms-assistants/google-shutters-developer-only-gemma-ai-model-after-a-u-s-senators-encounter-with-an-offensive-hallucination)
+## Novo Nordisk, Pfizer sweeten bid for Metsera as bidding war heats up
+Novo Nordisk and Pfizer have revised their bids for Metsera , the obesity drug developer said on Tuesday.
+[Read more](https://www.reuters.com/legal/litigation/novo-nordisk-sweetens-bid-metsera-with-an-offer-up-10-billion-2025-11-04/)
 
 
 
-Last updated: 2025-11-04 12:53:39
+Last updated: 2025-11-05 02:28:48
