@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Indoor sports facility pitched for closed Virginia Beach theater
-A growing sport that is similar to pickleball and tennis may be coming soon. The developer is seeking a conditional use permit to operate at the former the home of Beach Cinema Alehouse.
-[Read more](https://www.pilotonline.com/2025/11/05/virginia-beach-movie-theater-whats-next/)
+## Cipher Mining Inc. Announces Pricing of $1.4 Billion of Senior Secured Notes
+NEW YORK, Nov. 05, 2025 -- Cipher Mining Inc. , a leading developer and operator of industrial-scale data centers, today announced that its wholly-owned subsidiary, Cipher Compute LLC , has priced...
+[Read more](https://www.marketscreener.com/news/cipher-mining-inc-announces-pricing-of-1-4-billion-of-senior-secured-notes-ce7d5cdddc8af525)
 
 
 
-Last updated: 2025-11-06 02:40:21
+Last updated: 2025-11-06 12:50:57
