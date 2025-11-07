@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Cipher Mining Inc. Announces Pricing of $1.4 Billion of Senior Secured Notes
-NEW YORK, Nov. 05, 2025 -- Cipher Mining Inc. , a leading developer and operator of industrial-scale data centers, today announced that its wholly-owned subsidiary, Cipher Compute LLC , has priced...
-[Read more](https://www.marketscreener.com/news/cipher-mining-inc-announces-pricing-of-1-4-billion-of-senior-secured-notes-ce7d5cdddc8af525)
+## Now, gold sign outside Oval Office is slammed: Why is Trump obsessed with all that glitters?
+Donald Trump’s fascination with gold goes all the way back to his days in New York in the 1980s as a real estate developer. His Trump Tower on 5th Avenue, Trump International Hotel Las Vegas, resorts at Mar-a-Lago and Doral and even his private plane are filled with gold-coloured and gold-accented fixtures, an aesthetic he has now brought to the White House
+[Read more](https://www.firstpost.com/explainers/donald-trumps-gold-obsession-oval-office-white-house-13948495.html)
 
 
 
-Last updated: 2025-11-06 12:50:57
+Last updated: 2025-11-07 02:27:23
