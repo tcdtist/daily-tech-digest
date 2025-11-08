@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## GTA 6 is delayed again: Fans erupt in despair and memes over the long wait
-The developer behind GTA 6, Rockstar Games, announced that the new launch date is November 19, 2026.
-[Read more](https://www.hindustantimes.com/trending/us/gta-6-is-delayed-again-fans-erupt-in-despair-and-memes-over-the-long-wait-101762474414464.html)
+## Cooperative Court can adjudicate disputes over housing society redevelopment: HC
+The court was deciding a batch of petitions filed by members of a housing society, challenging a 2019 cooperative appellate court order that limited the cooperative court’s powers to hear their dispute with a developer | Mumbai news
+[Read more](https://www.hindustantimes.com/cities/mumbai-news/cooperative-court-can-adjudicate-disputes-over-housing-society-redevelopment-hc-101762541892460.html)
 
 
 
-Last updated: 2025-11-07 12:49:44
+Last updated: 2025-11-08 12:43:22
