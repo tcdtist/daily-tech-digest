@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Cooperative Court can adjudicate disputes over housing society redevelopment: HC
-The court was deciding a batch of petitions filed by members of a housing society, challenging a 2019 cooperative appellate court order that limited the cooperative court’s powers to hear their dispute with a developer | Mumbai news
-[Read more](https://www.hindustantimes.com/cities/mumbai-news/cooperative-court-can-adjudicate-disputes-over-housing-society-redevelopment-hc-101762541892460.html)
+## Pfizer wins major $10B Metsera deal, beats out Novo Nordisk
+Pfizer has won a $10 billion deal to acquire obesity drug developer Metsera, beating Danish rival Novo Nordisk following a fierce bidding war.
+[Read more](https://www.foxbusiness.com/fox-news-health/pfizer-wins-10b-bidding-war-obesity-drug-developer-metsera-major-pharmaceutical-acquisition)
 
 
 
-Last updated: 2025-11-08 12:43:22
+Last updated: 2025-11-09 02:41:02
