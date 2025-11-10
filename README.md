@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Techie exposes how AI became a new tool to dupe employees at his startup in viral post
-A software developer shared a concerning trend on Reddit where AI tools are used to increase employee workload without fair compensation. Management at a startup mandated employees pay for an AI coding assistant, promising reimbursement, but later imposed strict conditions, leading to frustration and a feeling of exploitation.
-[Read more](https://economictimes.indiatimes.com/magazines/panache/techie-exposes-how-ai-became-a-new-tool-to-dupe-employees-at-his-startup-in-viral-post/articleshow/125198001.cms)
+## Jeffrey Tobolski, ex-McCook mayor convicted in corruption case, dies
+The Democratic mayor and Cook County Board member had admitted to accepting more than $250,000 in bribes or extortion payments and other benefits like cigars, dinners, sports tickets and free air conditioning units that a developer installed at his home.
+[Read more](https://www.chicagotribune.com/2025/11/09/jeffrey-tobolski-ex-mccook-mayor-convicted-in-corruption-case-dies-months-before-prison-term-was-to-begin/)
 
 
 
-Last updated: 2025-11-10 02:44:43
+Last updated: 2025-11-10 12:52:09
