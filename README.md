@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Bombay high court restrains developer from making additions to Tardeo twin towers
-Mumbai: In a high-stakes legal battle, the Bombay high court on Tuesday in an interim order restrained developer S D Corporation from making any addit.
-[Read more](https://timesofindia.indiatimes.com/city/mumbai/bombay-high-court-restrains-developer-from-making-additions-to-tardeo-twin-towers/articleshow/125254706.cms)
+## Bitrise Mobile Insights Report defines new benchmarks for app velocity and performance, and reveals how elite teams cut build times by 28%
+**media[824481]**Analysis of 10M+ Bitrise builds demonstrates how innovative teams release faster, what developer tools are gaining traction, and how engineering leaders can benchmark efficiency and accelerate app delivery.
+[Read more](https://www.manilatimes.net/2025/11/12/tmt-newswire/pr-newswire/bitrise-mobile-insights-report-defines-new-benchmarks-for-app-velocity-and-performance-and-reveals-how-elite-teams-cut-build-times-by-28/2222247)
 
 
 
-Last updated: 2025-11-12 12:52:25
+Last updated: 2025-11-13 02:41:57
