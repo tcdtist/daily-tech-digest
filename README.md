@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Great Value Realty launches ₹600 crore luxury residential project in Noida
-Noida-based developer Great Value Realty has launched 280 luxury apartments in Sector 107, Noida, priced from ₹7 crore onwards | Real Estate News
-[Read more](https://www.hindustantimes.com/real-estate/great-value-realty-launches-600-crore-luxury-residential-project-in-noida-101763042503251.html)
+## Thai Retail Giant Central Pattana Launches “The Central” -
+BANGKOK, Thailand, Nov. 14, 2025 (GLOBE NEWSWIRE) -- Central Pattana plc, Thailand’s No. 1 sustainable real estate developer, introduces The Central —...
+[Read more](https://www.globenewswire.com/news-release/2025/11/14/3188134/0/en/Thai-Retail-Giant-Central-Pattana-Launches-The-Central-A-New-Global-Landmark-Transforming-Bangkok-s-Urban-Future.html)
 
 
 
-Last updated: 2025-11-14 02:28:56
+Last updated: 2025-11-14 12:50:19
