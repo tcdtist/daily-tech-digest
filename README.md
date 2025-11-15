@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Thai Retail Giant Central Pattana Launches “The Central” -
-BANGKOK, Thailand, Nov. 14, 2025 (GLOBE NEWSWIRE) -- Central Pattana plc, Thailand’s No. 1 sustainable real estate developer, introduces The Central —...
-[Read more](https://www.globenewswire.com/news-release/2025/11/14/3188134/0/en/Thai-Retail-Giant-Central-Pattana-Launches-The-Central-A-New-Global-Landmark-Transforming-Bangkok-s-Urban-Future.html)
+## Dispatch Review - Fantastic Superhero TV
+The spirit of Telltale Games' excellent episodic storytelling feels alive and well in Dispatch, a superhero adventure by developer AdHoc Studio.
+[Read more](https://www.gamespot.com/reviews/dispatch-review-fantastic-superhero-tv/1900-6418442/)
 
 
 
-Last updated: 2025-11-14 12:50:19
+Last updated: 2025-11-15 02:24:41
