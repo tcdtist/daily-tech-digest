@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## The Best JD Edwards Developer Companies in the USA
-Explore trusted JD Edwards developer companies in the USA delivering expert ERP solutions, integrations, and ongoing system support.
-[Read more](https://techbullion.com/the-best-jd-edwards-developer-companies-in-the-usa/)
+## Baldur's Gate 3 and Clair Obscur: Expedition 33 star "cannot wait" to join the cast of Warframe developer's new fantasy MMO Soulframe
+Jennifer English is lending her voice to yet another RPG
+[Read more](https://www.gamesradar.com/games/mmo/baldurs-gate-3-and-clair-obscur-expedition-33-star-cannot-wait-to-join-the-cast-of-warframe-developers-new-fantasy-mmo-soulframe/)
 
 
 
-Last updated: 2025-11-16 02:44:57
+Last updated: 2025-11-16 12:44:02
