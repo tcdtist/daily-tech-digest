@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Merlin Labs, Inc. and Inflection Point Acquisition Corp. IV Announce Upsizing of PIPE Investment to More Than $200 Million
-Merlin Labs, Inc. (“Merlin”), a leading developer of assured, autonomous flight technology for defense customers, and Inflection Point Acquisition Corp. IV (...
-[Read more](https://www.businesswire.com/news/home/20251117366981/en/Merlin-Labs-Inc.-and-Inflection-Point-Acquisition-Corp.-IV-Announce-Upsizing-of-PIPE-Investment-to-More-Than-%24200-Million)
+## SunHydrogen Expands on Collaboration with Partner CNBM’s
+Coralville, IA , Nov. 18, 2025 (GLOBE NEWSWIRE) -- SunHydrogen, Inc. (OTCQB: HYSR), the developer of a breakthrough technology that produces renewable...
+[Read more](https://www.globenewswire.com/news-release/2025/11/18/3189818/0/en/SunHydrogen-Expands-on-Collaboration-with-Partner-CNBM-s-CTF-Solar-GmbH-at-China-International-Import-Expo.html)
 
 
 
-Last updated: 2025-11-18 02:28:32
+Last updated: 2025-11-18 12:51:34
