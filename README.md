@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Kalyan developer accuses Shiv Sena youth leader, six others of extortion; FIR lodged
-A Kalyan developer accused a Shiv Sena youth leader and six others of extortion and intimidation, leading to a police FIR. The accused denied the allegations. | Mumbai news
-[Read more](https://www.hindustantimes.com/cities/mumbai-news/kalyan-developer-accuses-shiv-sena-youth-leader-six-others-of-extortion-fir-lodged-101763319667705.html)
+## Merlin Labs, Inc. and Inflection Point Acquisition Corp. IV Announce Upsizing of PIPE Investment to More Than $200 Million
+Merlin Labs, Inc. (“Merlin”), a leading developer of assured, autonomous flight technology for defense customers, and Inflection Point Acquisition Corp. IV (...
+[Read more](https://www.businesswire.com/news/home/20251117366981/en/Merlin-Labs-Inc.-and-Inflection-Point-Acquisition-Corp.-IV-Announce-Upsizing-of-PIPE-Investment-to-More-Than-%24200-Million)
 
 
 
-Last updated: 2025-11-17 12:51:36
+Last updated: 2025-11-18 02:28:32
