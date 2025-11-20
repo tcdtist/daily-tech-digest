@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## New Relic Introduces Agentic AI Integrations with Microsoft Azure to Reduce MTTR and Boost Developer Productivity
-Businesses can drive growth and reduce downtime by harnessing the power of AI to predict, prevent, and orchestrate issues By integrating with New Reli...
-[Read more](https://itwire.com/business-it-news/data/new-relic-introduces-agentic-ai-integrations-with-microsoft-azure-to-reduce-mttr-and-boost-developer-productivity.html)
+## Boulder cell tower is at center of lawsuit between AT&T, developer
+A roughly 42-foot cell tower stands at the back of the City Church parking lot, located off Jay Road in north Boulder. It also stands in the middle of a lawsuit between a cellular company and a real estate developer.
+[Read more](https://www.dailycamera.com/2025/11/19/boulder-cell-tower-lawsuit-att/)
 
 
 
-Last updated: 2025-11-19 12:51:42
+Last updated: 2025-11-20 02:26:44
