@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Huawei Developer Competition 2025 Asia-Pacific Grand Finals Successfully Concluded
-HONG KONG, Nov. 21, 2025 /PRNewswire/ -- The Huawei Developer Competition 2025 Asia-Pacific Final Pitch concluded successfully on November 19, 2025, at The Hong Kong Polytechnic University. This year's competition attracted close to 1,000 developers from 10 countries and regions across the Asia-Pacific, showcasing 192 high-quality projects. Among them, 15 outstanding teams advanced to the final pitch-9 from the Society & Sustainability track and 6 from the Finance track.
-[Read more](https://www.manilatimes.net/2025/11/21/tmt-newswire/pr-newswire/huawei-developer-competition-2025-asia-pacific-grand-finals-successfully-concluded/2229396)
+## "So awesome to see." Battlefield 6 dev says ex-DICE developers are coming back in droves - that bodes well for Season 2, REDSEC, and updates beyond
+According to one DICE developer, many former devs are coming back to Battlefield Studios to work on the wildly successful Battlefield 6.
+[Read more](https://www.windowscentral.com/gaming/battlefield-6-dev-says-ex-dice-developers-are-coming-back-in-droves-that-bodes-well-for-season-2-redsec-and-updates-beyond)
 
 
 
-Last updated: 2025-11-22 02:22:19
+Last updated: 2025-11-22 12:42:43
