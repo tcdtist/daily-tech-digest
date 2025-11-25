@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Scaling ML Infrastructure: Insights from Surya Bhaskar Reddy Karri
-Surya Bhaskar Reddy Karri, a software engineer with extensive experience in developing and optimizing developer productivity tools for big data and machine learning infrastructure at companies like Pinterest, has been central to this evolution. His work on platforms such as MLDeploy and ModelHub highlights the industry's move toward integrated systems that prioritize developer experience, automation, and operational stability. Karri’s insights reflect a broader trend of treating internal infrastructure as a product, designed to serve the engineers and data scientists who use it daily.
-[Read more](https://techbullion.com/scaling-ml-infrastructure-insights-from-surya-bhaskar-reddy-karri/)
+## Cyberscope Sets Benchmark as First Audited Firm in Solana's Ecosystem
+Cyberscope, part of TAC Security, is now the first smart contract audit firm approved in the Solana Ecosystem Directory. This approval connects Cyberscope directly with Solana's expanding developer community, promising a surge in audit requests as DeFi and other Web3 applications thrive.
+[Read more](https://www.devdiscourse.com/article/technology/3708275-cyberscope-sets-benchmark-as-first-audited-firm-in-solanas-ecosystem)
 
 
 
-Last updated: 2025-11-24 12:52:51
+Last updated: 2025-11-25 02:41:39
