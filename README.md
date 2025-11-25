@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Cyberscope Sets Benchmark as First Audited Firm in Solana's Ecosystem
-Cyberscope, part of TAC Security, is now the first smart contract audit firm approved in the Solana Ecosystem Directory. This approval connects Cyberscope directly with Solana's expanding developer community, promising a surge in audit requests as DeFi and other Web3 applications thrive.
-[Read more](https://www.devdiscourse.com/article/technology/3708275-cyberscope-sets-benchmark-as-first-audited-firm-in-solanas-ecosystem)
+## Terrestrial Energy to Participate in Upcoming Investor
+CHARLOTTE, N.C., Nov. 25, 2025 (GLOBE NEWSWIRE) -- Terrestrial Energy Inc. (NASDAQ: IMSR) (“Terrestrial Energy” or “the Company”), a developer of small...
+[Read more](https://www.globenewswire.com/news-release/2025/11/25/3194235/0/en/Terrestrial-Energy-to-Participate-in-Upcoming-Investor-Conferences.html)
 
 
 
-Last updated: 2025-11-25 02:41:39
+Last updated: 2025-11-25 12:52:23
