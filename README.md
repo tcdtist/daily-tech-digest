@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Terrestrial Energy to Participate in Upcoming Investor
-CHARLOTTE, N.C., Nov. 25, 2025 (GLOBE NEWSWIRE) -- Terrestrial Energy Inc. (NASDAQ: IMSR) (“Terrestrial Energy” or “the Company”), a developer of small...
-[Read more](https://www.globenewswire.com/news-release/2025/11/25/3194235/0/en/Terrestrial-Energy-to-Participate-in-Upcoming-Investor-Conferences.html)
+## Rio Silver Provides Corporate Update as the Company Advances Toward High-Grade Silver Development in Peru
+Strategic groundwork underway at Maria Norte as Rio Silver positions itself to become a next-generation silver developer in one of the world’s most prolific mineral belts
+[Read more](https://www.manilatimes.net/2025/11/25/tmt-newswire/globenewswire/rio-silver-provides-corporate-update-as-the-company-advances-toward-high-grade-silver-development-in-peru/2231437)
 
 
 
-Last updated: 2025-11-25 12:52:23
+Last updated: 2025-11-26 02:42:02
