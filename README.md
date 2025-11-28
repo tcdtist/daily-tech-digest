@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## TagEnergy Naracoorte big battery project raises concerns about take
-One of Australia's largest battery energy storage systems would be built on farmland in South Australia's south-east in a proposal that the developer says will lower electricity costs.
-[Read more](https://www.abc.net.au/news/2025-11-27/tagenergy-naracoorte-big-battery-project-concerns-farm-land-sa/106053784)
+## Splitgate 2 Will Relaunch In Late December, Four Months After Abysmal Launch
+Splitgate 2 will relaunch later in December, announced developer 1047 Games, four months after it took the game back into beta.
+[Read more](https://wccftech.com/splitgate-2-relaunch-late-december-1047-games/)
 
 
 
-Last updated: 2025-11-27 12:52:34
+Last updated: 2025-11-28 02:27:23
