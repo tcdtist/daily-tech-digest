@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Lancor plans turnaround with debt revamp, new projects
-India Business News: Chennai: BSE-listed real estate developer Lancor Holdings expects to return to profitability by FY2026–27, supported by a sharp reduction in borrowing.
-[Read more](https://timesofindia.indiatimes.com/business/india-business/lancor-plans-turnaround-with-debt-revamp-new-projects/articleshow/125620197.cms)
+## PacBio to Participate in the Piper Sandler 37th Annual Healthcare Conference
+MENLO PARK, Calif., Nov. 28, 2025 -- PacBio , a leading developer of high-quality, highly accurate sequencing solutions, announced today that management will participate in a fireside chat at Piper...
+[Read more](https://www.marketscreener.com/news/pacbio-to-participate-in-the-piper-sandler-37th-annual-healthcare-conference-ce7d51dbd98cf02d)
 
 
 
-Last updated: 2025-11-28 12:50:51
+Last updated: 2025-11-29 02:27:13
