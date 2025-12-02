@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Narrabundah estate buyers hope to move in by early 2026
-Narrabundah's Eagle Ridge construction resumes. Buyers anticipate March 2024 occupancy after developer's financial woes.
-[Read more](https://www.canberratimes.com.au/story/9121394/narrabundah-estate-buyers-hope-to-move-in-by-early-2026/)
+## Shuka expects Gathoni loan balance this month after delay
+Shuka Minerals PLC - Africa-focused mine operator and developer - Says it expects Gathoni Muchai Investments Ltd to pay the balance of its loan to Shuka this month, instead of November. The balance is...
+[Read more](https://www.marketscreener.com/news/shuka-expects-gathoni-loan-balance-this-month-after-delay-ce7d51d8da8ef121)
 
 
 
-Last updated: 2025-12-01 12:53:47
+Last updated: 2025-12-02 02:44:21
