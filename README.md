@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Shuka expects Gathoni loan balance this month after delay
-Shuka Minerals PLC - Africa-focused mine operator and developer - Says it expects Gathoni Muchai Investments Ltd to pay the balance of its loan to Shuka this month, instead of November. The balance is...
-[Read more](https://www.marketscreener.com/news/shuka-expects-gathoni-loan-balance-this-month-after-delay-ce7d51d8da8ef121)
+## With 40% of Agentic AI Projects Predicted to Fail, Leading Software Developer Says Compliance Is the One Place Where Agentic AI Will Thrive
+The CEO of one of the world’s leading global compliance software developers, Ideagen, has today (December 2, 2025) said compliance represents the one domain ...
+[Read more](https://www.businesswire.com/news/home/20251201511477/en/With-40-of-Agentic-AI-Projects-Predicted-to-Fail-Leading-Software-Developer-Says-Compliance-Is-the-One-Place-Where-Agentic-AI-Will-Thrive)
 
 
 
-Last updated: 2025-12-02 02:44:21
+Last updated: 2025-12-02 12:54:53
