@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Developer says Grand Rapids housing study ‘not based on history, facts or common sense’
-Dan Hibma, of Land and Company Apartments, says the projected housing need doesn't align with expected population growth and questions Grand Rapids' use of tax subsidies to fund new projects.
-[Read more](https://www.mlive.com/news/grand-rapids/2025/12/developer-says-grand-rapids-housing-study-not-based-on-history-facts-or-common-sense.html)
+## Greater Noida Authority gives in-principle nod for co-developers in two more stalled projects
+In Sector 10, the Authority has approved Birla Estates as co-developer for the stalled project of Nobal Buildtech spread over about 20,000 sqm
+[Read more](https://www.hindustantimes.com/cities/noida-news/greater-noida-authority-gives-in-principle-nod-for-co-developers-in-two-more-stalled-projects-101764702911575.html)
 
 
 
-Last updated: 2025-12-03 02:43:49
+Last updated: 2025-12-03 12:55:23
