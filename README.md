@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Horizon Industrial Parks scales up to become South India’s largest logistics parks developer
-Horizon Industrial Parks, a Blackstone entity,  in a span of four years has emerged as one of the largest industrial and logistics developers in South India, building a strong footprint to support the economic growth in the region.
-[Read more](https://www.thehindu.com/business/horizon-industrial-parks-scales-up-to-become-south-indias-largest-logistics-parks-developer/article70366193.ece)
+## Winning at Scale: How Foxtel Delivers Flawless 4K Sports To 1M+ Concurrent Fans With Fastly’s Developer
+COMPANY NEWS:   Foxtel Group is Australia's leading subscription television and streaming company. Through its flagship consumer brands...
+[Read more](https://itwire.com/your-it-news/home-it/winning-at-scale-how-foxtel-delivers-flawless-4k-sports-to-1m-concurrent-fans-with-fastly%e2%80%99s-developer-friendly-cdn.html)
 
 
 
-Last updated: 2025-12-07 02:53:33
+Last updated: 2025-12-07 12:46:09
