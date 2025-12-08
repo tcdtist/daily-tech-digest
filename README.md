@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Developer to build 54-home estate by knocking down 'beautiful' house
-The plans have been approved
-[Read more](https://www.stokesentinel.co.uk/news/stoke-on-trent-news/developer-build-54-home-estate-10691235)
+## Vanke Seeks Onshore Bond Extensions Amid Liquidity Crunch
+Vanke Seeks Onshore Bond Extensions Amid Liquidity Crunch - State-backed developer seeks extensions on maturing notes as headquarters cash dwindles and major shareholder secures prime collateral
+[Read more](https://www.caixinglobal.com/2025-12-08/vanke-seeks-onshore-bond-extensions-amid-liquidity-crunch-102391213.html)
 
 
 
-Last updated: 2025-12-08 02:46:50
+Last updated: 2025-12-08 12:53:34
