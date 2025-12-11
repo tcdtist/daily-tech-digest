@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Capital Power providing electricity to Alberta data-centre builder
-Electricity producer’s binding MOU with an unnamed developer a boost to Alberta’s nascent industry
-[Read more](https://www.theglobeandmail.com/business/article-capital-power-providing-electricity-to-alberta-data-centre-builder/)
+## Mewgenics, the next game from The Binding of Isaac's developer, will arrive next February on PC
+Indie game developer Edmund McMillen hosted a Reddit AMA today offering some more details about his upcoming game Mewgenics.
+[Read more](https://www.engadget.com/gaming/mewgenics-the-next-game-from-the-binding-of-isaacs-developer-will-arrive-next-february-on-pc-235740063.html)
 
 
 
-Last updated: 2025-12-11 02:49:55
+Last updated: 2025-12-11 12:56:55
