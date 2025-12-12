@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## SciBase Expands Its Intellectual Property Portfolio to include the analysis of the epithelial skin barrier with New European Patent
-/PRNewswire/ -- SciBase Holding AB ("SciBase") [STO: SCIB], a leading developer of AI-based diagnostic solutions for skin disorders, announces that it has been...
-[Read more](https://www.prnewswire.co.uk/news-releases/scibase-expands-its-intellectual-property-portfolio-to-include-the-analysis-of-the-epithelial-skin-barrier-with-new-european-patent-302639296.html)
+## Cloverdale accepts Esmeralda developer’s report on water needs as residents press drought concerns
+The 4-1 decision in favor of the Esmeralda Land Company project came despite deep concerns from Cloverale residents worried about water scarcity linked to future growth ushered in by the proposed development.
+[Read more](https://www.pressdemocrat.com/2025/12/11/cloverdale-accepts-esmeralda-developers-report-on-water-needs-as-residents-press-drought-concerns/)
 
 
 
-Last updated: 2025-12-12 02:48:53
+Last updated: 2025-12-12 12:54:20
