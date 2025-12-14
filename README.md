@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## This Day in History, 1927-2025: Stanley Kwok changed False Creek
-Architect and developer moved to Vancouver in his 40s from Hong Kong, and was a force in the new highrise city
-[Read more](https://vancouversun.com/news/this-day-in-history-1927-2025-stanley-kwok-changed-vancouver-concord-pacific-bc-place)
+## Victory in 63-year-old case fetches land of gold at old rate; court says developer can’t benefit from its own delays, can’t invoke market escalation as shield
+Chandigarh: A legal battle that began when India was still finding its feet as a young nation has finally drawn to a close.With Punjab and Haryana hig.
+[Read more](https://timesofindia.indiatimes.com/city/chandigarh/victory-in-63-year-old-case-fetches-land-of-gold-at-old-rate-court-says-developer-cant-benefit-from-its-own-delays-cant-invoke-market-escalation-as-shield/articleshow/125952791.cms)
 
 
 
-Last updated: 2025-12-14 02:54:40
+Last updated: 2025-12-14 12:48:46
