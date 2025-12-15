@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Victory in 63-year-old case fetches land of gold at old rate; court says developer can’t benefit from its own delays, can’t invoke market escalation as shield
-Chandigarh: A legal battle that began when India was still finding its feet as a young nation has finally drawn to a close.With Punjab and Haryana hig.
-[Read more](https://timesofindia.indiatimes.com/city/chandigarh/victory-in-63-year-old-case-fetches-land-of-gold-at-old-rate-court-says-developer-cant-benefit-from-its-own-delays-cant-invoke-market-escalation-as-shield/articleshow/125952791.cms)
+## Stop buying supermarket wraps chef says as 4-ingredient recipe is so easy to do
+Recipe developer and TikTok creator Jerome shared his viral tortilla wrap recipe which only requires four simple ingredients you'll already have at home.
+[Read more](https://www.mirror.co.uk/lifestyle/food-drink/how-to-homemade-tortilla-wraps-36399233)
 
 
 
-Last updated: 2025-12-14 12:48:46
+Last updated: 2025-12-15 02:54:52
