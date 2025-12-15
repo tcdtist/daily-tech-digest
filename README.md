@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Stop buying supermarket wraps chef says as 4-ingredient recipe is so easy to do
-Recipe developer and TikTok creator Jerome shared his viral tortilla wrap recipe which only requires four simple ingredients you'll already have at home.
-[Read more](https://www.mirror.co.uk/lifestyle/food-drink/how-to-homemade-tortilla-wraps-36399233)
+## AboitizPower acquires Bohol solar project developer
+MANILA, Philippines — Aboitiz Power Corp. (AboitizPower) on Monday said that its business unit, Aboitiz Renewables Inc., signed an agreement to acquire a solar project developer in Bohol to expand its renewable energy portfolio.
+[Read more](https://www.manilatimes.net/2025/12/15/business/corporate-news/aboitizpower-acquires-bohol-solar-project-developer/2243167)
 
 
 
-Last updated: 2025-12-15 02:54:52
+Last updated: 2025-12-15 12:57:21
