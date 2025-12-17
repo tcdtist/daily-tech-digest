@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Carbon Streaming Announces Amendment to Azuero Reforestation Carbon Removal Stream
-TORONTO, Dec. 15, 2025 (GLOBE NEWSWIRE) -- Carbon Streaming Corporation (Cboe CA: NETZ) (OTCQB: OFSTF) (FSE: M2Q) ('Carbon Streaming” or the 'Company”) today announce amendments to the terms of the carbon credit streaming agreement (the 'Azuero ReforestationStream”) with Azuero Reforestación Colectiva, S.A. ('ARC”), a wholly owned subsidiary of leading project developer Ponterra Ltd. ('Ponterra”), Microsoft Corporation ('Microsoft”) and Rubicon Carbon Capital LLC ('Rubicon”) for the ARC Restauro Azura project (the 'Azuero Reforestation Project” or the 'Project”) located in Panama.
-[Read more](https://www.manilatimes.net/2025/12/16/tmt-newswire/globenewswire/carbon-streaming-announces-amendment-to-azuero-reforestation-carbon-removal-stream/2244010)
+## Divinity Will Be Turn-Based RPG with Early Access Release, Larian Confirms
+Larian Studios CEO Swen Vincke has confirmed that Divinity will be a turn-based RPG launching in early access, with the developer targeting a significantly shorter development cycle than Baldur's Gate 3's six-year production.
+[Read more](https://www.altchar.com/game-news/divinity-will-be-turn-based-rpg-with-early-access-release-larian-confirms-aICYS9y4XxuW)
 
 
 
-Last updated: 2025-12-16 12:55:57
+Last updated: 2025-12-17 02:46:05
