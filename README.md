@@ -2,12 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## The Atari-branded hotel dream is still alive and now wants you to invest.
-Nearly six years after a licensing deal was supposed to result in eight Atari-themed hotels across the country a new developer is hoping thousands of retro gaming fans are willing to invest at least $500 to help fund plans to start building the first one in Phoenix, Arizona, starting late next year.
-[Image: https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/phoenix_atari_hotel_1.jpg?quality=90&strip=all]
-[Image: https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/phoenix_atari_hotel_2.jpg?quality=90&strip=all]
-[Read more](https://www.theverge.com/news/846229/atari-hotel-intersection-development-phoenix-arizona)
+## Developer booked after piling crane crashes into Prabhadevi building
+The crane was being used at a construction site adjacent to the housing society, and the developer, contractor and other functionaries have been booked for negligence, police said | Mumbai news
+[Read more](https://www.hindustantimes.com/cities/mumbai-news/developer-booked-after-piling-crane-crashes-into-prabhadevi-building-101765998551450.html)
 
 
 
-Last updated: 2025-12-18 02:46:24
+Last updated: 2025-12-18 12:54:04
