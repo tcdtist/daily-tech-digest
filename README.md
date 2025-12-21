@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## 101 Ash St. developer awarded federal subsidies for low-income housing project
-MRK-Create team expects to start construction shortly after closing escrow in mid-2026 on a long-term lease with the city of San Diego.
-[Read more](https://www.sandiegouniontribune.com/2025/12/19/101-ash-st-developer-awarded-federal-subsidies-for-low-income-housing-project/)
+## Star Best Senior Living Award at Asia Pacific Property Awards
+Pune, India — Paranjape Schemes Construction Ltd (PSCL), a leading real estate developer in India, proudly announces that its senior living project, Athashri at Forest Trails, Pune, has been awarded the 5-Star Award for Best Senior Living Development in India...
+[Read more](https://www.tribuneindia.com/news/business/paranjape-schemes-athashri-forest-trails-pune-secures-5-star-best-senior-living-award-at-asia-pacific-property-awards/)
 
 
 
-Last updated: 2025-12-20 12:48:36
+Last updated: 2025-12-21 02:54:53
