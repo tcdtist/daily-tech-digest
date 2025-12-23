@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Church-Developer Pacts A Win For Housing, Houses Of Worship
-A unique partnership between a church and a developer in Vancouver resulted in the creation of The Butterfly, a high-rise condominium building on church land.
-[Read more](https://www.forbes.com/sites/jeffsteele/2025/12/22/church-developer-pacts-a-win-for-housing-houses-of-worship/)
+## ‘Call of Duty’ game developer Vince Zampella killed in Angeles Crest Highway crash
+The single-car collision happened on Sunday, Dec. 21.
+[Read more](https://www.ocregister.com/2025/12/22/call-of-duty-game-developer-vince-zampella-killed-in-angeles-crest-highway-crash/)
 
 
 
-Last updated: 2025-12-23 02:51:25
+Last updated: 2025-12-23 12:54:50
