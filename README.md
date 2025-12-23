@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Crypto exec - TradingView News
-Migrating Bitcoin BTCUSD to post-quantum standards will take at least 5-10 years, according to Bitcoin core developer and co-founder of crypto custody company
-[Read more](https://www.europesays.com/2649233/)
+## Church-Developer Pacts A Win For Housing, Houses Of Worship
+A unique partnership between a church and a developer in Vancouver resulted in the creation of The Butterfly, a high-rise condominium building on church land.
+[Read more](https://www.forbes.com/sites/jeffsteele/2025/12/22/church-developer-pacts-a-win-for-housing-houses-of-worship/)
 
 
 
-Last updated: 2025-12-22 12:53:31
+Last updated: 2025-12-23 02:51:25
