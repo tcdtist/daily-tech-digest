@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Mercedes-Benz acquires stake in Chinese autonomous driving developer for US$191 million
-The German carmaker obtains a 3 per cent stake in Chongqing Qianli Technology.
-[Read more](https://www.scmp.com/business/china-business/article/3337719/mercedes-benz-acquires-stake-chinese-autonomous-driving-developer-us191-million)
+## HC appoints to third party to look into SRA projects by Darshan Developers
+The court noted that despite selling 531 flats and commercial units and handling multiple slum redevelopment projects in the city, the developer’s proprietors showed almost no funds in their bank accounts | Mumbai news
+[Read more](https://www.hindustantimes.com/cities/mumbai-news/hc-appoints-to-third-party-to-look-into-sra-projects-by-darshan-developers-101766689614288.html)
 
 
 
-Last updated: 2025-12-26 02:50:01
+Last updated: 2025-12-26 12:52:35
