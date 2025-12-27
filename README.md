@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## HC appoints to third party to look into SRA projects by Darshan Developers
-The court noted that despite selling 531 flats and commercial units and handling multiple slum redevelopment projects in the city, the developer’s proprietors showed almost no funds in their bank accounts | Mumbai news
-[Read more](https://www.hindustantimes.com/cities/mumbai-news/hc-appoints-to-third-party-to-look-into-sra-projects-by-darshan-developers-101766689614288.html)
+## GTA 6 'Probably' Won't Cost $100, Says Former Rockstar Games Developer
+Obbe Vermeij, the former technical director at Rockstar North, has revealed that the video game company had once planned Grand Theft Auto games set in international cities like Rio de Janeiro, Moscow, Istanbul and Tokyo. Amid the speculations of a $100 price tag for GTA 6, he also revealed why it ‘probably’ won’t happen. In an interview with Gameshub last week, Vermeij talked about wide-ranging topics, including the Grand Theft Auto series and the highly anticipated launch of GTA 6.
+[Read more](https://www.ndtvprofit.com/trending/gta-6-probably-wont-cost-100-says-former-rockstar-games-developer)
 
 
 
-Last updated: 2025-12-26 12:52:35
+Last updated: 2025-12-27 02:47:24
