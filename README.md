@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## New Era Energy & Digital Issues Statement Setting the Record Straight Regarding New Mexico Civil Complaint
-New Era Energy & Digital, Inc. (Nasdaq: NUAI) (“New Era” or the “Company”), a developer and operator of next-generation digital infrastructure and integrated...
-[Read more](https://www.businesswire.com/news/home/20251229437325/en/New-Era-Energy-Digital-Issues-Statement-Setting-the-Record-Straight-Regarding-New-Mexico-Civil-Complaint)
+## Indian office developer Bagmane Prime Office trust files for $445 million IPO
+Blackstone-backed Indian office developer Bagmane ‍Prime Office REIT ​has filed for a $445.6 million initial ⁠public offering, its draft prospectus showed on Tuesday.
+[Read more](https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/indian-office-developer-bagmane-prime-office-trust-files-for-445-million-ipo/articleshow/126254873.cms)
 
 
 
-Last updated: 2025-12-30 12:55:01
+Last updated: 2025-12-31 02:51:43
