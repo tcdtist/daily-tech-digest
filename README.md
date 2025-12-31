@@ -2,10 +2,12 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Indian office developer Bagmane Prime Office trust files for $445 million IPO
-Blackstone-backed Indian office developer Bagmane ‍Prime Office REIT ​has filed for a $445.6 million initial ⁠public offering, its draft prospectus showed on Tuesday.
-[Read more](https://economictimes.indiatimes.com/markets/digital-real-estate/realty-news/indian-office-developer-bagmane-prime-office-trust-files-for-445-million-ipo/articleshow/126254873.cms)
+## WiseTech to Sell Expedient to Appease Competition Regulator
+By Stuart Condie
+SYDNEY--Logistics software developer WiseTech Global will sell its Expedient Software unit to address regulators' competition concerns over its largest ever acquisition.
+...
+[Read more](https://www.marketscreener.com/news/wisetech-to-sell-expedient-to-appease-competition-regulator-ce7e59d8dd8af322)
 
 
 
-Last updated: 2025-12-31 02:51:43
+Last updated: 2025-12-31 12:53:30
