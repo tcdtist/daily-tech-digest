@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Chennai real estate developer Casagrand files DRHP for raising ₹1,220 crore
-Chennai's Casagrand files DRHP to raise ₹1,220 crore, primarily for debt repayment and capital allocation rationalization.
-[Read more](https://www.thehindubusinessline.com/markets/chennai-real-estate-developer-casagrand-files-drhp-for-raising-1220-crore/article70457077.ece)
+## HC allows developer to register sale deed of auctioned Mazgaon plot
+The EOW had instructed the sub-registrar of assurances not to register the sale deed of the property, as the developer had allegedly defrauded at least 90 flat buyers to the tune of ₹210 crore | Mumbai news
+[Read more](https://www.hindustantimes.com/cities/mumbai-news/hc-allows-developer-to-register-sale-deed-of-auctioned-mazgaon-plot-101767202662651.html)
 
 
 
-Last updated: 2026-01-01 03:04:12
+Last updated: 2026-01-01 12:53:35
