@@ -2,12 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## WiseTech to Sell Expedient to Appease Competition Regulator
-By Stuart Condie
-SYDNEY--Logistics software developer WiseTech Global will sell its Expedient Software unit to address regulators' competition concerns over its largest ever acquisition.
-...
-[Read more](https://www.marketscreener.com/news/wisetech-to-sell-expedient-to-appease-competition-regulator-ce7e59d8dd8af322)
+## Chennai real estate developer Casagrand files DRHP for raising ₹1,220 crore
+Chennai's Casagrand files DRHP to raise ₹1,220 crore, primarily for debt repayment and capital allocation rationalization.
+[Read more](https://www.thehindubusinessline.com/markets/chennai-real-estate-developer-casagrand-files-drhp-for-raising-1220-crore/article70457077.ece)
 
 
 
-Last updated: 2025-12-31 12:53:30
+Last updated: 2026-01-01 03:04:12
