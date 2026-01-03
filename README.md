@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Industrial business park with gas station, convenience store proposed in DeKalb
-A developer wants to install an industrial and commercial business park with travel center, a gas station and convenience store along Peace Road in DeKalb. The plan is being called the DeKalb Commerce Center, documents show.
-[Read more](https://www.shawlocal.com/daily-chronicle/2026/01/02/industrial-business-park-with-gas-station-convenience-store-proposed-in-dekalb/)
+## Ørsted files legal challenge against US government over windfarm lease freeze
+Europe’s biggest offshore wind developer seeking to overturn White House decision to suspend work on a $5bn wind farm project
+[Read more](https://www.theguardian.com/business/2026/jan/02/rsted-files-legal-challenge-against-us-government-over-windfarm-lease-freeze)
 
 
 
-Last updated: 2026-01-02 12:52:14
+Last updated: 2026-01-03 02:46:35
