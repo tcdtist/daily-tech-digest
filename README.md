@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Brazilian largest HDG plant to start operations in January
-This month, Projeart, a steel technology developer, will start an HDG plant in Fortaleza, capital of the Brazilian northeastern state of Ceará. With ...
-[Read more](https://www.steelorbis.com/steel-news/latest-news/brazilian-largest-hdg-plant-to-start-operations-in-january-1427422.htm)
+## Man Shares Inspiring Journey
+A Pune man turned his life around in 18 months by teaching himself to code after working in a factory, eventually landing a full-stack developer role with a US-based company.
+[Read more](https://www.ndtv.com/offbeat/from-factory-worker-to-full-stack-developer-in-18-months-man-shares-inspiring-journey-10248612)
 
 
 
-Last updated: 2026-01-03 12:50:32
+Last updated: 2026-01-04 03:05:27
