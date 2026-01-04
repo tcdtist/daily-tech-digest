@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Man Shares Inspiring Journey
-A Pune man turned his life around in 18 months by teaching himself to code after working in a factory, eventually landing a full-stack developer role with a US-based company.
-[Read more](https://www.ndtv.com/offbeat/from-factory-worker-to-full-stack-developer-in-18-months-man-shares-inspiring-journey-10248612)
+## Mumbai Consumer Commission Orders Thane Developer To Refund ₹7.92 Lakh For Delay In Sale Agreement Registration
+The Commission ordered the developer to return Rs 7,92,300, which the complainant had paid towards booking a plot in 2017, along with interest at the rate of nine per cent per annum. The Commission also directed the developer to pay an additional Rs 50,000 as compensation for mental agony and Rs 10,000 towards litigation costs.
+[Read more](https://www.freepressjournal.in/mumbai/mumbai-consumer-commission-orders-thane-developer-to-refund-792-lakh-for-delay-in-sale-agreement-registration)
 
 
 
-Last updated: 2026-01-04 03:05:27
+Last updated: 2026-01-04 12:51:15
