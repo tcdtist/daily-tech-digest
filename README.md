@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Ambarella Launches a Developer Zone to Broaden its Edge AI Ecosystem
-SANTA CLARA, Calif., Jan. 06, 2026 -- Ambarella, Inc. , an edge AI semiconductor company, today announced during CES the launch of its Ambarella Developer Zone . Located at...
-[Read more](https://www.marketscreener.com/news/ambarella-launches-a-developer-zone-to-broaden-its-edge-ai-ecosystem-ce7e59dfda8cf221)
+## WS Industries India raises Rs 400 crore with FPI participation for expansion
+Chennai: Chennai: Chennai-based WS Industries India, an EPC and industrial park developer, has raised around Rs 400 crore through a preferential issue.
+[Read more](https://timesofindia.indiatimes.com/city/chennai/ws-industries-india-raises-rs-400-crore-with-fpi-participation-for-expansion/articleshow/126381047.cms)
 
 
 
-Last updated: 2026-01-07 02:54:13
+Last updated: 2026-01-07 12:56:42
