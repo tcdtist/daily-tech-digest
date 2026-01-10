@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Developer Iron Stone transfers two Hahnemann properties to new ownership
-The real estate investment company has donated the New College Building to Drexel and sold a parking garage to the PPA.
-[Read more](https://www.inquirer.com/real-estate/commercial/iron-stone-hahnemann-buildings-drexel-university-ppa-20260109.html)
+## Go easy on Tornado Cash developer
+Buterin urged a lighter sentence for Tornado Cash developer Roman Storm. Privacy tools serve lawful purposes, he argues.
+[Read more](https://crypto.news/eth-vitalik-buterin-tornado-cash-developer/)
 
 
 
-Last updated: 2026-01-10 02:48:36
+Last updated: 2026-01-10 12:50:40
