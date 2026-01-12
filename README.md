@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Former Civic Auditorium site developer sues City of Omaha
-The city law department denied the developers allegations and said it is considering its own claims against the developer for its failure to perform under the contract.
-[Read more](https://omaha.com/news/local/business/development/article_d2ce303d-cf7f-4129-a8ea-de04d5dc1bac.html)
+## Former Premier League club owner and property developer leaves £2m in will to his family after death aged 69
+FOOTBALL mogul Eddie Mitchell – who made Sandbanks a millionaire’s playground – left a £2million last gift in his estate, The Sun can...
+[Read more](https://www.thesun.co.uk/sport/37879213/former-premier-league-owner-leaves-2-m-will-family/)
 
 
 
-Last updated: 2026-01-12 03:02:25
+Last updated: 2026-01-12 12:58:37
