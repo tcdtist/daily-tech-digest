@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## MCU’s Blade Movie Blunder Is Actually Great For Arkane’s Game
-If rumors about the MCU's Blade are legitimate, it may be a blessing in disguise for the Dishonored and Deathloop developer's Blade game.
-[Read more](https://screenrant.com/blade-movie-cancellation-arkane-game/)
+## Mumbai Fraud: ICICI Bank Cheated Of ₹2.72 Crore Through Forged Home Loan Documents, Pantnagar Police Book 5 Borrowers And Dombivli Developer
+Pantnagar Police have registered an FIR after ICICI Bank alleged it was cheated of Rs 2.72 crore through forged documents and fake employment records used to secure fraudulent home loans, with multiple borrowers and a Dombivli developer under investigation.
+[Read more](https://www.freepressjournal.in/mumbai/mumbai-fraud-icici-bank-cheated-of-272-crore-through-forged-home-loan-documents-pantnagar-police-book-5-borrowers-and-dombivli-developer)
 
 
 
-Last updated: 2026-01-14 12:58:18
+Last updated: 2026-01-15 02:55:03
