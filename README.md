@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Cary developer to get up to $12M in public funds to build over 200 apartments, homes
-Developers looking to turn build multi- and single-family residences at the former Maplewood School property in Cary will receive up to $12.35 million in public funding.
-[Read more](https://www.shawlocal.com/northwest-herald/2026/01/18/cary-developer-to-get-up-to-12m-in-public-funds-to-build-over-200-apartments-homes/)
+## Bengaluru Real Estate 'In Trouble'? CEO’s Viral Post Raises Red Flags - High Prices, Spam Calls
+A Bengaluru CEO’s sharp criticism of new flat buyers has reignited questions over soaring property prices, aggressive developer marketing and alleged DND violations., Bengaluru News, Times Now
+[Read more](https://www.timesnownews.com/bengaluru/bengaluru-real-estate-in-trouble-viral-post-calls-buyers-of-new-flats-in-bengaluru-complete-dummy-article-153468555)
 
 
 
-Last updated: 2026-01-18 12:50:41
+Last updated: 2026-01-19 03:03:05
