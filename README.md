@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Dharmendra, Achuthanandan, Harmanpreet, Akash missile developer among 2026 Padma awardees
-Dharmendra, Achuthanandan, Harmanpreet, Akash missile developer among 2026 Padma awardees - New Delhi, Jan 25 Veteran actor Dharmendra and Left stalwart and former Kerala Chief Minister V.S. Achuthanandan have ... Get Latest News on Health only on lokmattimes.com
-[Read more](https://www.lokmattimes.com/health/dharmendra-achuthanandan-harmanpreet-akash-missile-developer-among-2026-padma-awardees-2/)
+## Merck no longer in talks to buy Revolution Medicines, WSJ reports
+Merck is no longer in discussions to buy cancer drug developer Revolution Medicines , the Wall Street Journal reported on Sunday.
+[Read more](https://www.reuters.com/business/healthcare-pharmaceuticals/merck-no-longer-talks-buy-revolution-medicines-wsj-reports-2026-01-25/)
 
 
 
-Last updated: 2026-01-26 03:09:52
+Last updated: 2026-01-26 12:59:55
