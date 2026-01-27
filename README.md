@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Best Practices for Creating Truly Immersive VR Worlds
-Every game is the result of thousands of choices. Some of these choices are creative, some technical, and some concern the scope and budget. After pouring sweat and tears into a project, there is nothing more heartbreaking for a game developer than realizing that some early choice made long ago was not the best one …
-[Read more](https://www.roadtovr.com/five-lessons-building-bootstrap-island-creating-immersive-vr-worlds-rein-zobel/)
+## Apple releases beta 3 for iPadOS 26.3, tvOS 26.3, more
+Two weeks after its last beta releases, Apple just debuted developer beta 3 for iPadOS 26.3, tvOS 26.3, watchOS 26.3, and more.
+[Read more](https://9to5mac.com/2026/01/26/apple-releases-beta-3-for-ipados-26-3-tvos-26-3-more/)
 
 
 
-Last updated: 2026-01-27 03:02:11
+Last updated: 2026-01-27 13:02:08
