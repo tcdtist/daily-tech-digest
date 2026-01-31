@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## 135 homes to be built in Wynyard as developer wins planning appeal after High Court challenge
-Stockton Council rejected the plan, and the developer's appeal was dismissed by an inspector, but another inspector has decided it can go ahead
-[Read more](https://www.gazettelive.co.uk/news/teesside-news/wynyard-homes-appeal-objections-plan-32962931)
+## Developer withdraws controversial Hunting Hawk data center
+The project called for rezoning more than 450 acres and erecting a 10-building data center campus.
+[Read more](https://richmond.com/news/local/business/article_357992c3-ee6f-4e34-a44d-2fca4d219624.html)
 
 
 
-Last updated: 2026-01-30 13:07:13
+Last updated: 2026-01-31 03:16:13
