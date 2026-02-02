@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## San Diego, developer at impasse over Turquoise tower in Pacific Beach
-The city maintains that the height-limit-busting project, which calls for 139 hotel rooms and 75 apartments in a 22-story tower, is not legal in its current form.
-[Read more](https://www.sandiegouniontribune.com/2026/02/01/san-diego-developer-at-impasse-over-turquoise-tower-in-pacific-beach/)
+## Founder Is Back Riding the Latest AI Wave
+In Depth: Megvii Co-Founder Is Back Riding the Latest AI Wave - Yin Qi marks his return by joining developer StepFun as chairman, betting on a business that aims to integrate large models with smartphones and intelligent cars
+[Read more](https://www.caixinglobal.com/2026-02-02/in-depth-megvii-co-founder-is-back-riding-the-latest-ai-wave-102410570.html)
 
 
 
-Last updated: 2026-02-02 03:36:38
+Last updated: 2026-02-02 13:12:01
