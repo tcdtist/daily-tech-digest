@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## How Chinese hackers used Notepad++ to spy on companies doing business in East Asia
-Tech News News: Notepad++ users may have downloaded malware instead of a software update for half of 2025. Developer Don Ho confirmed on Monday that Chinese state-spo.
-[Read more](https://timesofindia.indiatimes.com/technology/tech-news/how-chinese-hackers-used-notepad-to-spy-on-companies-doing-business-in-east-asia/articleshow/127889317.cms)
+## Kirby Smart Set to Lose Key Defensive Mind, Who Helped Ex-Dawgs Star Jalen Carter to $12.5B NFL Team
+Georgia coach Kirby Smart faces losing key defensive developer of Jalen Carter, to NFL-bound Dallas Cowboys.
+[Read more](https://www.essentiallysports.com/ncaa-college-football-news-kirby-smart-set-to-lose-key-defensive-mind-who-helped-ex-dawgs-star-jalen-carter-to-twelve-point-five-billion-nfl-team/)
 
 
 
-Last updated: 2026-02-04 03:28:10
+Last updated: 2026-02-04 13:12:16
