@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## AdHoc Studio is "Working With Nintendo" to Address Dispatch Censorship on Nintendo Switch and Nintendo Switch 2 Versions
-Dispatch developer AdHoc Studio says it is "working with Nintendo" to address the censorship in the Nintendo Switch and Switch 2 versions.
-[Read more](https://wccftech.com/adhoc-studio-working-with-nintendo-to-address-dispatch-censorship-nintendo-switch-switch-2/)
+## Swansea man's surprise after finding abandoned Welsh village
+The reason it was abandoned remains a mystery with the local council and developer tight-lipped.
+[Read more](https://www.bbc.com/news/articles/cdjn0ed8vj1o)
 
 
 
-Last updated: 2026-02-05 03:28:52
+Last updated: 2026-02-05 13:14:04
