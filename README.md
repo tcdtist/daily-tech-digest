@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Kirby Smart Set to Lose Key Defensive Mind, Who Helped Ex-Dawgs Star Jalen Carter to $12.5B NFL Team
-Georgia coach Kirby Smart faces losing key defensive developer of Jalen Carter, to NFL-bound Dallas Cowboys.
-[Read more](https://www.essentiallysports.com/ncaa-college-football-news-kirby-smart-set-to-lose-key-defensive-mind-who-helped-ex-dawgs-star-jalen-carter-to-twelve-point-five-billion-nfl-team/)
+## AdHoc Studio is "Working With Nintendo" to Address Dispatch Censorship on Nintendo Switch and Nintendo Switch 2 Versions
+Dispatch developer AdHoc Studio says it is "working with Nintendo" to address the censorship in the Nintendo Switch and Switch 2 versions.
+[Read more](https://wccftech.com/adhoc-studio-working-with-nintendo-to-address-dispatch-censorship-nintendo-switch-switch-2/)
 
 
 
-Last updated: 2026-02-04 13:12:16
+Last updated: 2026-02-05 03:28:52
