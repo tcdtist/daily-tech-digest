@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Johnny Ronan firm criticises Stephen’s Green shopping centre redevelopment plan
-Developer’s property group says lack of residential element to €100m scheme undermines plan for a living city
-[Read more](https://www.irishtimes.com/business/2026/02/05/johnny-ronan-firm-criticises-stephens-green-shopping-centre-redevelopment-plan/)
+## Games Inbox: Is Bethesda overrated as a game developer?
+Friday’s Inbox is not impressed by Bethesda’s showing at the Partner Showcase, as a reader gets excited about the Bomberman Collection.
+[Read more](https://metro.co.uk/2026/02/06/games-inbox-bethesda-overrated-a-game-developer-26730240/)
 
 
 
-Last updated: 2026-02-06 03:28:11
+Last updated: 2026-02-06 13:11:52
