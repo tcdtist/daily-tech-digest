@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Games Inbox: Is Bethesda overrated as a game developer?
-Friday’s Inbox is not impressed by Bethesda’s showing at the Partner Showcase, as a reader gets excited about the Bomberman Collection.
-[Read more](https://metro.co.uk/2026/02/06/games-inbox-bethesda-overrated-a-game-developer-26730240/)
+## HC okays cutting of trees for Mohali rotaries, restrains mall developer from axing 41 trees on boundary
+Elaborating on what was permitted and what was not, the bench of Chief Justice Sheel Nagu and Justice Sanjiv Berry allowed Greater Mohali Area Development Authority (GMADA) to cut the remaining heritage trees for three rotaries on Sector 67-68-79-80, Sector 68-69-78-79 and Sohana junctions on PR-7 Road in Mohali
+[Read more](https://www.tribuneindia.com/news/chandigarh/hc-okays-tree-cutting-for-mohali-rotaries-restrains-mall-developer-from-axing-41-boundary-trees/)
 
 
 
-Last updated: 2026-02-06 13:11:52
+Last updated: 2026-02-07 03:21:41
