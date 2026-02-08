@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Build Enterprise-Grade Applications for Just $50
-Make life easier for your developer team.
-[Read more](https://www.entrepreneur.com/science-technology/build-enterprise-grade-applications-for-just-50/502439)
+## SRA developer booked for criminal intimidation and demolishing homes
+In Sion Koliwada, developers and 56 others face complaints for demolishing homes amid a slum redevelopment project, leaving families seeking temporary shelter. | Mumbai news
+[Read more](https://www.hindustantimes.com/cities/mumbai-news/sra-developer-booked-for-criminal-intimidation-and-demolishing-homes-101770491696567.html)
 
 
 
-Last updated: 2026-02-08 03:51:02
+Last updated: 2026-02-08 13:01:49
