@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## St. Charles’ Historic Barry House to be sold to developer, restored with help from city
-Instead of demolishing a historic St. Charles landmark to build a parking lot, the church that owns the building is now planning to sell it to a Geneva developer who will rehabilitate the structure with help from the city.
-[Read more](https://www.shawlocal.com/kane-county-chronicle/2026/02/09/st-charles-historic-barry-house-to-be-sold-to-developer-restored-with-help-from-city/)
+## This silver stock could triple in 12 months one broker says
+Boab Metals shares are undervalued at current levels, Shaw and Partners says, as the company moves from developer to producer status.
+[Read more](https://www.fool.com.au/2026/02/10/this-silver-stock-could-triple-in-12-months-one-broker-says/)
 
 
 
-Last updated: 2026-02-10 03:47:14
+Last updated: 2026-02-10 13:25:55
