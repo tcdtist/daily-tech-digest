@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Syncfusion® Wins 2026 DEVIES Award for Excellence in Developer Technology
-Essential Studio® earns top honors in the Programming Languages & Frameworks category and is recognized by Capterra and Software Advice in 2026 application development rankings
-[Read more](https://www.manilatimes.net/2026/02/10/tmt-newswire/globenewswire/syncfusion-wins-2026-devies-award-for-excellence-in-developer-technology/2275475)
+## CRD to vote on new developer charges to fund water supply project
+A 30-year plan for Greater Victoria's drinking water looking to improve the region's water system, supply and address potential risks is inching it's way through the Capital Regional District (CRD).
+[Read more](https://cheknews.ca/crd-to-vote-on-new-developer-charges-to-fund-water-supply-project-1304806/)
 
 
 
-Last updated: 2026-02-11 03:43:58
+Last updated: 2026-02-11 13:22:20
