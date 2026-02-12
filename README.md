@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## CRD to vote on new developer charges to fund water supply project
-A 30-year plan for Greater Victoria's drinking water looking to improve the region's water system, supply and address potential risks is inching it's way through the Capital Regional District (CRD).
-[Read more](https://cheknews.ca/crd-to-vote-on-new-developer-charges-to-fund-water-supply-project-1304806/)
+## Rural community to put 6-month pause on data centers following interest from developer
+A least one data center developer has expressed interest in York Township land.
+[Read more](https://www.mlive.com/news/ann-arbor/2026/02/rural-community-to-put-6-month-on-data-centers-following-interest-from-developer.html)
 
 
 
-Last updated: 2026-02-11 13:22:20
+Last updated: 2026-02-12 03:39:08
