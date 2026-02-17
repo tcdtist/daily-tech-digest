@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Springfield courthouse developer to be selected in mid-2026
-The about $600 million building is to be constructed and owned by a private company.
-[Read more](https://www.masslive.com/westernmass/2026/02/springfield-courthouse-developer-to-be-selected-in-mid-2026.html)
+## Pokémon Gen 10 Screenshots Show Off Scale Of Game's Open-World
+Fresh leaks from Pokémon developer Game Freak give us a look at the open-world featured in the next mainline games in the series
+[Read more](https://screenrant.com/pokemon-gen-10-leaked-images-open-world-size/)
 
 
 
-Last updated: 2026-02-16 13:15:52
+Last updated: 2026-02-17 03:32:00
