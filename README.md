@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Meet Raul John Aju, the ‘AI Kid of India’ who met António Guterres at India Impact Summit 2026
-During his interaction with the UN secretary-general, Raul John Aju introduced himself as the founder of a company and the developer of over 10 AI tools. He has already collaborated with the Kerala government and the Dubai AI Ministry to integrate AI into public services, besides having taught 1.5 lakh individuals — all by the age of 16.
-[Read more](https://www.cnbctv18.com/technology/meet-raul-john-aju-the-ai-kid-of-india-who-met-un-antonio-guterres-india-impact-summit-2026-ws-l-19854619.htm)
+## HC allows work to go ahead at high-rise near INS Shikra
+A division bench of justices Ravindra Ghuge and Abhay J Mantri allowed work at the site to continue, but warned that any construction beyond the permissible height of 53.07 meters would be at the “risk and consequences” of the developer, subject to demolition if found violating statutory norms | Mumbai news
+[Read more](https://www.hindustantimes.com/cities/mumbai-news/hc-allows-work-to-go-ahead-at-high-rise-near-ins-shikra-101771614757125.html)
 
 
 
-Last updated: 2026-02-21 03:19:39
+Last updated: 2026-02-21 12:59:46
