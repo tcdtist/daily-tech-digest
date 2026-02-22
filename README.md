@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## HC allows work to go ahead at high-rise near INS Shikra
-A division bench of justices Ravindra Ghuge and Abhay J Mantri allowed work at the site to continue, but warned that any construction beyond the permissible height of 53.07 meters would be at the “risk and consequences” of the developer, subject to demolition if found violating statutory norms | Mumbai news
-[Read more](https://www.hindustantimes.com/cities/mumbai-news/hc-allows-work-to-go-ahead-at-high-rise-near-ins-shikra-101771614757125.html)
+## ‘User error, not AI,’ caused AWS service disruption in December 2025, says Amazon
+The company highlighted that the involvement of AI tools was coincidental, and the same misconfiguration could occur with any developer tool or manual action.
+[Read more](https://www.financialexpress.com/life/technology-user-error-not-ai-caused-aws-service-disruption-in-december-2025-says-amazon-4150716/)
 
 
 
-Last updated: 2026-02-21 12:59:46
+Last updated: 2026-02-22 03:32:53
