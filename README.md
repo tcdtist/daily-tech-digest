@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Merlin Group acquires 3.3-acre land near Pune’s Koregaon Park for Rs 273 crore
-Merlin Prime Spaces, a subsidiary of the Kolkata property developer, is looking to build a commercial project on the land parcel with a total investment of over Rs 1,000 crore including the land cost.
-[Read more](https://economictimes.indiatimes.com/industry/services/property-/-cstruction/merlin-group-acquires-3-3-acre-land-near-punes-koregaon-park-for-rs-273-crore/articleshow/128818234.cms)
+## Festus aldermen OK hiring firm to negotiate data center deal over opponents' objections
+FESTUS — Over opponents' angry objections, the Festus City Council on Thursday night hired a consulting firm to help it negotiate an agreement with the developer of a data center
+[Read more](https://www.stltoday.com/news/local/government-politics/article_543bb904-e147-45d6-a883-54f12cdc74ee.html)
 
 
 
-Last updated: 2026-02-27 03:26:24
+Last updated: 2026-02-27 13:10:34
