@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## New Era Energy & Digital Announces 450 MW Behind-the-Meter Generation Plan at TCDC with Thunderhead Energy and TURBINE-X Energy
-New Era Energy & Digital, Inc. (Nasdaq: NUAI) (“New Era” or the “Company”), a developer and operator of next-generation digital infrastructure and integrated...
-[Read more](https://www.businesswire.com/news/home/20260227309475/en/New-Era-Energy-Digital-Announces-450-MW-Behind-the-Meter-Generation-Plan-at-TCDC-with-Thunderhead-Energy-and-TURBINE-X-Energy)
+## Littleton-based developer declares bankruptcy after $900K Alaska verdict
+Sundance Mountain Development, owned by Frank Melara, is bankrupt and shutting down after a judge in Alaska determined that it walked off a job at a naval base.
+[Read more](https://www.denverpost.com/2026/02/27/littleton-sundance-mountain-development-bankruptcy/)
 
 
 
-Last updated: 2026-02-28 03:06:23
+Last updated: 2026-02-28 12:56:25
