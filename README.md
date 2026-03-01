@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Littleton-based developer declares bankruptcy after $900K Alaska verdict
-Sundance Mountain Development, owned by Frank Melara, is bankrupt and shutting down after a judge in Alaska determined that it walked off a job at a naval base.
-[Read more](https://www.denverpost.com/2026/02/27/littleton-sundance-mountain-development-bankruptcy/)
+## Jemals sell Nottingham mansion as Buffalo pullback continues
+Douglas Jemal didn't waste any time. Just weeks after putting it up for sale, the Jemal family sold the Nottingham Terrace mansion that the developer bought six years ago.
+[Read more](https://buffalonews.com/news/local/business/development/article_52cc8bd6-8540-4721-b52a-432d7ae703b7.html)
 
 
 
-Last updated: 2026-02-28 12:56:25
+Last updated: 2026-03-01 03:38:09
