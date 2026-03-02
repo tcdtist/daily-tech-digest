@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## HoABL signs Kartik Aaryan as brand ambassador for ‘Nagpur Marina’
-business reporter : the house of abhinandan lodha (hoabl), india’s largest branded land developer, on friday announced bollywood actor kartik aaryan as the face of hoabl nagpur marina, its marquee waterfront plotted developmen
-[Read more](https://www.thehitavada.com//Encyc/2026/3/1/hoabl-signs-kartik-aaryan-as-brand-ambassador-for-nagpur-marina-.html)
+## Encinitas Council orders developer to build El Camino Real roadway improvements
+Design contract to redo Santa Fe Drive’s recent overhaul also gets green-lit
+[Read more](https://www.sandiegouniontribune.com/2026/03/01/encinitas-council-orders-developer-to-build-el-camino-real-roadway-improvements/)
 
 
 
-Last updated: 2026-03-01 12:59:58
+Last updated: 2026-03-02 03:27:16
