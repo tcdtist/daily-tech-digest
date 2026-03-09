@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Celebrated Designer to Pay Millions For Renovation of Golf Course in Madison: Report
-A municipal golf course in Madison could soon undergo a major transformation, as golf course developer Michael Keiser is expected to fund a multi-million-dollar renovation, according to reports.
-[Read more](https://www.yardbarker.com/golf/articles/celebrated_designer_to_pay_millions_for_renovation_of_golf_course_in_madison_report/s1_17768_43565211)
+## Modern Task Scheduler app shows what Windows 11 misses
+A modern Task Scheduler interface has surfaced, but it was built by one developer rather than Microsoft.
+[Read more](https://www.windowscentral.com/microsoft/windows-11/someone-made-a-modern-version-of-task-scheduler-for-windows-11-and-it-looks-awesome)
 
 
 
-Last updated: 2026-03-08 13:00:08
+Last updated: 2026-03-09 03:30:47
