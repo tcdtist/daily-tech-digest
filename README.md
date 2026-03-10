@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Nacon-Published The Mound: Omen of Cthulhu Will Arrive on PC, Xbox Series, and PS5 in July 2026
-Publisher Nacon and developer ACE Team have revealed that The Mound: Omen of Cthulhu will arrive on PC, PS5, and Xbox Series in July 2026.
-[Read more](https://wccftech.com/the-mound-omen-of-cthulhu-release-date-july-2026/)
+## This fully funded gold developer could more than double in value: Broker
+A broker says Rox Resources shares are looking cheap after the company locked in funding for its mine development this week.
+[Read more](https://www.fool.com.au/2026/03/10/this-fully-funded-gold-developer-could-more-than-double-in-value-broker/)
 
 
 
-Last updated: 2026-03-10 03:23:01
+Last updated: 2026-03-10 13:13:47
