@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Sanctions sought against firm that proposed a $1.1B plastics recycling facility in Pa.
-Lancaster engineering firm accuses developer's counsel of unacceptable behavior.
-[Read more](https://www.pennlive.com/news/2026/03/sanctions-sought-against-firm-that-proposed-a-11b-plastics-recycling-facility-in-pa.html)
+## PowerToys quietly became the best free developer toolkit on Windows, and most people only know it for FancyZones
+There's so much more to explore.
+[Read more](https://www.xda-developers.com/powertoys-became-best-toolkit-on-windows-most-know-fancyzones/)
 
 
 
-Last updated: 2026-03-12 13:13:31
+Last updated: 2026-03-13 03:25:47
