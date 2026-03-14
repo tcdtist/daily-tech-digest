@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Blight: Survival hits 1.5 million wishlists as devs drop brutal new combat teaser and major development update
-Blight: Survival has hit 1.5 million wishlists, and to mark the milestone, developer Pathfinder Studios and publisher Behaviour Interactive have dropped a new combat teaser alongside a candid dev update from creative director Ulrik. It looks brutal in the best possible way.
-[Read more](https://www.altchar.com/game-news/blight-survival-hits-1.5-million-wishlists-as-devs-drop-brutal-new-combat-teaser-and-major-development-update-acQeV2T42NW5)
+## Nvidia to focus on competition
+When Jensen Huang strides onto the stage of a packed hockey arena to kick off Nvidia’s annual developer conference on Monday, he is likely to reveal products and partnerships geared toward keeping the AI chipmaker atop a growing array of competitors.
+[Read more](https://www.bnnbloomberg.ca/business/2026/03/13/nvidia-to-focus-on-competition-beating-ai-advances-at-megaconference/)
 
 
 
-Last updated: 2026-03-13 13:11:06
+Last updated: 2026-03-14 03:23:36
