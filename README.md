@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## ₹590-crore IDFC First Bank fraud: Key conspirator Vikram Wadhwa held, sent to 5-day police remand
-Chandigarh-based hotelier and real estate developer had been on the run since the ₹590-crore scam involving Haryana government and UT municipal corporation accounts surfaced in February.
-[Read more](https://www.hindustantimes.com/cities/chandigarh-news/590crore-idfc-first-bank-fraud-key-conspirator-vikram-wadhwa-held-sent-to-5-day-police-remand-101773516584003.html)
+## Rs 1.5 lakh salary but only Rs 15,000 savings: Bengaluru techie surprised by the hidden reality behind his disappearing income
+A social media post about a Bengaluru-based software developer has gone viral after highlighting how high salaries in big cities do not always translate into large savings. The developer, who earns around ₹1.5 lakh per month, reportedly realised after a few months that rent, food, commuting, and other daily expenses were consuming most of his income. By the end of each month, he was left with savings of only about ₹15,000 to ₹20,000.
+[Read more](https://economictimes.indiatimes.com/magazines/panache/rs-1-5-lakh-salary-but-only-rs-15000-savings-bengaluru-techie-surprised-by-the-hidden-reality-behind-his-disappearing-income/articleshow/129590822.cms)
 
 
 
-Last updated: 2026-03-15 13:04:40
+Last updated: 2026-03-16 03:51:04
