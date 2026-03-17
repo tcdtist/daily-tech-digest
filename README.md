@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Middle East War Revives Interest in Alaska LNG
-The war in the Middle East has revived interest in the $44-billion Alaska LNG export project, leading developer Glenfarne Group to push for final binding agreements and investment decisions by early 2027.
-[Read more](https://oilprice.com/Latest-Energy-News/World-News/Middle-East-War-Revives-Interest-in-Alaska-LNG.html)
+## Mumbai News: 180 Meadows Project Homebuyers Allege Exclusion After 17-Year Wait In Goregaon’s Patra Chawl Redevelopment
+Over 180 Meadows project homebuyers in Goregaon claim exclusion from allotment despite paying ₹43 crore collectively. Buyers allege eligibility rules were changed after MHADA handed the project to a new developer, leaving families uncertain after a 17-year wait.
+[Read more](https://www.freepressjournal.in/mumbai/mumbai-news-180-meadows-project-homebuyers-allege-exclusion-after-17-year-wait-in-goregaons-patra-chawl-redevelopment)
 
 
 
-Last updated: 2026-03-17 03:29:58
+Last updated: 2026-03-17 13:23:45
