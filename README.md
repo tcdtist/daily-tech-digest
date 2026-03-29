@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Wanderstop developer Ivy Road is shutting down
-Ivy Road, the video game developer behind Annapurna-published cozy game Wanderstop, is shutting down on March 31.
-[Read more](https://www.engadget.com/gaming/wanderstop-developer-ivy-road-is-shutting-down-153655278.html)
+## Software developer refuses call from IITian CEO who used AI to write email: ‘I definitely won’t have time'
+A UK-based software engineer publicly declined a meeting request from an IIT-educated founder, citing his AI-written email as the reason. | Trending
+[Read more](https://www.hindustantimes.com/trending/software-developer-refuses-call-from-iitian-ceo-who-used-ai-to-write-email-i-definitely-won-t-have-time-101774745738344.html)
 
 
 
-Last updated: 2026-03-29 03:51:47
+Last updated: 2026-03-29 13:07:24
