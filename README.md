@@ -2,10 +2,11 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Developer scraps plan for Coweta data center, Project Atlas
-The same developer is behind Project Clydesdale near Owasso, which broke ground late last year, and a planned data center in Claremore.
-[Read more](https://tulsaworld.com/news/local/business/article_f486c51b-4513-476d-b27d-8f41c5c3d468.html)
+## Apple is testing end-to-end encrypted RCS chats again.
+Apple started testing the feature with its iOS 26.4 betas, but at the time, the company said the feature would actually arrive in a “future update.” Encrypted RCS messages are back with the first iOS 26.5 developer beta, 9to5Mac reports, so perhaps they will launch publicly on iOS soon.
+[Link: iOS 26.5's Messages app has RCS end-to-end encryption in beta - 9to5Mac | https://9to5mac.com/2026/03/30/ios-26-5s-messages-app-has-rcs-end-to-end-encryption-in-beta/ | 9to5Mac]
+[Read more](https://www.theverge.com/tech/903898/apple-is-testing-end-to-end-encrypted-rcs-chats-again)
 
 
 
-Last updated: 2026-03-31 03:47:09
+Last updated: 2026-03-31 13:45:14
