@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Greensboro's Hamilton Reserve apartments sold for $23.4M
-The Hamilton Reserve apartment campus in Greensboro has been sold for $23.4 million to a Gastonia multifamily residential developer. Complex at 405 Tullow Trail debuted in 2024 and contains 104
-[Read more](https://greensboro.com/news/local/business/real-estate/article_e060f944-bfdd-4a88-abf4-9b68c52982d1.html)
+## Dogness Reports Financial Results for the Six Months Ended December 31, 2025
+DONGGUAN, China and PLANO, Texas, April 2, 2026 /PRNewswire/ -- Dogness (International) Corporation ('Dogness' or the 'Company') (NASDAQ: DOGZ), a developer and manufacturer of a comprehensive line of Dogness-branded, OEM and private label pet products, today announced its financial results for the six months ended December 31, 2025.
+[Read more](https://www.manilatimes.net/2026/04/02/tmt-newswire/pr-newswire/dogness-reports-financial-results-for-the-six-months-ended-december-31-2025/2313062)
 
 
 
-Last updated: 2026-04-02 03:39:56
+Last updated: 2026-04-02 13:26:20
