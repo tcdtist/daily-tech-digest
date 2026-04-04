@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Developer sues Pa. township to save Bass Pro shop project
-Famvest seeks a preliminary injunction to force Muncy Twp. supervisors to sign a subdivision plan.
-[Read more](https://www.pennlive.com/news/2026/04/developer-sues-pa-township-to-save-bass-pro-shop-project.html)
+## Inside Reliance Jio campus: Techies offer glimpse into a developer’s day
+Reliance Jio techies shared a glimpse of their daily routine, showcasing work on large scale apps, teamwork and life inside a massive campus. | Trending
+[Read more](https://www.hindustantimes.com/trending/inside-reliance-jio-campus-techies-offer-glimpse-into-a-developer-s-day-101775228375744.html)
 
 
 
-Last updated: 2026-04-03 13:15:04
+Last updated: 2026-04-04 03:29:24
