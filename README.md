@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Developer Long renovating Penn Central building downtown
-Local developer Jeff Long recently began renovating one of downtown Altoona’s major buildings. Known for his Graystone line of apartment complexes, Long plans to create 30 one- and two-bedroom apartments on the upper floors of the Penn Central building across from the Post Office, with commercial space on the first floor. The approximately $8 million […]
-[Read more](https://www.altoonamirror.com/news/local-news/2026/04/developer-long-renovating-penn-central-building-downtown-2/)
+## “Threatened retaliation on first contact”: As I dig into a former Halo art director’s claims, I’m left questioning what else Microsoft didn’t want anyone to see.
+New allegations from a former Halo Studios developer outline claims of misconduct and organisational issues, prompting questions around accountability and internal investigations at Microsoft.
+[Read more](https://www.windowscentral.com/gaming/halo/threatened-retaliation-on-first-contact-as-i-dig-into-a-former-halo-art-directors-claims-im-left-questioning-what-else-microsoft-didnt-want-anyone-to-see)
 
 
 
-Last updated: 2026-04-04 13:07:06
+Last updated: 2026-04-05 03:51:24
