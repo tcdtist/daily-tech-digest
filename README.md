@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Project 'unsafe', pay Rs 4cr to buyer: Haryana Rera to Chintels Paradiso
-GURGAON: Haryana Rera has ordered Chintels India to pay over Rs 4 crore to a homebuyer in Chintels Paradiso, holding the developer liable for grave co.
-[Read more](https://timesofindia.indiatimes.com/city/gurgaon/project-unsafe-pay-rs-4cr-to-buyer-haryana-rera-to-chintels/articleshow/130048511.cms)
+## 2 buildings at Washington Square sold to local developer
+Chacharone Properties, a Worcester-based real estate company and developer, bought the buildings for $1.89 million on Wednesday, April 1, property records show.
+[Read more](https://www.telegram.com/story/business/real-estate/2026/04/06/chacharone-properties-buys-two-buildings-at-washington-square/89450700007/)
 
 
 
-Last updated: 2026-04-06 13:21:59
+Last updated: 2026-04-07 03:46:07
