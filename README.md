@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Developer unveils plan for luxury high-rise apartments on Ann Arbor’s old Kline’s lot
-Joe Giant, Ann Arbor's economic development director, joined Chicago-based representatives from the Hines development firm and architecture firm Goettsch Partners in presenting the new vision.
-[Read more](https://www.mlive.com/news/ann-arbor/2026/04/developer-unveils-plan-for-luxury-high-rise-apartments-on-ann-arbors-old-klines-lot.html)
+## 'Concern' for Birmingham's Electric Cinema after sign seen 'falling'
+Richard Parker has written to developer Glenbrook demanding 'urgent answers' over the state of the iconic Station Street venue
+[Read more](https://www.birminghammail.co.uk/news/midlands-news/concern-birminghams-electric-cinema-after-33727915)
 
 
 
-Last updated: 2026-04-07 13:41:51
+Last updated: 2026-04-08 03:48:21
