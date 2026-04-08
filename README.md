@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## 'Concern' for Birmingham's Electric Cinema after sign seen 'falling'
-Richard Parker has written to developer Glenbrook demanding 'urgent answers' over the state of the iconic Station Street venue
-[Read more](https://www.birminghammail.co.uk/news/midlands-news/concern-birminghams-electric-cinema-after-33727915)
+## Developer of proposed Pa. data center campus renews transparency pledge
+New York City firm is proposing four data centers in Great Stream Commons business park in Union County.
+[Read more](https://www.pennlive.com/news/2026/04/developer-of-proposed-pa-data-center-campus-renews-pledge-of-transparency.html)
 
 
 
-Last updated: 2026-04-08 03:48:21
+Last updated: 2026-04-08 13:43:49
