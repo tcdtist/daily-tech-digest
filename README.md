@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Malaysian Tycoon Syed Mokhtar Said to Mull Property Company IPO
-Australian developer Walker Corp. and Malaysian tycoon Syed Mokhtar Al-Bukhary are considering an initial public offering of their joint venture to raise as much as 500 million ringgit ($125 million), according to people familiar with the matter.
-[Read more](https://www.bloomberg.com/news/articles/2026-04-09/malaysian-tycoon-syed-mokhtar-said-to-mull-property-company-ipo)
+## Microsoft's baffling account ban blocks security patches for Windscribe, WireGuard VPN, VeraCrypt
+Following developer backlash, Microsoft has publicly acknowledged the issue and said to be actively working to reinstate the accounts
+[Read more](https://www.techradar.com/vpn/vpn-privacy-security/microsofts-baffling-account-ban-blocks-security-patches-for-windscribe-wireguard-vpn-veracrypt)
 
 
 
-Last updated: 2026-04-09 13:54:58
+Last updated: 2026-04-10 03:56:43
