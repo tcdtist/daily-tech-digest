@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## JBIC Provides $2.38 Billion Loan to Support Mitsubishi's U.S. Natural Gas Developer Acquisition
-Japan Bank for International Cooperation is lending $2.38 billion to help fund trading house Mitsubishi Corp.'s purchase of American gas developer Aethon Energy, Nikkei Asia reported on...
-[Read more](https://www.marketscreener.com/news/jbic-provides-2-38-billion-loan-to-support-mitsubishi-s-u-s-natural-gas-developer-acquisition-ce7e50d8dc8aff26)
+## Plans Unveiled for 10-Storey Hotel and Tourist Apartments in La Mata
+Plans Unveiled for 10-Storey Hotel and Tourist Apartments in La Mata - A property developer has submitted plans to build a 10-storey hotel and tourist apartment complex in La Mata, Torrevieja, marking the latest in a wave of - The Leader - The No. 1 Spanish Newspaper
+[Read more](https://theleader.info/2026/04/10/plans-unveiled-for-10-storey-hotel-and-tourist-apartments-in-la-mata/)
 
 
 
-Last updated: 2026-04-10 13:22:33
+Last updated: 2026-04-11 03:33:33
