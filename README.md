@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Vineyard Wind sues turbine manufacturer after Nantucket break
-The developer of a major Massachusetts offshore wind farm is suing its turbine manufacturer seeking to force it to stay with the project.
-[Read more](https://www.nbcboston.com/news/local/vineyard-wind-massachusetts-turbine-lawsuit/3931724/)
+## GTA 6 Developer Rockstar Reportedly Hacked, Data Being Ransomed
+Well known hacking group, ShinyHunters, claims to have breached the GTA 6 developers cloud servers
+[Read more](https://kotaku.com/rockstar-games-reportedly-hacked-massive-data-leak-ransom-gta-6-shinyhunters-2000686858)
 
 
 
-Last updated: 2026-04-11 13:10:22
+Last updated: 2026-04-12 03:59:04
