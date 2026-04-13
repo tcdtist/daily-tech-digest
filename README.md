@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Row over future of Liscard's 'hulk' as Manchester developer wants flats
-A developer hopes to turn Dominick House into “high-quality” flats but Wirral councillors say the community doesn’t want that
-[Read more](https://www.liverpoolecho.co.uk/news/liverpool-news/row-over-future-liscards-hulk-33748919)
+## Greater Noida West: Stalled housing project to be revived
+The Havelia Group had signed a MoU with “Invest in UP” in 2023 to present a framework for the project and has proposed using “co-developer” policy for the work
+[Read more](https://www.hindustantimes.com/cities/noida-news/greater-noida-west-stalled-housing-project-to-be-revived-101776018510177.html)
 
 
 
-Last updated: 2026-04-13 04:16:59
+Last updated: 2026-04-13 13:51:55
