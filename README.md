@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Nintendo Developers Obsessed Over Getting Farting Right In Tomodachi Life
-‘For a while, the fart effect looked like an explosion going off,’ a developer said
-[Read more](https://kotaku.com/tomodachi-life-fart-miis-nintendo-switch-2000687513)
+## Fraud case stalls against fugitive developer's daughter
+Plea negotiations for the lawyer daughter of fugitive property developer Jean Nassif are bogged down despite months of assurances the case would resolve.
+[Read more](https://www.perthnow.com.au/news/crime/fraud-case-stalls-against-fugitive-developers-daughter-c-22142992)
 
 
 
-Last updated: 2026-04-15 03:56:49
+Last updated: 2026-04-15 13:50:56
