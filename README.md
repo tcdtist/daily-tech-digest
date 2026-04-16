@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Fraud case stalls against fugitive developer's daughter
-Plea negotiations for the lawyer daughter of fugitive property developer Jean Nassif are bogged down despite months of assurances the case would resolve.
-[Read more](https://www.perthnow.com.au/news/crime/fraud-case-stalls-against-fugitive-developers-daughter-c-22142992)
+## Bitcoin developer says 5.6 million ‘lost’ tokens may need freezing to stop hackers
+Jameson Lopp says leaving dormant coins untouched may risk market panic if quantum computing advances outpace the network’s defenses.
+[Read more](https://www.coindesk.com/business/2026/04/15/bitcoin-developer-jameson-lopp-says-it-s-better-to-freeze-5-6-million-btc-than-let-hackers-have-them)
 
 
 
-Last updated: 2026-04-15 13:50:56
+Last updated: 2026-04-16 04:11:48
