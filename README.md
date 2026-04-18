@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## 29 apartments proposed for former auto repair site in Worcester
-The apartments would all be market-rate, according to the attorney for the developer.
-[Read more](https://www.telegram.com/story/news/local/2026/04/17/29-apartments-proposed-for-former-auto-repair-site-in-worcester/89648109007/)
+## Pa. township supervisors ordered to sign document to allow Bass Pro project to advance
+County Judge Eric R. Linhardt on Friday issued the preliminary injunction sought by Famvest, the developer, to move the project forward.
+[Read more](https://www.pennlive.com/news/2026/04/pa-township-supervisors-ordered-to-sign-document-to-allow-bass-pro-project-to-advance.html)
 
 
 
-Last updated: 2026-04-18 03:45:06
+Last updated: 2026-04-18 13:13:18
