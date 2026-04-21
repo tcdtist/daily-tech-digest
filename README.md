@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Manee Power partners AE Solar to tackle energy volatility
-Manee Power Co., Ltd., a leading Thai integrated solar energy developer, is celebrating a decade of operations by elevating its status to a "Strategic Energy Partner". Through a landmark partnership with Germany’s AE Solar, the company aims to introduce Tier-1 solar technology to help Thai businesses navigate the dual challenges of geopolitical energy volatility and the global transition towards Net Zero.
-[Read more](https://www.bangkokpost.com/thailand/pr/3238835/manee-power-partners-ae-solar-to-tackle-energy-volatility)
+## Developer breaks silence on Monterrazas issues
+CEBU CITY — Celebrity-engineer and developer Slater Young broke his silence on the controversial Monterrazas de Cebu residential development after government regulators lifted the stoppage order for the project.
+[Read more](https://www.manilatimes.net/2026/04/21/regions/developer-breaks-silence-on-monterrazas-issues/2324160)
 
 
 
-Last updated: 2026-04-20 13:54:40
+Last updated: 2026-04-21 04:08:47
