@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## SpaceX says it has option to acquire startup Cursor for $60 billion
-SpaceX is exploring a significant move into AI developer tools by securing an option to acquire code-generation startup Cursor for $60 billion or partner for $10 billion. This push aims to bolster xAI's position in the AI coding market and provide Cursor with enhanced computing power for AI model development.
-[Read more](https://economictimes.indiatimes.com/tech/artificial-intelligence/spacex-says-it-has-option-to-acquire-startup-cursor-for-60-billion/articleshow/130429671.cms)
+## Behaviour Interactive Lays Off Staff Less Than a Month After New Studio Acquisition
+Less than a month after acquiring a new studio, Dead by Daylight developer Behaviour Interactive lays off an undisclosed number of staff.
+[Read more](https://wccftech.com/behaviour-interactive-lays-off-undisclosed-number-of-staff-less-than-a-month-after-acquisition/)
 
 
 
-Last updated: 2026-04-22 13:55:48
+Last updated: 2026-04-23 04:10:17
