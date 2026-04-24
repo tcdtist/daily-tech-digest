@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Was Tim Cook stylish?
-At first glance, the outgoing Apple CEO could’ve been a real estate developer, a TV mogul, a retired governor or any business leader trying to keep his profile low.
-[Read more](https://www.afr.com/world/north-america/was-tim-cook-stylish-20260423-p5zqaf)
+## Dave the Diver developer explains what's new in the In the Jungle DLC
+The expansion adds an estimated 10-hour story with new sea creatures, a different restaurant, a puppy to play Duck Hunt with, and more digital cards.
+[Read more](https://www.polygon.com/dave-the-diver-in-the-jungle-dlc-interview/)
 
 
 
-Last updated: 2026-04-23 13:57:18
+Last updated: 2026-04-24 04:14:20
