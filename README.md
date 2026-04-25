@@ -2,11 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Amazon-backed X-Energy raises over $1 billion in IPO
-Nuclear reactor developer X-Energy, which is backed by Amazon, said on Thursday it had raised $1.02 billion in its initial public offering in the United States.
-The Rockville,...
-[Read more](https://www.marketscreener.com/news/amazon-backed-x-energy-raises-over-1-billion-in-ipo-ce7f59dedf81f52d)
+## Haryana policy change drives developer interest in senior living
+Haryana's new retirement housing policy is boosting senior living projects. Developers can now build more units, making projects more viable. This change encourages integrated communities with essential amenities. Demand is rising due to longer life spans and changing family structures. Major developers are entering this growing segment, which has significant untapped potential.
+[Read more](https://economictimes.indiatimes.com/industry/services/property-/-cstruction/haryana-policy-change-drives-developer-interest-in-senior-living/articleshow/130498038.cms)
 
 
 
-Last updated: 2026-04-24 13:49:08
+Last updated: 2026-04-25 03:48:56
