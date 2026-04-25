@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Haryana policy change drives developer interest in senior living
-Haryana's new retirement housing policy is boosting senior living projects. Developers can now build more units, making projects more viable. This change encourages integrated communities with essential amenities. Demand is rising due to longer life spans and changing family structures. Major developers are entering this growing segment, which has significant untapped potential.
-[Read more](https://economictimes.indiatimes.com/industry/services/property-/-cstruction/haryana-policy-change-drives-developer-interest-in-senior-living/articleshow/130498038.cms)
+## How to make the 'best' tomato pasta sauce by adding 1 ingredient
+If you're looking to elevate your simple tomato pasta sauce, recipe developer and cookbook author Eleanor Wilkinson has shared her secret ingredient.
+[Read more](https://www.express.co.uk/life-style/food/2197581/how-make-best-tomato-pasta)
 
 
 
-Last updated: 2026-04-25 03:48:56
+Last updated: 2026-04-25 13:16:26
