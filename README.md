@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Accused correspondents’ dinner attacker is tutor, programmer from California
-Social media posts that appear to match Cole Allen, the California man arrested in the shooting at the White House correspondents’ dinner, show he is a highly educated tutor and amateur video game developer.
-[Read more](https://www.denverpost.com/2026/04/26/correspondents-dinner-accused-attacker-cole-allen/)
+## Australian Gregory Louden on leading PlayStation's next big title, Saros
+Developer Gregory Louden always wanted to work in games, but it was a sidestep into filmmaking that helped him secure his dream job at Finnish studio Housemarque.
+[Read more](https://www.abc.net.au/news/2026-04-27/gregory-louden-housemarque-creative-director-saros-playstation/106597724)
 
 
 
-Last updated: 2026-04-27 04:27:29
+Last updated: 2026-04-27 14:07:02
