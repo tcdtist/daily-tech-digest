@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## 5 Reasons I Chose Android Over iPhone As A Power User
-As a power user, you want to go with Android because it offers more customization options, lets you install a custom ROM, and lets you adjust developer options.
-[Read more](https://www.bgr.com/2143616/reasons-power-users-choose-android-iphone/)
+## Accused correspondents’ dinner attacker is tutor, programmer from California
+Social media posts that appear to match Cole Allen, the California man arrested in the shooting at the White House correspondents’ dinner, show he is a highly educated tutor and amateur video game developer.
+[Read more](https://www.denverpost.com/2026/04/26/correspondents-dinner-accused-attacker-cole-allen/)
 
 
 
-Last updated: 2026-04-26 13:17:31
+Last updated: 2026-04-27 04:27:29
