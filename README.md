@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Irish businessman’s lawsuit against Qatari hotel owners thrown out by High Court
-Ronnie Delany, a long-time associate of developer Paddy McKillen, claims he was defamed in letters he alleges were published to persons in Ireland as part of a conspiracy against him.
-[Read more](https://www.breakingnews.ie/ireland/irish-businessmans-lawsuit-against-qatari-hotel-owners-thrown-out-by-high-court-1893043.html)
+## CPN, China Mobile launch JegoTrip perks
+Central Pattana (CPN), a leading real estate developer and operator of Central malls nationwide, has joined forces with China Mobile International, the world's largest mobile operator with more than 1 billion subscribers, to introduce exclusive privileges for users of JegoTrip, China's leading travel super-app.
+[Read more](https://www.bangkokpost.com/business/general/3245954/cpn-china-mobile-launch-jegotrip-perks)
 
 
 
-Last updated: 2026-04-29 04:26:05
+Last updated: 2026-04-29 14:11:18
