@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## CPN, China Mobile launch JegoTrip perks
-Central Pattana (CPN), a leading real estate developer and operator of Central malls nationwide, has joined forces with China Mobile International, the world's largest mobile operator with more than 1 billion subscribers, to introduce exclusive privileges for users of JegoTrip, China's leading travel super-app.
-[Read more](https://www.bangkokpost.com/business/general/3245954/cpn-china-mobile-launch-jegotrip-perks)
+## Wednesday Afternoon News Roundup
+The special meeting to evaluate the proposed lease agreement lasted five hours as members of the public shared their thoughts and council members went back and forth with the developer on amending...
+[Read more](https://www.sfgate.com/news/bayarea/article/wednesday-afternoon-news-roundup-22233270.php)
 
 
 
-Last updated: 2026-04-29 14:11:18
+Last updated: 2026-04-30 04:28:49
