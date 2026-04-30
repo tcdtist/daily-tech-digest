@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Wednesday Afternoon News Roundup
-The special meeting to evaluate the proposed lease agreement lasted five hours as members of the public shared their thoughts and council members went back and forth with the developer on amending...
-[Read more](https://www.sfgate.com/news/bayarea/article/wednesday-afternoon-news-roundup-22233270.php)
+## Apple: "Privacy and Security Are at the Core of the App Store"
+Since its launch in 2008, the Apple App Store has served as a primary platform for mobile app distribution and developer business.
+[Read more](https://www.invenglobal.com/valorant/articles/21465/apple-privacy-and-security-are-at-the-core-of-the-app-store)
 
 
 
-Last updated: 2026-04-30 04:28:49
+Last updated: 2026-04-30 14:09:05
