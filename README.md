@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Nintendo’s new Zelda book arrives in October 2026 with rare art, developer notes, and Zonai lore from Tears of the Kingdom
-Nintendo Zelda October 2026 release: Nintendo is releasing a massive hardcover book, 'The Legend of Zelda: Tears of the Kingdom - Secrets of the Zonai', in October 2026. This book will serve as the final chapter of the franchise's 'Wilds era'. It features character art, development insights, and Hyrule's ancient history. This release coincides with the Zelda series' approaching 40th anniversary.
-[Read more](https://economictimes.indiatimes.com/us/news/nintendos-new-zelda-book-arrives-in-october-2026-with-rare-art-developer-notes-and-zonai-lore-from-tears-of-the-kingdom/articleshow/130708358.cms)
+## Complainant for unsound real estate business must be buyers or homeowners
+I owned a parcel of land adjacent to a subdivision project. My property is a lowland, so I understand that run off waters coming from the adjacent project will naturally fall to my land creating a drainage issue. I talked to the manager of the project to address the issue, but the same fell on deaf ears. One neighbor told me that the developer’s inaction may be considered an unsound real estate business, and I may file a complaint before the Human Settlement Adjudication Commission (HSAC). Is he correct?
+[Read more](https://www.manilatimes.net/2026/05/03/legal-advice/complainant-for-unsound-real-estate-business-must-be-buyers-or-homeowners/2334297)
 
 
 
-Last updated: 2026-05-02 13:23:29
+Last updated: 2026-05-03 04:37:01
