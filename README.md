@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Complainant for unsound real estate business must be buyers or homeowners
-I owned a parcel of land adjacent to a subdivision project. My property is a lowland, so I understand that run off waters coming from the adjacent project will naturally fall to my land creating a drainage issue. I talked to the manager of the project to address the issue, but the same fell on deaf ears. One neighbor told me that the developer’s inaction may be considered an unsound real estate business, and I may file a complaint before the Human Settlement Adjudication Commission (HSAC). Is he correct?
-[Read more](https://www.manilatimes.net/2026/05/03/legal-advice/complainant-for-unsound-real-estate-business-must-be-buyers-or-homeowners/2334297)
+## Katipunan project a hedge versus inflation - Arthaland
+PROPERTY developer Arthaland Corp. is positioning its Katipunan project as a hedge against rising inflation and energy costs, highlighting strong demand for student-oriented housing and the cost-saving benefits of sustainable developments, a senior executive said in an interview.
+[Read more](https://www.manilatimes.net/2026/05/04/business/corporate-news/katipunan-project-a-hedge-versus-inflation-arthaland/2334460)
 
 
 
-Last updated: 2026-05-03 13:22:33
+Last updated: 2026-05-04 04:36:52
