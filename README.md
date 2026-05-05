@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Katipunan project a hedge versus inflation - Arthaland
-PROPERTY developer Arthaland Corp. is positioning its Katipunan project as a hedge against rising inflation and energy costs, highlighting strong demand for student-oriented housing and the cost-saving benefits of sustainable developments, a senior executive said in an interview.
-[Read more](https://www.manilatimes.net/2026/05/04/business/corporate-news/katipunan-project-a-hedge-versus-inflation-arthaland/2334460)
+## Godrej Properties Q4FY26: Profit Jumps 70%, Declares ₹10 Dividend
+Real estate developer Godrej Properties reported its Q4FY26 results on Monday, May 4, with consolidated net profit for the quarter at nearly ₹650 crore, rising over 70% year-on-year (YoY) from ₹382 crore in the same period last year.
+[Read more](https://www.outlookbusiness.com/corporate/godrej-properties-q4fy26-profit-jumps-70-declares-10-dividend)
 
 
 
-Last updated: 2026-05-04 04:36:52
+Last updated: 2026-05-05 04:13:06
