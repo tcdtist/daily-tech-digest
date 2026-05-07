@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Devolver Digital Confirms May 28 Release for Retro Dungeon Crawler 'DARECLAW'
-Source: Devolver Digital Global indie game publisher Devolver Digital has confirmed that 'DARECLAW,' the latest title from Doinksoft—the quirky developer behind Gato Roboto, Gunbrella, and Demon Throttle—will launch on May 28.
-[Read more](https://www.invenglobal.com/articles/21585/devolver-digital-confirms-may-28-release-for-retro-dungeon-crawler-dareclaw)
+## I played Marathon and its 1994 predecessor to see how Bungie has evolved over the years
+Opinion | What's changed (and what hasn't) with the legendary FPS developer?
+[Read more](https://www.gamesradar.com/games/fps/i-played-marathon-and-its-1994-predecessor-to-see-how-bungie-has-evolved-over-the-years/)
 
 
 
-Last updated: 2026-05-06 14:27:23
+Last updated: 2026-05-07 04:31:01
