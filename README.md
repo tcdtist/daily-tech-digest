@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Hot Dog Hunting Returns for the Next Generation: H3VR Sequel Confirmed
-A sequel to the tactical hot dog hunting VR game 'Hot Dogs, Horseshoes & Hand Grenades (H3VR)' is officially in development.Developer Anton Hand and Zulubo Productions announced the development of H3VR2 today (the 7th).
-[Read more](https://www.invenglobal.com/lol/articles/21624/hot-dog-hunting-returns-for-the-next-generation-h3vr-sequel-confirmed)
+## Filinvest Land dominates Fiabci 2026 Awards for third consecutive year
+FILINVEST Land Inc. (FLI) earned 11 major recognitions at the Fiabci Philippines Property and Real Estate Excellence Awards 2026, including “Developer of the Year” for the third consecutive year and “Property Man of the Year” for President and CEO Tristan Las Marias.
+[Read more](https://www.manilatimes.net/2026/05/08/tmt-newswire/filinvest-land-dominates-fiabci-2026-awards-for-third-consecutive-year/2338079)
 
 
 
-Last updated: 2026-05-07 14:27:25
+Last updated: 2026-05-08 04:13:06
