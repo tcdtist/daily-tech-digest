@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Filinvest Land dominates Fiabci 2026 Awards for third consecutive year
-FILINVEST Land Inc. (FLI) earned 11 major recognitions at the Fiabci Philippines Property and Real Estate Excellence Awards 2026, including “Developer of the Year” for the third consecutive year and “Property Man of the Year” for President and CEO Tristan Las Marias.
-[Read more](https://www.manilatimes.net/2026/05/08/tmt-newswire/filinvest-land-dominates-fiabci-2026-awards-for-third-consecutive-year/2338079)
+## Fortnite down: Epic Games gives update as thousands report login and matchmaking errors
+Fortnite servers down: Fortnite players faced significant login and matchmaking disruptions on May 7, impacting thousands across various regions, particularly the US, UK, and Europe. Epic Games confirmed the widespread issues affecting both Fortnite and Fall Guys, with no immediate timeline for full service restoration. The developer is actively investigating and working to resolve the problem.
+[Read more](https://economictimes.indiatimes.com/us/news/fortnite-down-epic-games-gives-update-as-thousands-report-login-and-matchmaking-errors/articleshow/130938010.cms)
 
 
 
-Last updated: 2026-05-08 04:13:06
+Last updated: 2026-05-08 14:01:39
