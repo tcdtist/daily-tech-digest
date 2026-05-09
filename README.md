@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Filinvest Land wins FIABCI Developer of the Year for third consecutive year
-IN real estate, enduring excellence is measured not only by scale, but by the ability to create developments that improve how people live, work and thrive.
-[Read more](https://www.manilatimes.net/2026/05/09/tmt-newswire/filinvest-land-wins-fiabci-developer-of-the-year-for-third-consecutive-year/2339435)
+## Union wants federal scrutiny of $55B US Electronic Arts sale over national security risks
+The American company has had a footprint in Canada since at least 1991, when it swallowed Distinctive Software, a Burnaby, B.C.-based video game developer. EA now boasts five offices in the country that have contributed significantly to the company's hit soccer and hockey games and Canada's broader $5.1 billion video game industry.
+[Read more](https://www.cbc.ca/news/canada/british-columbia/ea-sale-communication-workers-america-canada-scrutiny-9.7193709)
 
 
 
-Last updated: 2026-05-09 04:19:31
+Last updated: 2026-05-09 13:37:11
