@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Crypto industry cheers Senate Clarity Act markup date as market structure push resumes
-The bill's progress follows talks on jurisdiction, consumer/developer protections, and stablecoin rewards, with crypto firms backing a yield compromise.
-[Read more](https://www.coindesk.com/policy/2026/05/09/crypto-industry-cheers-senate-clarity-act-markup-date-as-market-structure-push-resumes)
+## Yorkville data center settlement delayed after second resident lawsuit file against city, developer
+During a Friday status hearing before Kendall County Judge Robert Pilmer, attorneys for both sides said they need an extension until May 22 to see how the new lawsuit impacts the settlement negotiations.
+[Read more](https://www.shawlocal.com/kendall-county-now/2026/05/08/yorkville-data-center-settlement-delayed-after-second-resident-lawsuit-file-against-city-developer/)
 
 
 
-Last updated: 2026-05-10 04:40:27
+Last updated: 2026-05-10 13:39:58
