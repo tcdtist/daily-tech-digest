@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Yorkville data center settlement delayed after second resident lawsuit file against city, developer
-During a Friday status hearing before Kendall County Judge Robert Pilmer, attorneys for both sides said they need an extension until May 22 to see how the new lawsuit impacts the settlement negotiations.
-[Read more](https://www.shawlocal.com/kendall-county-now/2026/05/08/yorkville-data-center-settlement-delayed-after-second-resident-lawsuit-file-against-city-developer/)
+## Developer calls for ‘VAR-style’ review after Victorian hall demolition plan in Deal rejected
+A developer behind controversial plans to demolish a Victorian parish hall is seeking a “VAR-style” review of a council decision to reject the scheme.
+[Read more](https://www.kentonline.co.uk/deal/news/our-heritage-will-be-destroyed-residents-fight-plans-to-r-340063/)
 
 
 
-Last updated: 2026-05-10 13:39:58
+Last updated: 2026-05-11 04:55:06
