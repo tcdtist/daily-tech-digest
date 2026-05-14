@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Signature Global's Exceptional Profit Surge
-Signature Global reported a significant increase in consolidated net profit to Rs 1,152.40 crore for the quarter ended March, primarily due to exceptional gains from a joint venture. The firm's income for the same period rose substantially, underscoring its position as a leading real estate developer in the country.
-[Read more](https://www.devdiscourse.com/article/business/3907230-signature-globals-exceptional-profit-surge)
+## Why was Australia’s Trump Tower project scrapped so quickly?
+The planned 91-storey Trump International Hotel & Tower Gold Coast, valued at A$1.5 billion, was cancelled within three months of its announcement. The developer Altus cited the 'toxic' Trump brand, while the Trump Organization accused the developer of failing to meet financial obligations tied to the agreement
+[Read more](https://www.firstpost.com/explainers/why-australia-trump-tower-project-scrapped-gold-coast-altus-trump-organization-14010812.html)
 
 
 
-Last updated: 2026-05-14 04:39:23
+Last updated: 2026-05-14 14:26:04
