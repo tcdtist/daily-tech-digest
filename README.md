@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Why was Australia’s Trump Tower project scrapped so quickly?
-The planned 91-storey Trump International Hotel & Tower Gold Coast, valued at A$1.5 billion, was cancelled within three months of its announcement. The developer Altus cited the 'toxic' Trump brand, while the Trump Organization accused the developer of failing to meet financial obligations tied to the agreement
-[Read more](https://www.firstpost.com/explainers/why-australia-trump-tower-project-scrapped-gold-coast-altus-trump-organization-14010812.html)
+## Studio behind hit co-op game apologizes after $75,000 AI video contest leads to Steam review bomb: "We hoped AI could be a more accessible tool"
+The Party Animals developer's "original goal was to lower the barrier to creation"
+[Read more](https://www.gamesradar.com/games/co-op/studio-behind-hit-co-op-game-apologizes-after-usd75-000-ai-video-contest-leads-to-steam-review-bomb-we-hoped-ai-could-be-a-more-accessible-tool/)
 
 
 
-Last updated: 2026-05-14 14:26:04
+Last updated: 2026-05-15 04:44:10
