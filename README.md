@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Stardew Valley: 'No Plans to Introduce Home-Wrecking for Married NPCs''
-Eric 'ConcernedApe' Barone, the developer of Stardew Valley, has officially confirmed that recent rumors regarding the addition of a 'home-wrecking' feature for married NPCs are fa...
-[Read more](https://www.invenglobal.com/articles/21887/stardew-valley-no-plans-to-introduce-home-wrecking-for-married-npcs)
+## Developer can’t get no satisfaction as Jagger wins battle to stop Thames tower block
+The plan has been rejected as it would ‘cause a dramatic change to the skyline’
+[Read more](https://www.independent.co.uk/news/uk/home-news/mick-jagger-flats-london-battersea-b2977464.html)
 
 
 
-Last updated: 2026-05-15 14:19:51
+Last updated: 2026-05-16 04:25:02
