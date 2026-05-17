@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Married woman kills lover with husband's help, stuffs body in blue drum before dumping it in Thane; Arrested
-The deceased, identified as Arbaz Maqsood Ali Khan, 26, was a resident of Mumbra and worked as an engineer with a prominent real estate developer in Dombivli. | India News
-[Read more](https://www.hindustantimes.com/india-news/married-woman-kills-lover-stuffs-body-in-blue-drum-before-dumping-it-in-thane-drain-arrested-husband-maharashtra-mumbai-101778894464840.html)
+## Mumbai tree crash: Family says it is managing medical expenses on its own
+Khar tree collapse: Injured girls’ families say medical costs are self-funded via mediclaim; developer Bluestone claims ongoing contact and support offer.
+[Read more](https://timesofindia.indiatimes.com/city/mumbai/mumbai-tree-crash-family-says-it-is-managing-medical-expenses-on-its-own/articleshow/131140315.cms)
 
 
 
-Last updated: 2026-05-16 13:42:58
+Last updated: 2026-05-17 04:49:58
