@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Where Winds Meet, Large-scale Roadmap for Half-Anniversary and New Expansion Pack 'Dawn of the Palace' Revealed
-Image provided by NetEase GamesWhere Winds Meet 'Dawn of the Palace' ©NetEase GamesGlobal game company NetEase Games and its subsidiary developer Everstone Studio have unveile...
-[Read more](https://www.invenglobal.com/articles/21936/where-winds-meet-large-scale-roadmap-for-half-anniversary-and-new-expansion-pack-dawn-of-the-palace-revealed)
+## Developer Harry Crosbie in dispute with hotel management firm over Vicar Street site
+Crosbie, his wife Rita and Vicar Street Hotel Ltd, have sued HITC Properties Ltd, which owns and manages hotels
+[Read more](https://www.irishtimes.com/business/2026/05/18/developer-harry-crosbie-in-dispute-with-hotel-management-firm-over-vicar-street-site/)
 
 
 
-Last updated: 2026-05-18 15:43:02
+Last updated: 2026-05-19 04:54:33
