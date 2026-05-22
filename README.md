@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Andes Town Planners CIRP Nears Final Stage as Multiple Bidders Eye Rohtas Plumeria
-The insolvency resolution process of Andes Town Planners, developer of the delayed Rohtas Plumeria project in Lucknow, has entered a critical phase as multiple bidders compete amid legal, financial and regulatory scrutiny.
-[Read more](https://www.republicworld.com/business/andes-town-planners-cirp-nears-final-stage-2026-05-21-125239)
+## Google’s new ‘Information Agents’ are a privacy and web infrastructure problem
+At its annual developer conference a few days ago, Google unveiled something called information agents
+[Read more](https://www.thehindu.com/sci-tech/technology/googles-new-information-agents-are-a-privacy-and-web-infrastructure-problem/article71009003.ece)
 
 
 
-Last updated: 2026-05-22 04:56:05
+Last updated: 2026-05-22 14:48:21
