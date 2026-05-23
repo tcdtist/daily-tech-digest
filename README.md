@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Google’s new ‘Information Agents’ are a privacy and web infrastructure problem
-At its annual developer conference a few days ago, Google unveiled something called information agents
-[Read more](https://www.thehindu.com/sci-tech/technology/googles-new-information-agents-are-a-privacy-and-web-infrastructure-problem/article71009003.ece)
+## Tom Emmer brushes off law enforcement concerns over Clarity Act
+House Majority Whip Tom Emmer said concerns from law enforcement groups about crypto developer protections are being overstated.
+[Read more](https://www.coindesk.com/policy/2026/05/22/tom-emmer-brushes-off-law-enforcement-concerns-over-clarity-act)
 
 
 
-Last updated: 2026-05-22 14:48:21
+Last updated: 2026-05-23 04:34:11
