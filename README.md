@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Bloom Energy Stock (BE) Is Up 250% YTD; Why a New Street-High Target?
-Shares in Bloom Energy (BE), the California-based developer of solid-oxide fuel cell systems for power generation, have surged by nearly 250% si...
-[Read more](https://markets.businessinsider.com/news/stocks/bloom-energy-stock-be-is-up-250-ytd-why-a-new-street-high-target-1036189860)
+## Beast of Reincarnation is the most important game of the summer
+Beast of Reincarnation, the latest game from Pokémon developer Game Freak, was a lot riding on it this summer.
+[Read more](https://www.polygon.com/beast-of-reincarnation-summer-preview/)
 
 
 
-Last updated: 2026-05-23 13:47:36
+Last updated: 2026-05-24 04:58:25
