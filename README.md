@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## WWDC 2026: Apple registers new ‘gen AI’ web domain as Siri gears up for its biggest upgrade in years
-Apple has registered a new ‘gen AI’ sub domain which is expected to be a major hint at some of the new AI features that the company could unveil during its Worldwide Developer Conference next month.
-[Read more](https://www.livemint.com/technology/tech-news/wwdc-2026-apple-registers-new-gen-ai-web-domain-as-siri-gears-up-for-its-biggest-upgrade-in-years-11779584057825.html)
+## Why Remote Founders Continue to Select Estonia in 2026
+This trend is increasingly clear: A two-person SaaS team in Bangalore, a solo developer in Lagos, and a three-cofounder AI startup in Buenos Aires. None of these founders has a physical presence in Tallinn, nor do they intend to visit, yet all have established their companies in Estonia within the past six months. This phenomenon […]
+[Read more](https://techbullion.com/why-remote-founders-continue-to-select-estonia-in-2026/)
 
 
 
-Last updated: 2026-05-24 13:46:07
+Last updated: 2026-05-25 05:16:02
