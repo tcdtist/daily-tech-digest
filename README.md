@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Welcome to Tim Gurner’s $2.75b wellness world
-The billionaire developer has spared no expense on services at his luxe project in Melbourne’s Docklands that is inspired by a Matt Damon sci-fi action movie.
-[Read more](https://www.afr.com/property/residential/welcome-to-tim-gurner-s-2-75b-wellness-world-20260526-p600o1)
+## 81-year-old developer makes sequel to ZX Spectrum classic after 40 year wait
+Gaming's most delayed sequel is finally becoming a reality, as a beloved British classic from the ZX Spectrum and C64 era returns.
+[Read more](https://metro.co.uk/2026/05/27/80s-amiga-classic-head-heels-finally-gets-a-sequel-40-years-28543392/)
 
 
 
-Last updated: 2026-05-27 15:56:48
+Last updated: 2026-05-28 05:04:35
