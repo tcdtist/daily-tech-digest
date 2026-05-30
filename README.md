@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Hammerson strikes €45m deal to secure full ownership of Ilac Centre
-UK retail property giant to acquire 50% stake held by scheme’s original developer, Irish Life
-[Read more](https://www.irishtimes.com/business/2026/05/29/hammerson-strikes-45m-deal-to-secure-full-ownership-of-ilac-centre/)
+## Cyberpunk 2077 Meets Fallout In Stunning New Sci-Fi Adventure Game
+An ambitious upcoming Sci-Fi title from an indie developer is set to make a splash with Cyberpunk 2077 and Fallout fans looking for a new adventure.
+[Read more](https://screenrant.com/cyberpunk-2077-meets-fallout-supreme-experiment/)
 
 
 
-Last updated: 2026-05-30 04:45:49
+Last updated: 2026-05-30 13:50:25
