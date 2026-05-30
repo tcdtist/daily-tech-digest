@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## "Considering Pet and Housing Customization" - Nexon's 'NAKWON' May Developer Q&A
-The development team for the zombie survival game 'NAKWON: LAST PARADISE,' currently being developed by Nexon, has released its May Developer Q&A via a Steam announcement.In th...
-[Read more](https://www.invenglobal.com/articles/22329/considering-pet-and-housing-customization-nexons-nakwon-may-developer-qa)
+## Hammerson strikes €45m deal to secure full ownership of Ilac Centre
+UK retail property giant to acquire 50% stake held by scheme’s original developer, Irish Life
+[Read more](https://www.irishtimes.com/business/2026/05/29/hammerson-strikes-45m-deal-to-secure-full-ownership-of-ilac-centre/)
 
 
 
-Last updated: 2026-05-29 15:52:14
+Last updated: 2026-05-30 04:45:49
