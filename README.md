@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Cyberpunk 2077 Meets Fallout In Stunning New Sci-Fi Adventure Game
-An ambitious upcoming Sci-Fi title from an indie developer is set to make a splash with Cyberpunk 2077 and Fallout fans looking for a new adventure.
-[Read more](https://screenrant.com/cyberpunk-2077-meets-fallout-supreme-experiment/)
+## 007 First Light is slick but uneven — not unlike many Bond movies
+Hitman developer IO Interactive's take on the iconic British spy is overall solid, albeit one that has a bit of an identity crisis.
+[Read more](https://mobilesyrup.com/2026/05/30/007-first-light-ps5-review/)
 
 
 
-Last updated: 2026-05-30 13:50:25
+Last updated: 2026-05-31 05:14:12
