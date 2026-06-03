@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Mumbai Real Estate Dispute: State Consumer Commission Upholds Relief For Goregaon Flat Owner, Reduces Redevelopment Area Shortfall Claim
-The Maharashtra State Consumer Commission partly allowed a developer
-[Read more](https://www.freepressjournal.in/mumbai/mumbai-real-estate-dispute-state-consumer-commission-upholds-relief-for-goregaon-flat-owner-reduces-redevelopment-area-shortfall-claim)
+## Fugitive Hong Kong charity director sued in US over real estate ‘shell game’
+Complaint alleges Jacob Lam, founder of scandal-hit charity, defrauded developer of over a year’s services and costs.
+[Read more](https://www.scmp.com/news/hong-kong/law-and-crime/article/3355736/fugitive-hong-kong-charity-director-sued-us-over-real-estate-shell-game)
 
 
 
-Last updated: 2026-06-03 05:58:40
+Last updated: 2026-06-03 16:58:48
