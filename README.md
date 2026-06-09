@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Developer shortens proposed hotly
-Developer Leland Burk said he's cutting the height of towers he aims to build at the Preston Road and Royal Lane.
-[Read more](https://www.dallasnews.com/business/real-estate/article/developer-shortens-proposed-hotly-debated-dallas-22293336.php)
+## Siam Piwat wins two Stevie Awards for AI-driven customer experience excellence
+Bangkok (June 8, 2026) –Siam Piwat, a leading real estate and retail developer, has secured two prestigioushonoursat the 20th Stevie Awards for Sales & Customer Service 2026, setting new benchmarks in world-class service and customer experience.
+[Read more](https://www.bangkokpost.com/thailand/pr/3268213/siam-piwat-wins-two-stevie-awards-for-aidriven-customer-experience-excellence)
 
 
 
-Last updated: 2026-06-09 04:59:17
+Last updated: 2026-06-09 15:15:18
