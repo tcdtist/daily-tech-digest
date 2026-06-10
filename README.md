@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Siam Piwat wins two Stevie Awards for AI-driven customer experience excellence
-Bangkok (June 8, 2026) –Siam Piwat, a leading real estate and retail developer, has secured two prestigioushonoursat the 20th Stevie Awards for Sales & Customer Service 2026, setting new benchmarks in world-class service and customer experience.
-[Read more](https://www.bangkokpost.com/thailand/pr/3268213/siam-piwat-wins-two-stevie-awards-for-aidriven-customer-experience-excellence)
+## Minnesota Tax Court Finds Developer Breached TIF Agreement After Receiving Property Tax Refunds
+The Minnesota Tax Court granted summary judgment in favor of the City of Maple Grove and denied the taxpayers’ motion in a dispute involving tax increment financing (TIF) payments and ...
+[Read more](https://news.bloombergtax.com/daily-tax-report/minnesota-tax-court-finds-developer-breached-tif-agreement-after-receiving-property-tax-refunds)
 
 
 
-Last updated: 2026-06-09 15:15:18
+Last updated: 2026-06-10 05:11:06
