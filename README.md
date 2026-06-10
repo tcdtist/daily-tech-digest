@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Minnesota Tax Court Finds Developer Breached TIF Agreement After Receiving Property Tax Refunds
-The Minnesota Tax Court granted summary judgment in favor of the City of Maple Grove and denied the taxpayers’ motion in a dispute involving tax increment financing (TIF) payments and ...
-[Read more](https://news.bloombergtax.com/daily-tax-report/minnesota-tax-court-finds-developer-breached-tif-agreement-after-receiving-property-tax-refunds)
+## Brookfield’s Neoen to Spend $7 Billion Doubling Australian Renewables Folio
+French renewables developer Neoen SA expects to spend about A$10 billion ($7 billion) to more than double its Australian portfolio to 10 gigawatts by 2030.
+[Read more](https://www.bloomberg.com/news/articles/2026-06-10/brookfield-s-neoen-to-spend-7-billion-doubling-australian-renewables-folio)
 
 
 
-Last updated: 2026-06-10 05:11:06
+Last updated: 2026-06-10 15:49:43
