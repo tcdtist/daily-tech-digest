@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Hyderabad: Builder Confined, Threatened Over Flat Dispute
-Anjaneyulu and Sambasiva Rao had jointly constructed two apartment complexes — SLN Arcade and SLN Heights — on 600 yards each. Disputes arose over the developer’s share of flats: Reports
-[Read more](https://www.deccanchronicle.com/southern-states/telangana/hyderabad-builder-confined-threatened-over-flat-dispute-1962724)
+## Alaska LNG tax break bill advances to House floor for consideration
+If the bill — which has support from project developer Glenfarne and Gov. Dunleavy — passes the House, it would then head to the Senate, where lawmakers have generally been more resistant to a steep tax cut for Alaska LNG.
+[Read more](https://www.adn.com/business-economy/energy/2026/06/10/alaska-lng-tax-break-bill-advances-to-house-floor-for-consideration/)
 
 
 
-Last updated: 2026-06-11 05:24:08
+Last updated: 2026-06-11 16:11:07
