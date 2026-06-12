@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Alaska LNG tax break bill advances to House floor for consideration
-If the bill — which has support from project developer Glenfarne and Gov. Dunleavy — passes the House, it would then head to the Senate, where lawmakers have generally been more resistant to a steep tax cut for Alaska LNG.
-[Read more](https://www.adn.com/business-economy/energy/2026/06/10/alaska-lng-tax-break-bill-advances-to-house-floor-for-consideration/)
+## Judge mulls proposed $1 sale of shuttered Stewart Elementary School
+A Westmoreland County judge on Thursday deferred a ruling on a request from the Burrell School District to authorize approval for a $1 sale of the closed Stewart Elementary School building and surrounding property to a local developer. School officials are seeking judicial approval for the plan, approved earlier this
+[Read more](https://triblive.com/local/valley-news-dispatch/judge-mulls-proposed-1-sale-of-shuttered-stewart-elementary-school/)
 
 
 
-Last updated: 2026-06-11 16:11:07
+Last updated: 2026-06-12 05:26:45
