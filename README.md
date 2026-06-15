@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## There Are No Ghosts at the Grand is One of the Most Unique Games of 2026 (Preview)
-Perhaps one of the year’s most eccentric-looking games is There are No Ghosts at the Grand, the musical renovation ghost story from independent UK developer Friday Sundae. It’s the team’s very first game, and I got to go hands-on with No Ghosts to get a taste of what’s really going on in its small English […]
-[Read more](https://www.vice.com/en/article/there-are-no-ghosts-at-the-grand-is-one-of-the-most-unique-games-of-2026-preview/)
+## Relive the Memories on Steam: 'Zenonia 1' Demo Released for Steam Next Fest
+Zenonia 1 Steam Shop Page ©Valve'Zenonia 1' has released a demo in time for the June Steam Next Fest.On the 15th, the 'Zenonia 1' development team announced via a developer no...
+[Read more](https://www.invenglobal.com/lol/articles/22798/relive-the-memories-on-steam-zenonia-1-demo-released-for-steam-next-fest)
 
 
 
-Last updated: 2026-06-15 06:18:32
+Last updated: 2026-06-15 17:20:37
