@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Relive the Memories on Steam: 'Zenonia 1' Demo Released for Steam Next Fest
-Zenonia 1 Steam Shop Page ©Valve'Zenonia 1' has released a demo in time for the June Steam Next Fest.On the 15th, the 'Zenonia 1' development team announced via a developer no...
-[Read more](https://www.invenglobal.com/lol/articles/22798/relive-the-memories-on-steam-zenonia-1-demo-released-for-steam-next-fest)
+## More Indiana Township residents weigh in on proposed housing development
+Indiana Township residents may have to wait at least two months before action is taken on a proposed 172-unit planned residential development. Mars-based Weaver Homes is the builder of the planned residential development (PRD) situated at the intersection of Cove Run Road and Field View Lane. Its developer is called
+[Read more](https://triblive.com/local/valley-news-dispatch/more-indiana-township-residents-weigh-in-on-proposed-housing-development/)
 
 
 
-Last updated: 2026-06-15 17:20:37
+Last updated: 2026-06-16 06:28:22
