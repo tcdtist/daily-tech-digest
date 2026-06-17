@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Anthropic Sued Over Claims of Exaggerated AI Subscription Limits
-A federal class-action lawsuit was filed Monday, June 15, in the Northern District of California against Anthropic, the developer of the Claude AI chatbot. The suit accuses the company of misleading customers about usage limits on its Max 5x and Max 20x subscription plans, priced at $100 and $200 per month respectively. According to the […]
-[Read more](https://www.naturalnews.com/2026-06-16-anthropic-sued-claims-exaggerated-ai-subscription-limits.html)
+## How a $60 billion SpaceX deal could make Cursor's founders billions overnight
+A planned $60 billion acquisition of AI coding startup Cursor by SpaceX has thrust its four young founders into the spotlight. Led by CEO Michael Truell and Indian-origin co-founder Aman Sanger, the team built one of the world's fastest-growing AI software companies in just a few years, turning a developer tool into a multibillion-dollar business and creating enormous personal fortunes along the way.
+[Read more](https://www.cnbctv18.com/world/how-a-60-billion-spacex-deal-could-make-cursors-founders-billions-overnight-19926776.htm)
 
 
 
-Last updated: 2026-06-16 17:04:02
+Last updated: 2026-06-17 06:04:40
