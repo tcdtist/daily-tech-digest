@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Trump administration to pay $765 mln to scrap four more offshore wind leases
-The Trump administration on Wednesday announced a reimbursement settlement agreement with ​power project developer Invenergy to terminate four wind ‌leases off the coasts of New York, California and Maine.
-[Read more](https://www.reuters.com/business/energy/trump-administration-pay-765-mln-scrap-four-more-offshore-wind-leases-2026-06-17/)
+## Pearl Abyss to Showcase 'Crimson Desert' Development Expertise in Europe at Gamescom Dev
+Pearl Abyss will showcase its open world development expertise and proprietary engine technology for 'Crimson Desert' at Europe's largest game developer conference.©Pearl Abys...
+[Read more](https://www.invenglobal.com/articles/22891/pearl-abyss-to-showcase-crimson-desert-development-expertise-in-europe-at-gamescom-dev)
 
 
 
-Last updated: 2026-06-18 05:50:51
+Last updated: 2026-06-18 15:36:43
