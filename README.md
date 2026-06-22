@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Bombay HC Clears Deemed Conveyance For Vile Parle Societies, Rejects Builder's Delay Plea
-The Bombay High Court cleared deemed conveyance for three Vile Parle housing societies, directing a fresh land transfer certificate for 16,584.55 sq m. The court rejected the developer
-[Read more](https://www.freepressjournal.in/mumbai/bombay-hc-clears-deemed-conveyance-for-vile-parle-societies-rejects-builders-delay-plea)
+## Plans for hundreds of Nottinghamshire homes on century
+The developer has said its plan will make the area's vast green space more accessible - not less
+[Read more](https://www.nottinghampost.com/news/local-news/plans-hundreds-nottinghamshire-homes-century-11019057)
 
 
 
-Last updated: 2026-06-22 06:23:21
+Last updated: 2026-06-22 17:04:31
