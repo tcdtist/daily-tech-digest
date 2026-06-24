@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Delayed possession: Can a real estate developer seek review of an MahaRERA order favouring a homebuyer?
-MahaRERA clarifies the scope of review petitions, stating that rehearing of decided issues is not permitted, but is possible only under specific circumstances
-[Read more](https://www.hindustantimes.com/real-estate/real-estate-guide/delayed-possession-can-a-real-estate-developer-seek-review-of-an-maharera-order-favouring-a-homebuyer-101782182421322.html)
+## Netflix's latest game is Unhinged, a short horror story from the makers of Oxenfree
+Netflix subscribers are getting a name game on June 30: Unhinged, the latest project from Oxenfree developer Night School Studio.
+[Read more](https://www.polygon.com/unhinged-game-netflix-hands-on/)
 
 
 
-Last updated: 2026-06-23 15:11:57
+Last updated: 2026-06-24 04:59:04
