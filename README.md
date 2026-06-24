@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Netflix's latest game is Unhinged, a short horror story from the makers of Oxenfree
-Netflix subscribers are getting a name game on June 30: Unhinged, the latest project from Oxenfree developer Night School Studio.
-[Read more](https://www.polygon.com/unhinged-game-netflix-hands-on/)
+## Google Caught Napping: Fake Spider-Man 2 App From Pakistan Crosses 1 Million Downloads On Play Store | Exclusive
+The trust in Google and its platforms is declining due to significant concerns, particularly with the Google Play Store hosting a fraudulent Marvel's Spider-Man 2 game created by a Pakistani developer. , Technology & Science, Times Now
+[Read more](https://www.timesnownews.com/technology-science/google-caught-napping-fake-spider-man-2-app-from-pakistan-crosses-1-million-downloads-on-play-store-exclusive-article-154737330)
 
 
 
-Last updated: 2026-06-24 04:59:04
+Last updated: 2026-06-24 14:41:49
