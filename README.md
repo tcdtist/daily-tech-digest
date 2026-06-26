@@ -2,10 +2,11 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## iOS 27 brings new Siri mode, could change how you use your iPhone camera
-Apple's second developer beta of iOS 27 adds a new Siri mode inside the iPhone Camera app. The shift brings visual intelligence into a familiar interface and streamlines on-the-spot searches.
-[Read more](https://www.indiatoday.in/technology/news/story/ios-27-brings-new-siri-mode-could-change-how-you-use-your-iphone-camera-2933658-2026-06-25)
+## Sony Group's Video Game Developer Bungie Cuts Jobs
+Sony Group's Sony Interactive Entertainment said it has decided to implement job cuts at its video game unit Bungie, with a significant number of affected employees getting the notice Thursday.
+In...
+[Read more](https://www.marketscreener.com/news/sony-group-s-video-game-developer-bungie-cuts-jobs-ce7f5fd8d181ff24)
 
 
 
-Last updated: 2026-06-25 14:41:42
+Last updated: 2026-06-26 05:04:35
