@@ -2,11 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Sony Group's Video Game Developer Bungie Cuts Jobs
-Sony Group's Sony Interactive Entertainment said it has decided to implement job cuts at its video game unit Bungie, with a significant number of affected employees getting the notice Thursday.
-In...
-[Read more](https://www.marketscreener.com/news/sony-group-s-video-game-developer-bungie-cuts-jobs-ce7f5fd8d181ff24)
+## Ocean City Council moved forward on a plan to build a luxury hotel at the old Wonderland Pier site
+The City Council voted 5-2 to declare the site "in need of rehabilitation," a designation sought by developer Eustace Mita.
+[Read more](https://www.inquirer.com/news/new-jersey/ocean-city-wonderland-pier-hotel-vote-20260625.html)
 
 
 
-Last updated: 2026-06-26 05:04:35
+Last updated: 2026-06-26 14:34:54
