@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Ocean City Council moved forward on a plan to build a luxury hotel at the old Wonderland Pier site
-The City Council voted 5-2 to declare the site "in need of rehabilitation," a designation sought by developer Eustace Mita.
-[Read more](https://www.inquirer.com/news/new-jersey/ocean-city-wonderland-pier-hotel-vote-20260625.html)
+## Diablo 4 update 3.1.0 patch notes out now ahead of Season 14 release date
+Diablo 4 developer Blizzard is making sweeping changes to the game as part of the launch of Season 14.
+[Read more](https://www.express.co.uk/entertainment/gaming/2222368/diablo-4-update-310-patch-notes-season-14-release-date)
 
 
 
-Last updated: 2026-06-26 14:34:54
+Last updated: 2026-06-27 04:46:20
