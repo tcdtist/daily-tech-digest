@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Arthaland completes Tower 2 at Una Apartments Sevina Park ahead of schedule
-GREEN property developer Arthaland held a topping-off ceremony on June 19 to mark the structural completion of Tower 2 of its Una Apartments project in Sevina Park, Biñan City, Laguna. The achievement was reached well ahead of the company’s target date in October this year.
-[Read more](https://www.manilatimes.net/2026/06/30/business/real-estate-and-property/arthaland-completes-tower-2-at-una-apartments-sevina-park-ahead-of-schedule/2374520)
+## Crimson Desert Invited to Speak at CEDEC, Japan's Largest Developer Conference
+©INVENPearl Abyss announced that its title 'Crimson Desert' has been invited to present at CEDEC 2026 (Computer Entertainment Developers Conference 2026).
+[Read more](https://www.invenglobal.com/lol/articles/23272/crimson-desert-invited-to-speak-at-cedec-japans-largest-developer-conference)
 
 
 
-Last updated: 2026-06-30 04:58:15
+Last updated: 2026-06-30 14:29:26
