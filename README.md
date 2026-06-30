@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## W TOKYO, Shop Global to launch Tokyo Girls Collection platform in Thailand
-W TOKYO Co., Ltd., owner and developer of the Tokyo Girls Collection (TGC), one of Japan's leading platforms for youth culture and entertainment, has signed a memorandum of understanding (MoU) with Shop Global E-Commerce Co., Ltd., a company within the Saha Group.
-[Read more](https://www.bangkokpost.com/thailand/pr/3278275/w-tokyo-shop-global-to-launch-tokyo-girls-collection-platform-in-thailand)
+## Arthaland completes Tower 2 at Una Apartments Sevina Park ahead of schedule
+GREEN property developer Arthaland held a topping-off ceremony on June 19 to mark the structural completion of Tower 2 of its Una Apartments project in Sevina Park, Biñan City, Laguna. The achievement was reached well ahead of the company’s target date in October this year.
+[Read more](https://www.manilatimes.net/2026/06/30/business/real-estate-and-property/arthaland-completes-tower-2-at-una-apartments-sevina-park-ahead-of-schedule/2374520)
 
 
 
-Last updated: 2026-06-29 15:55:14
+Last updated: 2026-06-30 04:58:15
