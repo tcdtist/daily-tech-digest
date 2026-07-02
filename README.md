@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Developer offers $10K to every household in Pa. township. The catch? Data center approval.
-Project Hazlenut’s developer made the offer to the residents of Hazle Township
-[Read more](https://www.pennlive.com/news/2026/07/developer-offers-10k-to-every-household-in-pa-township-the-catch-data-center-approval.html)
+## Building on Saudi Arabia’s urban growth ambitions
+Property developer Umm Al Qura is moving beyond Masar Destination with a five-year strategy to expand its portfolio across Mecca, Madinah and Jeddah.
+[Read more](https://www.channelnewsasia.com/advertorial/building-saudi-arabias-urban-growth-ambitions-6211981)
 
 
 
-Last updated: 2026-07-02 04:54:04
+Last updated: 2026-07-02 14:12:37
