@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## GTA 6 developer Rockstar Games accused of enabling crunch, failing to address gender pay gap, and weaponizing bonuses
-GTA 6 studio Rockstar Games has been accused of enabling crunch, failing to address gender-based pay inequity, and weaponizing bonuses.
-[Read more](https://www.techradar.com/gaming/gaming-industry/gta-6-developer-rockstar-games-accused-of-enabling-crunch-failing-to-address-gender-pay-gap-and-weaponizing-bonuses)
+## Legislators unveil new version of tax break for Alaska LNG project
+The new version addresses some concerns raised by the private project developer, but key issues remain unresolved.
+[Read more](https://www.adn.com/politics/alaska-legislature/2026/07/02/legislators-unveil-new-version-of-tax-break-for-alaska-lng/)
 
 
 
-Last updated: 2026-07-04 04:29:47
+Last updated: 2026-07-04 13:44:40
