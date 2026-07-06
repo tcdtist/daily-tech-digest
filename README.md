@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Man puts 3m piece of Berlin Wall in South London garden
-A South London property developer has sparked a neighbour row after installing a 3m section of the Berlin Wall in his garden, prompting a planning complaint to the council
-[Read more](https://www.mylondon.news/news/south-london-news/man-puts-3m-piece-berlin-34240122)
+## Developer quietly sells illegally cleared south Sydney site earmarked for now
+In 2020, Amir Abu Abara illegally cleared land in Barden Ridge to build a lavish mansion. After a fine, a replanting works order, and the rejection of his housing plan, he is no longer the site's owner.
+[Read more](https://www.abc.net.au/news/2026-07-06/developer-quietly-sells-illegally-cleared-barden-ridge-site/106878518)
 
 
 
-Last updated: 2026-07-06 05:05:18
+Last updated: 2026-07-06 15:43:49
