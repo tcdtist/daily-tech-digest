@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Eagan Blue Cross Blue Shield site developer withdraws plans
-Following community backlash, Opus and Capital Partners have pulled out of BCBS site plans, along with Johnson Brothers Liquor Co.
-[Read more](https://www.twincities.com/2026/07/04/eagan-bcbs-site-redevelopment-fails-again-opus-johnson-brothers/)
+## Man puts 3m piece of Berlin Wall in South London garden
+A South London property developer has sparked a neighbour row after installing a 3m section of the Berlin Wall in his garden, prompting a planning complaint to the council
+[Read more](https://www.mylondon.news/news/south-london-news/man-puts-3m-piece-berlin-34240122)
 
 
 
-Last updated: 2026-07-05 13:50:32
+Last updated: 2026-07-06 05:05:18
