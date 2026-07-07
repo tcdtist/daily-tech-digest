@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Developer quietly sells illegally cleared south Sydney site earmarked for now
-In 2020, Amir Abu Abara illegally cleared land in Barden Ridge to build a lavish mansion. After a fine, a replanting works order, and the rejection of his housing plan, he is no longer the site's owner.
-[Read more](https://www.abc.net.au/news/2026-07-06/developer-quietly-sells-illegally-cleared-barden-ridge-site/106878518)
+## Wolfenstein and Doom still in development despite Bethesda cuts confirms insider
+Doom developer id Software and ZeniMax Online Studios are seeing significant layoffs, according to an insider, but Doom and Wolfenstein live
+[Read more](https://metro.co.uk/2026/07/06/wolfenstein-doom-still-development-despite-bethesda-cuts-confirms-insider-29066621/)
 
 
 
-Last updated: 2026-07-06 15:43:49
+Last updated: 2026-07-07 04:44:35
