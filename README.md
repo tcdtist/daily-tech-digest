@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## "The Real Beginning Starts Now": RingGames Prepares for Its Next Chapter
-RingGames, the developer of 'ABYSSDIA', is gearing up for a second leap forward.
-[Read more](https://www.invenglobal.com/lol/articles/23494/the-real-beginning-starts-now-ringgames-prepares-for-its-next-chapter)
+## Filinvest turns over lot for railway interchange
+PROPERTY developer Filinvest Land Inc. has turned over a 6,000-square-meter property in Bicutan to the Department of Transportation (DOTr), paving the way for the construction of the Bicutan Station as part of the North-South Commuter Railway (NSCR) and Metro Manila Subway projects.
+[Read more](https://www.manilatimes.net/2026/07/08/business/corporate-news/filinvest-turns-over-lot-for-railway-interchange/2380123)
 
 
 
-Last updated: 2026-07-07 14:48:06
+Last updated: 2026-07-08 04:10:15
