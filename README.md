@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Manhattan high rise developer says new addition caused structural problems
-The ambitious office-to-residential conversion added new construction to an existing building, causing supporting columns to buckle and steel beams to bend.
-[Read more](https://www.livemint.com/global/manhattan-high-rise-developer-says-new-addition-caused-structural-problems-11783471344017.html)
+## The Blood of Dawnwalker: The Big Preview - First hands-on and developer access with the supernatural RPG
+The Big Preview | We drink deeply from The Blood of Dawnwalker with four hours of hands-on access, and a moonlit rendezvous with developer Rebel Wolves about its ambitious, dark RPG
+[Read more](https://www.gamesradar.com/games/action-rpg/the-blood-of-dawnwalker-the-big-preview-hub/)
 
 
 
-Last updated: 2026-07-08 14:26:08
+Last updated: 2026-07-09 04:45:15
