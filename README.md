@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Mystery over rural Calif. data center proposal solved
-SFGATE identified the developer the city refused to name via a public records request.
-[Read more](https://www.sfgate.com/tech/article/shasta-data-mystery-22339208.php)
+## Wife of Jean Nassif, Nisserine ‘Nissy’ Nassif tells court she was left broke, desperate
+The socialite wife of a failed property developer wanted for alleged fraud offences has complained to a court she is “financially desperate” and on Centrelink.
+[Read more](https://www.perthnow.com.au/news/wife-of-jean-nassif-nisserine-nissy-nassif-tells-court-she-was-left-broke-desperate-c-22563100)
 
 
 
-Last updated: 2026-07-11 04:08:06
+Last updated: 2026-07-11 13:37:40
