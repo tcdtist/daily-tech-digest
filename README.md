@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## LAX people mover contractor sues city
-The completion of the automated people mover train at LAX, also known as Skylink, has been delayed for years. In a lawsuit, the developer blames the city of the setbacks.
-[Read more](https://www.latimes.com/california/story/2026-07-14/lax-people-mover-contractor-sues-city)
+## Data center developer loses job after insulting texts about local opponents go viral
+The leaked texts insult township residents’ appearance and intelligence, suggesting that they don’t “regularly bathe and don’t have all their teeth.”
+[Read more](https://www.pennlive.com/news/2026/07/data-center-developer-loses-job-after-insulting-texts-about-local-opponents-go-viral.html)
 
 
 
-Last updated: 2026-07-15 13:51:49
+Last updated: 2026-07-16 03:56:48
