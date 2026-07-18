@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Land between two Surrey villages sold for housing development despite concerns
-The 3.7-acre site has been sold to a developer
-[Read more](https://www.getsurrey.co.uk/news/surrey-news/land-between-two-surrey-villages-34305905)
+## Firms With Checkered Pasts Tied to Troubled Midtown Construction Project
+Among those connected to companies that worked on 235 East 42nd Street were a man who once bribed city officials and a developer who gave a loan to Bernard Kerik.
+[Read more](https://www.nytimes.com/2026/07/17/nyregion/nyc-building-emergency-companies.html)
 
 
 
-Last updated: 2026-07-18 03:49:51
+Last updated: 2026-07-18 13:25:45
