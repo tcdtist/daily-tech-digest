@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## US Attorney says $6.6M Marco Island home bought in illegal scheme
-U.S. District Attorney in Indiana filed for forfeiture of a Marco Island home owned by an Indiana developer, saying it was part of an illegal scheme.
-[Read more](https://www.naplesnews.com/story/news/local/2026/07/18/fbi-case-leads-to-forfeiture-request-of-marco-island-florida-home/90965469007/)
+## Thane Sessions Court Upholds Developer's Conviction In ₹16-Lakh Cheque Bounce Case, Reduces Fine To ₹24 Lakh
+The Thane District and Additional Sessions Court upheld the conviction of a developer in a cheque dishonour case but reduced the fine from Rs 32 lakh to Rs 24 lakh after finding that ₹4 lakh had already been repaid, reducing the outstanding liability to ₹12 lakh.
+[Read more](https://www.freepressjournal.in/mumbai/thane-sessions-court-upholds-developers-conviction-in-16-lakh-cheque-bounce-case-reduces-fine-to-24-lakh)
 
 
 
-Last updated: 2026-07-19 04:18:02
+Last updated: 2026-07-19 13:34:46
