@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Firms With Checkered Pasts Tied to Troubled Midtown Construction Project
-Among those connected to companies that worked on 235 East 42nd Street were a man who once bribed city officials and a developer who gave a loan to Bernard Kerik.
-[Read more](https://www.nytimes.com/2026/07/17/nyregion/nyc-building-emergency-companies.html)
+## US Attorney says $6.6M Marco Island home bought in illegal scheme
+U.S. District Attorney in Indiana filed for forfeiture of a Marco Island home owned by an Indiana developer, saying it was part of an illegal scheme.
+[Read more](https://www.naplesnews.com/story/news/local/2026/07/18/fbi-case-leads-to-forfeiture-request-of-marco-island-florida-home/90965469007/)
 
 
 
-Last updated: 2026-07-18 13:25:45
+Last updated: 2026-07-19 04:18:02
