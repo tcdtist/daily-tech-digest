@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## UnionBank Home Loan first online developer fair until July 31
-UNIONBANK Home Loan has launched its first Online Developer Fair, where families and individuals can conveniently check available properties and take the next step toward homeownership — and live a life unlocked.
-[Read more](https://www.manilatimes.net/2026/07/20/tmt-newswire/unionbank-home-loan-first-online-developer-fair-until-july-31/2387100)
+## Pelligra’s Perth Glory tags $300m real estate play at women’s pitch
+Developer Ross Pelligra’s soccer club plan is the latest example of how Australian clubs across the codes are turning to real estate to fund their future.
+[Read more](https://www.afr.com/property/commercial/pelligra-s-perth-glory-tags-300m-real-estate-play-at-women-s-pitch-20260714-p60f2m)
 
 
 
-Last updated: 2026-07-20 04:32:11
+Last updated: 2026-07-20 14:17:36
