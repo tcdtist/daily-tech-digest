@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Worcester historical commission to review Washington Square demolition
-A developer seeks to demolish a historic building for new apartments while a separate hotel project is also planned for Washington Square.
-[Read more](https://www.masslive.com/centralmass/2026/07/worcesters-washington-square-to-be-site-for-demolition-new-apartments.html)
+## Voice-Controlled Cat Co-op Adventure 'Meowgic' Officially Launches on Steam
+Source: Lazy Turtle GamesPolish indie game developer Lazy Turtle Games and publisher Polden Publishing announced that they officially released the voice-controlled cooperative fant...
+[Read more](https://www.invenglobal.com/valorant/articles/23968/voice-controlled-cat-co-op-adventure-meowgic-officially-launches-on-steam)
 
 
 
-Last updated: 2026-07-21 04:11:04
+Last updated: 2026-07-21 14:04:09
