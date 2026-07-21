@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Pelligra’s Perth Glory tags $300m real estate play at women’s pitch
-Developer Ross Pelligra’s soccer club plan is the latest example of how Australian clubs across the codes are turning to real estate to fund their future.
-[Read more](https://www.afr.com/property/commercial/pelligra-s-perth-glory-tags-300m-real-estate-play-at-women-s-pitch-20260714-p60f2m)
+## Worcester historical commission to review Washington Square demolition
+A developer seeks to demolish a historic building for new apartments while a separate hotel project is also planned for Washington Square.
+[Read more](https://www.masslive.com/centralmass/2026/07/worcesters-washington-square-to-be-site-for-demolition-new-apartments.html)
 
 
 
-Last updated: 2026-07-20 14:17:36
+Last updated: 2026-07-21 04:11:04
