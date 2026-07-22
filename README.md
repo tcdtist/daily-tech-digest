@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Voice-Controlled Cat Co-op Adventure 'Meowgic' Officially Launches on Steam
-Source: Lazy Turtle GamesPolish indie game developer Lazy Turtle Games and publisher Polden Publishing announced that they officially released the voice-controlled cooperative fant...
-[Read more](https://www.invenglobal.com/valorant/articles/23968/voice-controlled-cat-co-op-adventure-meowgic-officially-launches-on-steam)
+## What Shopify’s Developer Conference This Week Tells Us About Investment Potential Across Canada
+As DevDot 2026 opens its doors, we can get a clearer picture into where we can expect to see investment opportunities associated with Shopify's ecosystem this year.
+[Read more](https://www.barchart.com/story/news/3386821/what-shopifys-developer-conference-this-week-tells-us-about-investment-potential-across-canada)
 
 
 
-Last updated: 2026-07-21 14:04:09
+Last updated: 2026-07-22 04:12:41
