@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Developer seeks approval on 3,600 homes west of I-5
-The L.A. County Regional Planning Commission is reviewing a staff recommendation next week to approve the permits and tract map for Homestead South, a development of more than 3,600 homes, just south of State Route 126 and the Santa Clara […]
-[Read more](https://signalscv.com/2026/07/newhall-land-seeks-approval-on-3600-homes-west-of-i-5/)
+## Developer Forces NVIDIA RTX 4060 Onto Windows 11 Arm By Hacking Drivers Never Meant For It
+Developer VoidTech successfully boots NVIDIA GeForce RTX 4060 on Windows 11 Arm with modified Arm64 drivers, enabling DirectX 12 and Vulkan support.
+[Read more](https://wccftech.com/developer-forces-nvidia-rtx-4060-onto-windows-11-arm-by-hacking-drivers-never-meant-for-it/)
 
 
 
-Last updated: 2026-07-22 14:06:55
+Last updated: 2026-07-23 04:10:25
