@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Developer Forces NVIDIA RTX 4060 Onto Windows 11 Arm By Hacking Drivers Never Meant For It
-Developer VoidTech successfully boots NVIDIA GeForce RTX 4060 on Windows 11 Arm with modified Arm64 drivers, enabling DirectX 12 and Vulkan support.
-[Read more](https://wccftech.com/developer-forces-nvidia-rtx-4060-onto-windows-11-arm-by-hacking-drivers-never-meant-for-it/)
+## Devolver Digital Releases 'Poinpy' for Free on All iOS and Android Platforms
+Source: Devolver Digital Global indie game publisher Devolver Digital has released 'Poinpy,' a mobile platformer by Downwell developer Ojiro Fumoto, completely free of charge on all iOS and Android platforms.
+[Read more](https://www.invenglobal.com/valorant/articles/24054/devolver-digital-releases-poinpy-for-free-on-all-ios-and-android-platforms)
 
 
 
-Last updated: 2026-07-23 04:10:25
+Last updated: 2026-07-23 14:12:00
