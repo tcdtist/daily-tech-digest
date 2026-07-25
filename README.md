@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Apple AirPods Turned Into a Frisbee Tracker Using Built-In Sensors
-A developer transformed Apple AirPods into a frisbee tracker by using the earbuds' built-in motion sensors and gyroscope to measure spin during flight.
-[Read more](https://www.gizchina.com/apple/apple-airpods-turned-into-a-frisbee-tracker-using-built-in-sensors)
+## Worcester hotel developer asks for 2-year extension to build 122-room hotel
+Park Silver Development seeks a two-year extension to start construction of a 122-room hotel on empty land in Worcester.
+[Read more](https://www.masslive.com/centralmass/2026/07/worcester-hotel-developer-asks-for-2-year-extension-to-build-122-room-hotel.html)
 
 
 
-Last updated: 2026-07-24 13:54:51
+Last updated: 2026-07-25 03:58:38
