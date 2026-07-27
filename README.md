@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## New construction can be a good thing - if developers respect existing homes
-A politically connected developer is creating much-needed affordable housing in Germantown. But for the senior citizen whose property borders the building, the construction has left her with a mess.
-[Read more](https://www.inquirer.com/opinion/germantown-danilo-burgos-burg-properties-development-exisiting-housing-20260726.html)
+## Jean Nassif allegedly wanted to use Perrottet brothers to influence government decisions, ICAC hears
+The corruption watchdog has heard that fugitive developer Jean Nassif allegedly sought to use former NSW premier Dominic Perrottet's brothers to influence government decisions.
+[Read more](https://www.abc.net.au/news/2026-07-27/nsw-icac-operation-rosny-jean-nassif-perrottet-brothers/106961030)
 
 
 
-Last updated: 2026-07-27 04:32:02
+Last updated: 2026-07-27 14:46:35
