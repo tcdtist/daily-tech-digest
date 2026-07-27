@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Ditch cod and salmon for cheaper, better ingredient for a 'gorgeous' fish pie
-A recipe developer shared the clever ingredient swap she uses when making a fish pie — a delicious and cheaper alternative to cod and haddock
-[Read more](https://www.dailypost.co.uk/whats-on/food-drink-news/how-to-make-fish-pie-34347924)
+## New construction can be a good thing - if developers respect existing homes
+A politically connected developer is creating much-needed affordable housing in Germantown. But for the senior citizen whose property borders the building, the construction has left her with a mess.
+[Read more](https://www.inquirer.com/opinion/germantown-danilo-burgos-burg-properties-development-exisiting-housing-20260726.html)
 
 
 
-Last updated: 2026-07-26 13:39:11
+Last updated: 2026-07-27 04:32:02
