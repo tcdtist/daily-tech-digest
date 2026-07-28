@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## WS Industries Board Approves Binding Tripartite Term Sheet for Senior Living Project in Chennai
-W.S. Industries (India) Limited's Board of Directors, at its meeting on 27th July, 2026, approved a Binding Tripartite Term Sheet for a senior living/senior care residential project at Poonamalee, Outer Ring Road (ORR), Chennai, Tamil Nadu. The project is to be developed on approximately 4.00 acres of land, in phases, with an indicative FSI/FAR of 3.25 and an indicative permissible built-up area of approximately 5,66,280 sq. ft., subject to statutory approvals. The company will act as Developer, entitled to a Fixed Return of 7.5% of the Topline actually realised, while M/s. Bharathi & Associates Asset Building Private Limited, as Marketing Co-Developer, is entitled to a Fixed Fee of 15% of the Topline. The company will also be responsible for arranging Working Capital facilities for the project, proposed to be secured against the project land owned by M/s. SIXP Realty Private Limited.
-[Read more](https://scanx.trade/stock-market-news/companies/ws-industries-board-approves-binding-tripartite-term-sheet-for-senior-living-project-in-chennai/46707955)
+## Epic taps Blizzard's Battle.net lead to fix the Epic Games Store as Steam dominates
+The Epic Games Store's new VP will focus on "new capabilities that elevate player, creator and developer experiences"
+[Read more](https://www.gamesradar.com/platforms/pc-gaming/epic-taps-blizzards-battle-net-lead-to-fix-the-epic-games-store-as-steam-dominates/)
 
 
 
-Last updated: 2026-07-28 03:56:03
+Last updated: 2026-07-28 14:20:53
