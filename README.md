@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Bombay HC Grants Interim Relief To Developer In Defamation Suit
-The Bombay High Court restrained Devang Dave and two others from publishing allegedly defamatory content against SD Corporation's Kandivali redevelopment project, observing the developer established a prima facie case., Mumbai News, Times Now
-[Read more](https://www.timesnownews.com/mumbai/bombay-hc-grants-interim-relief-to-developer-in-defamation-suit-article-155215243)
+## Sarvam AI to build trillion-parameter foundation model
+India’s full-stack sovereign AI company Sarvam AI on Thursday unveiled plans to build a trillion-plus parameter foundation model, announced the opening of its first international office in San Francisco, and launched a suite of new AI products and developer tools as it sharpens its ambitions to become a full-stack AI platform
+[Read more](https://www.thehindubusinessline.com/news/sarvam-ai-plans-to-build-trillion-plus-parameter-model/article71286248.ece)
 
 
 
-Last updated: 2026-07-30 14:13:42
+Last updated: 2026-07-31 04:17:34
