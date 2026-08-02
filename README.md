@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Woodburn wants to consider moratorium on new data centers
-Woodburn filed notice on July 30 that it intends to consider a moratorium on new data centers after developer Verrus showed interest in the city.
-[Read more](https://www.statesmanjournal.com/story/money/business/development/2026/07/31/woodburn-makes-moves-to-give-city-option-to-stop-data-centers/91128181007/)
+## Giant plan for 2,000 homes with new school and road junctions
+Exeter-based developer targets land near Crealy Theme Park for ‘Clyst Village’ development
+[Read more](https://www.devonlive.com/news/devon-news/giant-housing-plan-2000-homes-11083689)
 
 
 
-Last updated: 2026-08-01 13:38:06
+Last updated: 2026-08-02 04:19:38
