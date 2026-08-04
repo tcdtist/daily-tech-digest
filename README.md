@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Clarkefield in Macedon Ranges could be transformed with controversial planning application
-Sohos, lofts and apartments could soon be built in the Macedon Ranges if a housing estate developer gets its $700 million housing estate fast-tracked through the Victorian government's planning minister.
-[Read more](https://www.abc.net.au/news/2026-08-03/macedon-ranges-clarkefield-development-approval-process/106945392)
+## Arthaland opens new immersive Makati gallery
+GREEN developer Arthaland has opened its new gallery in Makati, a dedicated space where homebuyers and investors can explore its latest developments through immersive and thoughtfully curated experiences.
+[Read more](https://www.manilatimes.net/2026/08/04/business/real-estate-and-property/arthaland-opens-new-immersive-makati-gallery/2396809)
 
 
 
-Last updated: 2026-08-03 14:49:25
+Last updated: 2026-08-04 04:07:05
