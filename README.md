@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Arthaland opens new immersive Makati gallery
-GREEN developer Arthaland has opened its new gallery in Makati, a dedicated space where homebuyers and investors can explore its latest developments through immersive and thoughtfully curated experiences.
-[Read more](https://www.manilatimes.net/2026/08/04/business/real-estate-and-property/arthaland-opens-new-immersive-makati-gallery/2396809)
+## 'Beast of Reincarnation,' a 1-Player, 1-Dog Action RPG, Officially Launches August 4
+'Beast of Reincarnation,' an action RPG that generated significant buzz prior to release as a brand-new IP from Game Freak, the developer of the Pokémon series, officially lau...
+[Read more](https://www.invenglobal.com/valorant/articles/24430/beast-of-reincarnation-a-1-player-1-dog-action-rpg-officially-launches-august-4)
 
 
 
-Last updated: 2026-08-04 04:07:05
+Last updated: 2026-08-04 14:26:51
