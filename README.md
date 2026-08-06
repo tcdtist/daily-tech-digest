@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## GTA 6: Former Rockstar Games dev 'would not be shocked' by another release date delay
-A former Rockstar Games developer has said based on his experience at the studio, he "would not be shocked" if there is another ​GTA 6​ release date delay.
-[Read more](https://www.indy100.com/gaming/gta-6-release-date-delay-2677661043)
+## Meta chases OpenAI, Anthropic with new AI coding app Muse Code
+Meta entered the race for automated coding tools on Wednesday when it announced a new app for developers of artificial intelligence products, as it competes with other major AI labs for customers and revenue. Microsoft, which has invested billions into both OpenAI and Anthropic, offers coding tools through its business-focused AI app, Copilot, in addition to a developer product, GitHub.
+[Read more](https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-chases-openai-anthropic-with-new-ai-coding-app-muse-code/articleshow/132979303.cms)
 
 
 
-Last updated: 2026-08-06 04:06:37
+Last updated: 2026-08-06 14:23:22
