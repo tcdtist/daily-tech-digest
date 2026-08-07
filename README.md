@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Meta chases OpenAI, Anthropic with new AI coding app Muse Code
-Meta entered the race for automated coding tools on Wednesday when it announced a new app for developers of artificial intelligence products, as it competes with other major AI labs for customers and revenue. Microsoft, which has invested billions into both OpenAI and Anthropic, offers coding tools through its business-focused AI app, Copilot, in addition to a developer product, GitHub.
-[Read more](https://economictimes.indiatimes.com/tech/artificial-intelligence/meta-chases-openai-anthropic-with-new-ai-coding-app-muse-code/articleshow/132979303.cms)
+## Former Bolton pub could be transformed into café and restaurant
+A developer intends to bring the Lever Arms in Bolton 'back into active use that will continue to serve the local community'
+[Read more](https://www.manchestereveningnews.co.uk/news/greater-manchester-news/former-bolton-pub-could-transformed-34416777)
 
 
 
-Last updated: 2026-08-06 14:23:22
+Last updated: 2026-08-07 03:44:43
