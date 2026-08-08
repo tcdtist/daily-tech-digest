@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Moving away from Windows is getting a little easier, as Linux will soon support more SteelSeries gaming headsets
-Open-source developer Sriman Achanta has created a patch to launch alongside Linux kernel 7.3 to improve support for SteelSeries headsets.
-[Read more](https://www.gamesradar.com/hardware/headsets-headphones/moving-away-from-windows-is-getting-a-little-easier-as-linux-will-soon-support-more-steelseries-gaming-headsets/)
+## Data center developer withdraws Pacific proposal
+But the company is still seeking approval for the same project from Franklin County, a county commissioner said.
+[Read more](https://www.stltoday.com/news/local/government-politics/article_fb35966a-186c-4397-8d5c-96b7f3e72361.html)
 
 
 
-Last updated: 2026-08-08 02:51:08
+Last updated: 2026-08-08 12:57:16
