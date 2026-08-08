@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Stockyards developer halts $1 billion Phase II expansion in Fort Worth
-The partnership behind the Stockyards' transformation says ongoing renovations and future projects will continue despite the shift in plans.
-[Read more](https://www.cbsnews.com/texas/news/fort-worth-stockyards-developer-halts-phase-2-expansion/)
+## Moving away from Windows is getting a little easier, as Linux will soon support more SteelSeries gaming headsets
+Open-source developer Sriman Achanta has created a patch to launch alongside Linux kernel 7.3 to improve support for SteelSeries headsets.
+[Read more](https://www.gamesradar.com/hardware/headsets-headphones/moving-away-from-windows-is-getting-a-little-easier-as-linux-will-soon-support-more-steelseries-gaming-headsets/)
 
 
 
-Last updated: 2026-08-07 13:14:09
+Last updated: 2026-08-08 02:51:08
