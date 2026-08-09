@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Doom developer slams Xbox after layoffs hit id Software: "They fundamentally don't understand art. They don't understand games"
-We're not the same iD, we're half the same iD.
-[Read more](https://www.gamesradar.com/games/fps/doom-developer-slams-xbox-after-layoffs-hit-id-software-they-fundamentally-dont-understand-art-they-dont-understand-games/)
+## Texas city planned to build data center. Then residents sued
+Appeals courts will decide whether the city of Taylor must honor a clause in a 1999 deed to build a park on land sold to a data center developer.
+[Read more](https://www.snopes.com/news/2026/08/08/texas-data-center-lawsuit/)
 
 
 
-Last updated: 2026-08-09 02:58:54
+Last updated: 2026-08-09 12:59:57
