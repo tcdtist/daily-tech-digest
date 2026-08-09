@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Data center developer withdraws Pacific proposal
-But the company is still seeking approval for the same project from Franklin County, a county commissioner said.
-[Read more](https://www.stltoday.com/news/local/government-politics/article_fb35966a-186c-4397-8d5c-96b7f3e72361.html)
+## Doom developer slams Xbox after layoffs hit id Software: "They fundamentally don't understand art. They don't understand games"
+We're not the same iD, we're half the same iD.
+[Read more](https://www.gamesradar.com/games/fps/doom-developer-slams-xbox-after-layoffs-hit-id-software-they-fundamentally-dont-understand-art-they-dont-understand-games/)
 
 
 
-Last updated: 2026-08-08 12:57:16
+Last updated: 2026-08-09 02:58:54
