@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## acre waterfront property transformation
-Developer responses are due by Aug. 25.
-[Read more](https://www.silive.com/nation/2026/08/massive-34-acre-waterfront-property-in-wildwood-is-set-for-a-transformation.html)
+## NEOWIZ Releases Documentary on 'Lies of P' Developer NOUGH Studio
+Source: NEOWIZ NEOWIZ (co-CEOs Kim Seung-chul and Bae Tae-geun) announced on the 10th that its internal development organization, NOUGH Studio, has released a documentary titled 'G...
+[Read more](https://www.invenglobal.com/articles/24603/neowiz-releases-documentary-on-lies-of-p-developer-nough-studio)
 
 
 
-Last updated: 2026-08-10 03:07:52
+Last updated: 2026-08-10 13:18:47
