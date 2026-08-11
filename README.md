@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## NEOWIZ Releases Documentary on 'Lies of P' Developer NOUGH Studio
-Source: NEOWIZ NEOWIZ (co-CEOs Kim Seung-chul and Bae Tae-geun) announced on the 10th that its internal development organization, NOUGH Studio, has released a documentary titled 'G...
-[Read more](https://www.invenglobal.com/articles/24603/neowiz-releases-documentary-on-lies-of-p-developer-nough-studio)
+## ‘People in Japan thought we made footy up’: Pro Jank Footy, the video game taking Australian rules to the world
+Game developer David Ashby and Aunty Donna’s Broden Kelly talk about their chaotic and silly sport game – involving meat pies with legs and Ford Falcons on the oval
+[Read more](https://www.theguardian.com/games/2026/aug/11/pro-jank-footy-video-game-australian-rules)
 
 
 
-Last updated: 2026-08-10 13:18:47
+Last updated: 2026-08-11 03:01:00
