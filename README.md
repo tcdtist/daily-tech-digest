@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Luke Dashjr Removed As Bitcoin BIP Editor Following (BIP)-110 Fork Failure
-Bitcoin developer Luke Dashjr, who backed the failed Bitcoin Improvement Proposal (BIP)-110, has been removed from his position as an editor of such proposals
-[Read more](https://bitcoinmagazine.com/news/luke-dashjr-removed-as-bitcoin-bip-editor)
+## DOUBLEUGAMES Q2 Revenue Hits ₩210.6 Billion, Achieving Record Performance
+©DOUBLEUGAMESGlobal game developer DOUBLEUGAMES (CEO Kim Ga-ram) announced in a regulatory filing on the 12nd that it recorded ₩210.6 billion in consolidated revenue an...
+[Read more](https://www.invenglobal.com/articles/24651/doubleugames-q2-revenue-hits-2106-billion-achieving-record-performance)
 
 
 
-Last updated: 2026-08-12 03:19:03
+Last updated: 2026-08-12 13:19:29
