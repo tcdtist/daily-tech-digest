@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## The Largest Data Center In California Has Been Denied Water For Cooling - Now It's Suing A Public Agency
-A developer is suing a California utility district, hoping to combine the water rights from several plots of farmland for a new AI data center.
-[Read more](https://www.bgr.com/2231575/largest-data-center-in-california-denied-water-for-cooling-now-its-suing/)
+## Marvel's Wolverine: The Big Preview - First hands-on and developer access with the superhero slasher
+The Big Preview | After two hours going claws-on with Wolverine, and a snarling chat with Insomniac Games, the Spider-Man studio is the still the best there is at what it does
+[Read more](https://www.gamesradar.com/games/action/marvels-wolverine-the-big-preview-hub/)
 
 
 
-Last updated: 2026-08-13 13:21:25
+Last updated: 2026-08-14 03:20:47
