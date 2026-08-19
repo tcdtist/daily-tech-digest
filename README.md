@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Residents of leafy N.J. suburb rally to save 271-year-old tree from developer’s ax
-It stands in the way of a planned subdivision.
-[Read more](https://www.nj.com/realestate-news/2026/08/residents-of-leafy-nj-suburb-rally-to-save-271-year-old-tree-from-developers-ax.html)
+## Neptune Opens Global Pre-registration for New Wuxia RPG 'Sword Hero Zero'
+©NeptuneNeptune (CEO Kang Yul-bin) has officially begun the launch process for its new multiverse Wuxia RPG, 'Sword Hero Zero,' developed by global game developer Han-Squirrel...
+[Read more](https://www.invenglobal.com/articles/24877/neptune-opens-global-pre-registration-for-new-wuxia-rpg-sword-hero-zero)
 
 
 
-Last updated: 2026-08-19 02:14:31
+Last updated: 2026-08-19 12:55:02
