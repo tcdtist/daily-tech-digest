@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Neptune Opens Global Pre-registration for New Wuxia RPG 'Sword Hero Zero'
-©NeptuneNeptune (CEO Kang Yul-bin) has officially begun the launch process for its new multiverse Wuxia RPG, 'Sword Hero Zero,' developed by global game developer Han-Squirrel...
-[Read more](https://www.invenglobal.com/articles/24877/neptune-opens-global-pre-registration-for-new-wuxia-rpg-sword-hero-zero)
+## Kolte-Patil Developers appoints Hrishikesh Parandekar as new CEO
+Parandekar joins from Alpha Alternatives and will spearhead the developer's next phase of growth, business expansion, operational excellence and institutional strengthening
+[Read more](https://www.business-standard.com/companies/news/kolte-patil-developers-appoints-hrishikesh-parandekar-as-new-ceo-126081901213_1.html)
 
 
 
-Last updated: 2026-08-19 12:55:02
+Last updated: 2026-08-20 02:13:18
