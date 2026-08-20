@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Kolte-Patil Developers appoints Hrishikesh Parandekar as new CEO
-Parandekar joins from Alpha Alternatives and will spearhead the developer's next phase of growth, business expansion, operational excellence and institutional strengthening
-[Read more](https://www.business-standard.com/companies/news/kolte-patil-developers-appoints-hrishikesh-parandekar-as-new-ceo-126081901213_1.html)
+## China Sentences Evergrande Founder Hui Ka Yan to Life in Prison for Massive Fraud
+China Sentences Evergrande Founder Hui Ka Yan to Life in Prison for Massive Fraud - A Shenzhen court also levies massive fines against the developer’s main units for systematic fraud
+[Read more](https://www.caixinglobal.com/2026-08-20/china-sentences-evergrande-founder-hui-ka-yan-to-life-in-prison-for-massive-fraud-102476023.html)
 
 
 
-Last updated: 2026-08-20 02:13:18
+Last updated: 2026-08-20 12:57:06
