@@ -2,11 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## FromSoftware closes its first network test of The Duskbloods early due to server issues.
-The Duskbloods’ network test was set to start at 6am ET, but the first session ended early while developer FromSoftware works to improve the servers. As inconvenient as this is for those trying to demo the game, a network test is of course meant to test the network.
-[Media: https://twitter.com/fromsoftware_pr/status/2090766523422101948]
-[Read more](https://www.theverge.com/games/983178/fromsoftware-closes-its-first-network-test-of-the-duskbloods-early-due-to-server-issues)
+## Bombay HC Issues Notice To MBMC, Commissioner Over Alleged Disobedience Of Court Order In Windsor Project Case
+The Bombay High Court issued notice to MBMC and Commissioner Radhabinod Aribam Sharma over alleged disobedience of an interim order protecting Grandbuild Land Developers. The court ordered MBMC to withdraw stop-work communications and directed MahaRERA to remove adverse project messages and unfreeze the developer’s bank accounts.
+[Read more](https://www.freepressjournal.in/mumbai/bombay-hc-issues-notice-to-mbmc-commissioner-over-alleged-disobedience-of-court-order-in-windsor-project-case)
 
 
 
-Last updated: 2026-08-22 02:11:48
+Last updated: 2026-08-22 12:47:48
