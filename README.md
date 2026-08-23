@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Bombay HC Issues Notice To MBMC, Commissioner Over Alleged Disobedience Of Court Order In Windsor Project Case
-The Bombay High Court issued notice to MBMC and Commissioner Radhabinod Aribam Sharma over alleged disobedience of an interim order protecting Grandbuild Land Developers. The court ordered MBMC to withdraw stop-work communications and directed MahaRERA to remove adverse project messages and unfreeze the developer’s bank accounts.
-[Read more](https://www.freepressjournal.in/mumbai/bombay-hc-issues-notice-to-mbmc-commissioner-over-alleged-disobedience-of-court-order-in-windsor-project-case)
+## Coventry City Centre South developer says Hertford House was 'difficult one' to demolish
+The multimillion-pound City Centre South regeneration project is in full swing with a large section of Coventry city centre now demolished, cleared for an entire new neighbourhood of shops, entertainment, food outlets and almost 1,600 homes.
+[Read more](https://www.coventrytelegraph.net/news/coventry-news/coventry-city-centre-south-developer-34465475)
 
 
 
-Last updated: 2026-08-22 12:47:48
+Last updated: 2026-08-23 02:20:31
