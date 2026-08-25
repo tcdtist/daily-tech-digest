@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Humanoid robot soldiers likely only 5-10 years away, one developer behind China's robotics boom tells CBS News
-A Chinese robotics developer tells CBS News humanoids won't turn against humans as they're just machines: "It all depends on who controls them."
-[Read more](https://www.cbsnews.com/news/china-humanoid-robot-soldiers-only-years-away-developer-tells-cbs-news/)
+## Roger Brown’s restaurant renovations to bring 30 apartments to Olde Towne
+The new owner, developer Tim Foley of the Norfolk-based Lightwell Development, envisions a multi-story, mixed-use concept that features a "well-known" area restaurant and a new set of market-rate apartments.
+[Read more](https://www.pilotonline.com/2026/08/24/roger-browns-restaurant-renovations-to-bring-30-apartments-to-olde-towne/)
 
 
 
-Last updated: 2026-08-25 02:14:49
+Last updated: 2026-08-25 12:54:44
