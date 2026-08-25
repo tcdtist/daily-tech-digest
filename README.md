@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## The Duskbloods Network Test review - FromSoftware offers multiplayer vampires
-GameCentral goes hands-on with The Duskbloods Network Test, as Elden Ring developer FromSoftware tries its hand at a new multiplayer game.
-[Read more](https://metro.co.uk/2026/08/24/duskbloods-network-test-review-fromsoftware-offers-multiplayer-vampires-29445499/)
+## Humanoid robot soldiers likely only 5-10 years away, one developer behind China's robotics boom tells CBS News
+A Chinese robotics developer tells CBS News humanoids won't turn against humans as they're just machines: "It all depends on who controls them."
+[Read more](https://www.cbsnews.com/news/china-humanoid-robot-soldiers-only-years-away-developer-tells-cbs-news/)
 
 
 
-Last updated: 2026-08-24 12:58:37
+Last updated: 2026-08-25 02:14:49
