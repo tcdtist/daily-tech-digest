@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Roger Brown’s restaurant renovations to bring 30 apartments to Olde Towne
-The new owner, developer Tim Foley of the Norfolk-based Lightwell Development, envisions a multi-story, mixed-use concept that features a "well-known" area restaurant and a new set of market-rate apartments.
-[Read more](https://www.pilotonline.com/2026/08/24/roger-browns-restaurant-renovations-to-bring-30-apartments-to-olde-towne/)
+## Two held for demanding Rs 1.25 lakh bribe for electrical meter connection from builder
+Thane, Aug 25 (PTI) The Anti-Corruption Bureau on Tuesday arrested two suspected middlemen, including a contractual employee of the Maharashtra State Electricity Distribution Company, for allegedly accepting a Rs 1.25 lakh bribe from a local developer, officials said. The accused are identified as Jayanta Shivkar (51), a rickshaw driver on contract with the MSEDCL, and […]
+[Read more](https://theprint.in/india/two-held-for-demanding-rs-1-25-lakh-bribe-for-electrical-meter-connection-from-builder/3024702/)
 
 
 
-Last updated: 2026-08-25 12:54:44
+Last updated: 2026-08-26 02:21:27
