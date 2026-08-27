@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## West Englewood's shuttered Charles Warrington Earle School reopens as affordable housing
-The building's 50 apartments are already about 34% leased, according to developer Gorman & Co.
-[Read more](https://chicago.suntimes.com/real-estate/2026/08/26/west-englewood-shuttered-charles-warrington-earle-school-affordable-housing)
+## Apple cancels planned Hide My Email domain change after community backlash; Sign in with Apple will move to a new domain
+Tech News News: ​Apple has backed down on a change to its Hide My Email service after criticism from developers and users. A recently released developer document show.
+[Read more](https://timesofindia.indiatimes.com/technology/tech-news/apple-cancels-planned-hide-my-email-domain-change-after-community-backlash-sign-in-with-apple-will-move-to-a-new-domain/articleshow/133563588.cms)
 
 
 
-Last updated: 2026-08-27 10:50:03
+Last updated: 2026-08-27 22:03:52
