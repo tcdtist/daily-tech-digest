@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Cities turn to AI to speed housing permitting
-New housing projects can sometimes stall out as a developer applies to city or county planning boards and goes through cycles of inspections, reviews and approvals. Now, cities are increasingly turning to artificial intelligence to address one of the most persistent sources of housing permitting delays: incomplete applications. And two new streams of federal money aim to help them. AI can ...
-[Read more](https://www.courant.com/2026/08/30/cities-turn-to-ai-to-speed-housing-permitting-2/)
+## Developer calls for stricter land taxes and Vertiv reaps rewards of data centre boom
+The best news, analysis and comment from The Irish Times business desk
+[Read more](https://www.irishtimes.com/business/2026/08/31/developer-calls-for-stricter-land-taxes-and-vertiv-reaps-rewards-of-data-centre-boom/)
 
 
 
-Last updated: 2026-08-31 06:32:37
+Last updated: 2026-08-31 18:59:17
