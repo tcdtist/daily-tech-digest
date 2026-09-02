@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Veegaland Developers IPO: Check Price Band, Timeline & Key Details
-Veegaland Developers Limited, ranked Kerala's fastest-selling real estate developer (ICRA Report, December 8, 2025), has filed its DRHP for an IPO opening September 10, 2026 and closing September 15, 2026. Revenue from operations reached ₹250.98 crore in FY2026, up 30.46% YoY, while PAT stood at ₹26.61 crore with a PAT margin of 10.47%. ₹119.83 crore of IPO proceeds are earmarked for funding construction of eight ongoing residential projects aligned with RERA timelines; balance proceeds target land acquisition and general corporate purposes. The company has a total development pipeline of 34.24 lakh sq. ft. across 25 projects and has achieved 100% sales absorption across 692 completed units. Key risks include negative operating cash flows of ₹74.26 crore in FY2026, 100% geographic concentration in Kerala, and full dependence on third-party contractors who accounted for 44.92% of operating costs in FY2026.
-[Read more](https://scanx.trade/stock-market-news/ipo/veegaland-developers-ipo-check-price-band-timeline-key-details/49781180)
+## Local Real Estate Developer and Business Leader John Stamato Named to Glen Burnie Bancorp Board of Directors
+GLEN BURNIE, Md., Sept. 01, 2026 (GLOBE NEWSWIRE) -- Glen Burnie Bancorp (OTCQX: GLBZ), the parent company of The Bank of Glen Burnie®, named John Stamato to the Board of Directors, announced Mark C. Hanna, President and CEO of Glen Burnie Bancorp and The Bank of Glen Burnie.
+[Read more](https://www.manilatimes.net/2026/09/02/tmt-newswire/globenewswire/local-real-estate-developer-and-business-leader-john-stamato-named-to-glen-burnie-bancorp-board-of-directors/2416448)
 
 
 
-Last updated: 2026-09-01 16:20:52
+Last updated: 2026-09-02 05:20:25
