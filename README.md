@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Country House Homes submits plans for 47 retirement bungalows on land off Heath Road in Coxheath
-A developer has revealed plans for retirement bungalows as part of the next phase of a development being constructed on a pear orchard.
-[Read more](https://www.kentonline.co.uk/maidstone/news/plans-for-nearly-50-retirement-homes-unveiled-in-phase-two-344669/)
+## Microsoft reveals a new Windows 11 device designed for developers, and it comes with all the basics
+It's an interesting hybrid of hardware and software, working together for a better developer experience.
+[Read more](https://www.xda-developers.com/microsoft-reveals-new-windows-11-device-developers/)
 
 
 
-Last updated: 2026-09-04 16:04:11
+Last updated: 2026-09-05 05:10:15
