@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Haryana: Tribunal comes to aid of flat buyer, allows independent measurement amid row
-The allottee had sought an independent assessment of the flat’s different areas due to his dispute with the developer over the measurements and costs mentioned in the 2022 Builder-Buyer Agreement
-[Read more](https://www.hindustantimes.com/cities/chandigarh-news/haryana-tribunal-comes-to-aid-of-flat-buyer-allows-independent-measurement-amid-row-101788551794512.html)
+## Developer DDL Estates’ debt nears $100m; collapse opens door to ‘below cost’ Ellerslie apartments
+Auckland apartments caught up in a dramatic property collapse are being sold at “a lot less than construction cost” as the developer’s debt nears $100...
+[Read more](https://www.nzherald.co.nz/nz/developer-ddl-estates-debt-nears-100m-collapse-opens-door-to-below-cost-ellerslie-apartments/premium/IODKCSLQ6FHT7KSZGDSXGY6JOQ/)
 
 
 
-Last updated: 2026-09-05 14:54:28
+Last updated: 2026-09-06 05:24:31
