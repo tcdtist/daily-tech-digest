@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## 'Tactical Commanders R' returns via Steam for real
-The Steam store page for 'Tactical Commanders R', which announced its revival in May this year through developer ChogaSoft, went live today (7th), generating significant buzz.'Tactical Commanders' is an RTS game developed by Nexon.
-[Read more](https://www.invenglobal.com/articles/25668/tactical-commanders-r-returns-via-steam-for-real)
+## What Australian developer Bathla’s collapse means for home buyers and their money
+The credit crisis lays bare the pitfalls for buyers when corporate missteps collide with a market correction. Read more at straitstimes.com.
+[Read more](https://www.straitstimes.com/business/companies-markets/what-australian-developer-bathlas-collapse-means-for-homebuyers-and-their-money)
 
 
 
-Last updated: 2026-09-08 05:31:57
+Last updated: 2026-09-08 16:22:15
