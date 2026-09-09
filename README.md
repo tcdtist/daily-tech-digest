@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Large Woking town centre office block to be converted into apartments as developers seek to build extra storeys
-The developer has submitted proposals to build a large extension on the roof of the office building
-[Read more](https://www.getsurrey.co.uk/news/surrey-news/large-woking-town-centre-office-34585244)
+## Chinese court guidance aims to smooth developer bankruptcies, reassure creditors
+Framework from Supreme People’s Court aims to end judicial inconsistencies across regions, aid flow of capital for construction continuation.
+[Read more](https://www.scmp.com/business/article/3366807/chinese-court-guidance-aims-smooth-developer-bankruptcies-reassure-creditors)
 
 
 
-Last updated: 2026-09-09 05:38:45
+Last updated: 2026-09-09 16:17:42
