@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Ann Arbor housing leader says Kline’s lot wouldn’t work well for affordable apartments
-Before the Ann Arbor City Council voted to sell the city-owned Kline’s lot to a luxury housing developer Tuesday night, Housing Commission Executive Director Jennifer Hall explained why she supported the move.
-[Read more](https://www.mlive.com/news/ann-arbor/2026/09/ann-arbor-housing-leader-says-klines-lot-wouldnt-work-well-for-affordable-apartments.html)
+## Simplicity applies to use golden visa funds for build
+New Zealand’s largest build-to-rent developer is planning to use golden visa holder money to fund its projects. Fund manager Simplicity and its property...
+[Read more](https://www.nzherald.co.nz/business/companies/construction/simplicity-applies-to-use-golden-visa-funds-for-build-to-rent-developments/premium/DJ3TMW6S7FGIFIEPG64ZD6PQQ4/)
 
 
 
-Last updated: 2026-09-10 05:28:58
+Last updated: 2026-09-10 16:08:37
