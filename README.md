@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Developer withdraws from proposed large mixed-use project in James City County
-The development would have added 770 homes on 100,000 square feet of commercial space on property near Eastern State Hospital.
-[Read more](https://www.pilotonline.com/2026/09/10/developer-withdraws-from-proposed-large-mixed-use-project-in-james-city-county/)
+## Apartment buyer facing $40k shortfall as Bathla collapse puts discount offer at risk
+May bought her apartment on the promise that property developer Bathla would knock $40,000 off the price at settlement. Now with the company in administration, she has no guarantee it will be honoured.
+[Read more](https://www.abc.net.au/news/2026-09-11/bathla-collapse-discount-offer-uncertain-apartment-buyers-fees/107136886)
 
 
 
-Last updated: 2026-09-11 05:31:37
+Last updated: 2026-09-11 16:12:11
