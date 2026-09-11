@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Simplicity applies to use golden visa funds for build
-New Zealand’s largest build-to-rent developer is planning to use golden visa holder money to fund its projects. Fund manager Simplicity and its property...
-[Read more](https://www.nzherald.co.nz/business/companies/construction/simplicity-applies-to-use-golden-visa-funds-for-build-to-rent-developments/premium/DJ3TMW6S7FGIFIEPG64ZD6PQQ4/)
+## Developer withdraws from proposed large mixed-use project in James City County
+The development would have added 770 homes on 100,000 square feet of commercial space on property near Eastern State Hospital.
+[Read more](https://www.pilotonline.com/2026/09/10/developer-withdraws-from-proposed-large-mixed-use-project-in-james-city-county/)
 
 
 
-Last updated: 2026-09-10 16:08:37
+Last updated: 2026-09-11 05:31:37
