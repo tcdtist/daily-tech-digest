@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Apartment buyer facing $40k shortfall as Bathla collapse puts discount offer at risk
-May bought her apartment on the promise that property developer Bathla would knock $40,000 off the price at settlement. Now with the company in administration, she has no guarantee it will be honoured.
-[Read more](https://www.abc.net.au/news/2026-09-11/bathla-collapse-discount-offer-uncertain-apartment-buyers-fees/107136886)
+## Orange Village’s road explanation just isn’t true in dispute over county tax dollars
+Orange Village plans to divert $3 million in new property taxes from county services to itself, with hosts challenging the mayor's infrastructure justification as unconvincing given developer-built roads and income tax revenue.
+[Read more](https://www.cleveland.com/news/2026/09/orange-villages-road-explanation-just-isnt-true-in-dispute-over-county-tax-dollars.html)
 
 
 
-Last updated: 2026-09-11 16:12:11
+Last updated: 2026-09-12 05:18:30
