@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Purley Pool delays continue 18 months after approval
-Council officials say the project remains on track despite delays over legal agreements and the developer’s corporate restructuring
-[Read more](https://www.mylondon.news/news/south-london-news/purley-pool-delays-continue-18-34627898)
+## iOS 27.2 beta 1: All the new features and changes
+Apple’s wasting no time and has already begun beta testing iOS 27.2. Take a look at what’s new in the first developer beta.
+[Read more](https://www.cultofmac.com/news/ios-27-2-beta-features-changes)
 
 
 
-Last updated: 2026-09-17 05:39:05
+Last updated: 2026-09-17 16:37:45
