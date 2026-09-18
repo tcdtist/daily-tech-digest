@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Male escort accused of swindling 'Roblox' widow out of $6M underwent extensive plastic surgery to achieve his icy stare, sculpted abs
-The male escort who allegedly swindled a Roblox developer’s widow out of $6 million underwent extensive plastic surgery to achieve his icy stare and sculpted abs – and documented it in graphic videos, The Post has learned.
-[Read more](https://nypost.com/2026/09/17/us-news/male-escort-accused-of-swindling-roblox-widow-out-of-6m-underwent-extensive-plastic-surgery-to-achieve-his-icy-stare-sculpted-abs/)
+## “Ingenuity of the human capital in India”: Microsoft CEO Satya Nadella highlights India’s AI potential
+Microsoft Chairman and CEO Satya Nadella on Thursday reiterated Microsoft's commitment to strengthening India's AI opportunity, highlighting the “ingenuity of the human capital in India” and saying the country was poised to have the world's largest developer community by 2030.
+[Read more](https://www.tribuneindia.com/news/business/ingenuity-of-the-human-capital-in-india-microsoft-ceo-satya-nadella-highlights-indias-ai-potential/)
 
 
 
-Last updated: 2026-09-18 05:27:54
+Last updated: 2026-09-18 16:09:23
