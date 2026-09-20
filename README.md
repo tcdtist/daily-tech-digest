@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Ansal township takeover: LDA mulls completion charge for MIG, HIG homebuyers
-The proposed charge is being considered because a large portion of the land mortgaged with the LDA as security has already been sold by the private developer, leaving the authority with limited scope to generate funds by using the mortgaged plots, LDA vice-chairman Prathamesh Kumar said on Friday.
-[Read more](https://www.hindustantimes.com/cities/lucknow-news/ansal-township-takeover-lda-mulls-completion-charge-for-mig-hig-homebuyers-101789757704857.html)
+## First look: Developer gives details on $82 million hotel planned in Birmingham
+A planned six-story boutique hotel near Railroad Park will feature 140 rooms, retail space and rooftop entertainment, with completion targeted for 2029.
+[Read more](https://www.al.com/news/birmingham/2026/09/first-look-developer-gives-details-on-82-million-hotel-planned-in-birmingham.html)
 
 
 
-Last updated: 2026-09-19 15:41:30
+Last updated: 2026-09-20 05:36:43
