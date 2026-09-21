@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## HC asks 2 society members to hand over flats, says redevelopment cannot be stalled indefinitely
-MUMBAI: The Bombay High Court last week directed two members of a housing society who were holding up its redevelopment to hand over possession of their vacant flats to the developer within a week, observing that society members cannot indefinitely stall redevelopment by failing to come forward to execute individual permanent alternative accommodation agreements (PAAAs) with the developer | Mumbai news
-[Read more](https://www.hindustantimes.com/cities/mumbai-news/hc-asks-2-society-members-to-hand-over-flats-says-redevelopment-cannot-be-stalled-indefinitely-101789844351273.html)
+## The Developer Of Pokémon Is Back With A New Pixel Art Game
+Fans may finally be getting the game they've been asking for, as the developer of Pokémon is releasing a brand-new pixel art game.
+[Read more](https://screenrant.com/game-freak-new-pixel-game-release/)
 
 
 
-Last updated: 2026-09-20 15:46:59
+Last updated: 2026-09-21 05:46:34
