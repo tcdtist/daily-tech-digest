@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## The Developer Of Pokémon Is Back With A New Pixel Art Game
-Fans may finally be getting the game they've been asking for, as the developer of Pokémon is releasing a brand-new pixel art game.
-[Read more](https://screenrant.com/game-freak-new-pixel-game-release/)
+## 'Witchbrook' Offers a Calm, Intricate Hands-On Experience of Magic School Life
+©ChucklefishChucklefish, well known as the former publisher of 'Stardew Valley' and developer of 'Starbound', hosted a hands-on demo session for its new title 'Witchbrook' targetin...
+[Read more](https://www.invenglobal.com/articles/26294/witchbrook-offers-a-calm-intricate-hands-on-experience-of-magic-school-life)
 
 
 
-Last updated: 2026-09-21 05:46:34
+Last updated: 2026-09-21 18:04:41
