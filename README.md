@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## 'Witchbrook' Offers a Calm, Intricate Hands-On Experience of Magic School Life
-©ChucklefishChucklefish, well known as the former publisher of 'Stardew Valley' and developer of 'Starbound', hosted a hands-on demo session for its new title 'Witchbrook' targetin...
-[Read more](https://www.invenglobal.com/articles/26294/witchbrook-offers-a-calm-intricate-hands-on-experience-of-magic-school-life)
+## Apple releases second iOS 27.2 developer beta for iPhone
+Apple has released the second iOS 27.2 developer beta for iPhone. The update follows the release of iOS 27 to...
+[Read more](https://9to5mac.com/2026/09/21/apple-releases-second-ios-27-2-developer-beta-for-iphone/)
 
 
 
-Last updated: 2026-09-21 18:04:41
+Last updated: 2026-09-22 05:44:11
