@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Apple releases second iOS 27.2 developer beta for iPhone
-Apple has released the second iOS 27.2 developer beta for iPhone. The update follows the release of iOS 27 to...
-[Read more](https://9to5mac.com/2026/09/21/apple-releases-second-ios-27-2-developer-beta-for-iphone/)
+## Runwal Enterprises IPO opens on September 25; check all key details including price band, size and more
+Runwal Enterprises IPO: Check IPO dates, issue size, lot size, key details, financial performance, IPO objectives and listing plans of the Mumbai-based real estate developer.
+[Read more](https://www.businesstoday.in/markets/ipo-corner/story/runwal-enterprises-ipo-opens-on-september-25-check-all-key-details-including-price-band-size-and-more-556936-2026-09-22)
 
 
 
-Last updated: 2026-09-22 05:44:11
+Last updated: 2026-09-22 16:39:06
