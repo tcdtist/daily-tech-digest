@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Runwal Enterprises IPO opens on September 25; check all key details including price band, size and more
-Runwal Enterprises IPO: Check IPO dates, issue size, lot size, key details, financial performance, IPO objectives and listing plans of the Mumbai-based real estate developer.
-[Read more](https://www.businesstoday.in/markets/ipo-corner/story/runwal-enterprises-ipo-opens-on-september-25-check-all-key-details-including-price-band-size-and-more-556936-2026-09-22)
+## Mumbai Real Estate Update: Angel One Founder Dinesh Thakkar Buys Entire Juhu Residential Tower For ₹711 Crore
+Angel One founder Dinesh Thakkar has signed an MoU with Embassy Developments for an entire residential tower at Embassy Terazza in Juhu for approximately ₹711 crore. The ground-plus-seven-storey tower has a RERA carpet area of 63,000 sq ft. The developer describes the transaction as India’s largest single residential unit deal.
+[Read more](https://www.freepressjournal.in/mumbai/mumbai-real-estate-update-angel-one-founder-dinesh-thakkar-buys-entire-juhu-residential-tower-for-711-crore)
 
 
 
-Last updated: 2026-09-22 16:39:06
+Last updated: 2026-09-23 05:25:36
