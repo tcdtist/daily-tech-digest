@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## DLSS-NR-on-AMD Developer Delivers 74% Performance Boost On Radeon GPUs In A Single Day
-DLSS-NR-on-AMD Alpha 0.4.0 boosts Radeon performance by 74% in DLSS 5, pushing Cyberpunk 2077 FPS from 30 to 50 at 3440x1440p.
-[Read more](https://wccftech.com/dlss-nr-on-amd-developer-delivers-74-performance-boost-on-radeon-gpus-in-a-single-day/)
+## Mojang says new dimension Sift to arrive in Java and Bedrock Edition in 2027
+Minecraft developer Mojang has announced an exciting addition to the game. It will introduce the game's first new dimension in more than 14 years. The gamers will be able to experience it in Minecraft Dungeons II from September 29, 2026.
+[Read more](https://economictimes.indiatimes.com/world/us/mojang-says-new-dimension-sift-to-arrive-in-java-and-bedrock-edition-in-2027/articleshow/134510057.cms)
 
 
 
-Last updated: 2026-09-27 06:04:06
+Last updated: 2026-09-27 16:43:44
