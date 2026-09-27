@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## home Weiti project: Developer wins $73m feud, takes over family’s Auckland coastal estate
-A developer has pulled off a near-total takeover of a Taiwanese family’s vast slice of coastal Auckland land, emerging as the winner of a toxic six-year...
-[Read more](https://www.nzherald.co.nz/nz/failed-1200-home-weiti-project-developer-wins-73m-feud-takes-over-familys-auckland-coastal-estate/premium/VOOMNKIBPVC45GCBY5C3PWHCGE/)
+## DLSS-NR-on-AMD Developer Delivers 74% Performance Boost On Radeon GPUs In A Single Day
+DLSS-NR-on-AMD Alpha 0.4.0 boosts Radeon performance by 74% in DLSS 5, pushing Cyberpunk 2077 FPS from 30 to 50 at 3440x1440p.
+[Read more](https://wccftech.com/dlss-nr-on-amd-developer-delivers-74-performance-boost-on-radeon-gpus-in-a-single-day/)
 
 
 
-Last updated: 2026-09-26 16:07:04
+Last updated: 2026-09-27 06:04:06
