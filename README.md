@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Mojang says new dimension Sift to arrive in Java and Bedrock Edition in 2027
-Minecraft developer Mojang has announced an exciting addition to the game. It will introduce the game's first new dimension in more than 14 years. The gamers will be able to experience it in Minecraft Dungeons II from September 29, 2026.
-[Read more](https://economictimes.indiatimes.com/world/us/mojang-says-new-dimension-sift-to-arrive-in-java-and-bedrock-edition-in-2027/articleshow/134510057.cms)
+## An 8,000-acre South Carolina forest was bought for conservation after drawing developer interest; the state now plans to acquire 4,148 acres for a new Carvers Bay State Forest
+Georgetown County School Board members voted to support state plans to buy two large pieces of land.
+[Read more](https://timesofindia.indiatimes.com/world/us/an-8000-acre-south-carolina-forest-was-bought-for-conservation-after-drawing-developer-interest-the-state-now-plans-to-acquire-4148-acres-for-a-new-carvers-bay-state-forest/articleshow/134523757.cms)
 
 
 
-Last updated: 2026-09-27 16:43:44
+Last updated: 2026-09-28 06:14:21
