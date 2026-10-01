@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## The Journey of a Promise: Ashar Group Celebrates 25 Years of Building with Purpose
-Mumbai (Maharashtra) [India], September 30: Ashar Group, a leading real estate developer in the Mumbai Metropolitan Region (MMR), marks its 25th anniversary with the launch of ‘The Journey of a Promise' a brand film that celebrates not just what the company has built, but the efforts of thousands of people who have helped build it.
-[Read more](https://www.tribuneindia.com/news/business/the-journey-of-a-promise-ashar-group-celebrates-25-years-of-building-with-purpose/)
+## Maharashtra Tightens Housing Society Redevelopment Rules; Registrar’s Officer Presence Made Mandatory For Developer Selection
+Maharashtra has revised cooperative housing society redevelopment rules, making the presence of a Registrar-appointed officer mandatory during developer selection meetings. Societies must secure approval from 51% of total members, record meetings on video and submit documents for verification.
+[Read more](https://www.freepressjournal.in/business/maharashtra-tightens-housing-society-redevelopment-rules-registrars-officer-presence-made-mandatory-for-developer-selection)
 
 
 
-Last updated: 2026-09-30 17:50:40
+Last updated: 2026-10-01 06:44:36
