@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Vinhomes Readies Its Integrated Mega-City Model as Vietnam's Next Global Export
-Vinhomes Green Paradise, the first Official Participant in New7Wonders’ '7 Wonders of Future Cities” campaign, advances to the global vote as the developer takes its township model into five overseas markets
-[Read more](https://www.manilatimes.net/2026/10/01/tmt-newswire/media-outreach-newswire/vinhomes-readies-its-integrated-mega-city-model-as-vietnams-next-global-export/2436767)
+## How Muse could be coming next for Apple's golden goose
+Artificial intelligence agents could disrupt Apple's regular payment streams and developer incentives.
+[Read more](https://www.cnbc.com/2026/10/01/how-muse-could-be-coming-next-for-apples-golden-goose.html)
 
 
 
-Last updated: 2026-10-01 18:16:16
+Last updated: 2026-10-02 06:33:02
