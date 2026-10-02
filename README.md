@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## How Muse could be coming next for Apple's golden goose
-Artificial intelligence agents could disrupt Apple's regular payment streams and developer incentives.
-[Read more](https://www.cnbc.com/2026/10/01/how-muse-could-be-coming-next-for-apples-golden-goose.html)
+## The Louisiana fishermen refusing to go down with the ship
+In Cameron, Louisiana, all the RV parks are full. Venture Global, a Virginia-based liquefied natural gas developer valued at around $36 billion, broke ground on a new multi-phase LNG plant in Cameron in August of 2019. Today, the first part of the plant—Calcasieu Pass 1, or CP1—is fully operational, cooling methane to -260 degrees Fahrenheit
+[Read more](https://abc17news.com/stacker-environment/2026/10/01/the-louisiana-fishermen-refusing-to-go-down-with-the-ship/)
 
 
 
-Last updated: 2026-10-02 06:33:02
+Last updated: 2026-10-02 17:41:45
