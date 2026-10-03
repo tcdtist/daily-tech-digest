@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Large footprint of Seventh Street Commons housing project in St. Charles forces new stormwater plans
-Under the agreement, the city covers the costs of the redesign, and the developer covers the construction costs.
-[Read more](https://www.shawlocal.com/kane-county-chronicle/2026/10/02/large-footprint-of-seventh-street-commons-housing-project-in-st-charles-forces-new-stormwater-plans/)
+## Nvidia falls short of May record as value nears $6 trillion
+The stock’s rise extended a 23% rally from a late July low when fears surrounding the outlook for artificial intelligence pressured the chip developer’s stock.
+[Read more](https://www.moneycontrol.com/news/business/nvidia-falls-short-of-may-record-as-value-nears-6-trillion-14043644.html)
 
 
 
-Last updated: 2026-10-03 05:57:27
+Last updated: 2026-10-03 16:01:08
