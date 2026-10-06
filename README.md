@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## EVIDENT Completes Acquisition of CrestOptics S.p.A.
-/PRNewswire/ -- Evident announced today that it has completed the acquisition of CrestOptics S.p.A., a Rome-based developer and manufacturer of advanced...
-[Read more](https://www.prnewswire.co.uk/news-releases/evident-completes-acquisition-of-crestoptics-spa-302897597.html)
+## macOS 27.2 Golden Gate beta 3 now available
+Apple is rolling out the third developer beta of macOS 27.2 Golden Gate, ahead of its official rollout in the coming weeks.
+[Read more](https://9to5mac.com/2026/10/05/macos-27-2-golden-gate-beta-3-now-available-heres-what-to-expect/)
 
 
 
-Last updated: 2026-10-05 20:25:51
+Last updated: 2026-10-06 07:04:49
