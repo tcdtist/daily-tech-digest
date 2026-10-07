@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Nvidia-backed Reflection unveils Open AI model, taking on China
-Nvidia-backed Reflection unveils Beam, a cheaper, open-weight AI model rivaling US and China leaders for business and developer use.
-[Read more](https://www.thehindubusinessline.com/info-tech/nvidia-backed-reflection-unveils-open-ai-model-taking-on-china/article71549944.ece)
+## Star Wars: Galactic Racer launches on PS5, Xbox and PC
+Star Wars: Galactic Racer, the first game from UK developer Fuse Games, has launched on PlayStation 5, Xbox Series X|S, PC and Amazon Luna. According to a release, Secret Mode published the racing gam
+[Read more](https://www.invenglobal.com/articles/26867/star-wars-galactic-racer-launches-on-ps5-xbox-and-pc)
 
 
 
-Last updated: 2026-10-06 18:09:00
+Last updated: 2026-10-07 06:46:32
