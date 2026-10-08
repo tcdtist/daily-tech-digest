@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## After 12 years, this developer just got 1100 homes approved
-Home building data shows how far the country is from hitting its five-year target of 1.2 million new homes, as Australia grapples with housing a growing population.
-[Read more](https://www.afr.com/property/residential/after-12-years-this-developer-just-got-1100-homes-approved-20261007-p61366)
+## Boutique hotel planned for nearly 100-year-old Holland bank building
+A Michigan developer plans to bring a successful boutique hotel concept from the Upper Peninsula to a historic bank building in Holland.
+[Read more](https://www.mlive.com/news/grand-rapids/2026/10/boutique-hotel-planned-for-nearly-100-year-old-holland-bank-building.html)
 
 
 
-Last updated: 2026-10-07 18:42:39
+Last updated: 2026-10-08 06:55:27
