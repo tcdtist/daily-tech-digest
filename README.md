@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## E-Day Was Undercut by Game Pass, Says Alinea's Rhys Elliott, as 722K Early Buyers Paid Just $30
-The first data on Gears of War: E-Day sales is out, and it's not looking good at all for Vancouver-based developer The Coalition. The studio was already reported to be very worried they'd be next in line for the chopping block after the second chapter of Xbox's Big Reset, which moved Halo, World's Edge, and Rare under Activision and laid off many employees across the division. Now, Alinea Analytics reports that the game has sold only 230K units across Xbox (console and PC app) and Steam, a meager result for a triple-A game that has been in development for many […]
-[Read more](https://wccftech.com/gears-of-war-e-day-game-pass-alinea-rhys-elliott-722k-premium-upgrade/)
+## J&V Energy Accelerates Low-Carbon Growth with Integrated Energy and Infrastructure Solutions
+TAIPEI, Oct. 10, 2026 /PRNewswire/ -- J&V Energy Technology Co., Ltd. was recognized with the Corporate Excellence Award at the Asia Pacific Enterprise Awards (APEA) 2026 Taiwan Chapter, organized by Enterprise Asia, honoring its sustained growth and expanding contribution to the low-carbon energy transition. Established in 2016 and headquartered in Taipei, the company has evolved from a solar energy developer into a diversified energy and infrastructure group spanning renewable energy, green electricity trading, battery energy storage, water treatment, circular economy solutions, and AI infrastructure.
+[Read more](https://www.manilatimes.net/2026/10/10/tmt-newswire/pr-newswire/jv-energy-accelerates-low-carbon-growth-with-integrated-energy-and-infrastructure-solutions/2442992)
 
 
 
-Last updated: 2026-10-10 06:35:58
+Last updated: 2026-10-10 17:10:47
