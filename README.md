@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## IQuest-Q1 Draws Early Developer Attention Across Coding and Agentic Workflows
-BEIJING, Oct. 9, 2026 /PRNewswire/ -- IQuest-Q1 has drawn early praise from developers and industry watchers since launch, particularly for its performance on coding, software engineering, interactive application generation, and long-horizon agentic workloads.
-[Read more](https://www.manilatimes.net/2026/10/09/tmt-newswire/pr-newswire/iquest-q1-draws-early-developer-attention-across-coding-and-agentic-workflows/2442404)
+## E-Day Was Undercut by Game Pass, Says Alinea's Rhys Elliott, as 722K Early Buyers Paid Just $30
+The first data on Gears of War: E-Day sales is out, and it's not looking good at all for Vancouver-based developer The Coalition. The studio was already reported to be very worried they'd be next in line for the chopping block after the second chapter of Xbox's Big Reset, which moved Halo, World's Edge, and Rare under Activision and laid off many employees across the division. Now, Alinea Analytics reports that the game has sold only 230K units across Xbox (console and PC app) and Steam, a meager result for a triple-A game that has been in development for many […]
+[Read more](https://wccftech.com/gears-of-war-e-day-game-pass-alinea-rhys-elliott-722k-premium-upgrade/)
 
 
 
-Last updated: 2026-10-09 18:11:40
+Last updated: 2026-10-10 06:35:58
