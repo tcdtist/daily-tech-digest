@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Google will let anyone publish an app to the Play Store, for free
-Google will let anyone over 18 publish an Android app built in AI Studio, with no developer fee. Apple spent this year doing the opposite.
-[Read more](https://thenextweb.com/news/google-play-vibe-coded-apps)
+## Anthropic seeks fresh court review of Pentagon’s AI blacklist
+The artificial intelligence developer is contesting a US defence decision that it says has damaged its commercial prospects and penalised its position on safety. The case pits the Pentagon’s operational concerns against Anthropic’s efforts to limit military applications, with wider implications for government oversight of advanced AI technology.
+[Read more](https://www.firstpost.com/tech/anthropic-seeks-fresh-court-review-of-pentagons-ai-blacklist-14052633.html)
 
 
 
-Last updated: 2026-10-14 05:42:13
+Last updated: 2026-10-14 16:53:32
