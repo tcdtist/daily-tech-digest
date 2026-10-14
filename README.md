@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Pune Techies Earning Over ₹12 LPA Take Up Rapido Rides For Fun: ‘Both Own Sports Bikes’
-A Pune software developer shared how his two roommates, despite earning over ₹12 lakh a year each, took up Rapido bike taxi rides over the weekend for an unexpected reason.
-[Read more](https://www.news18.com/viral/pune-techies-earning-over-12-lpa-take-up-rapido-rides-for-fun-both-own-sports-bikes-ws-l-10379578.html)
+## Google will let anyone publish an app to the Play Store, for free
+Google will let anyone over 18 publish an Android app built in AI Studio, with no developer fee. Apple spent this year doing the opposite.
+[Read more](https://thenextweb.com/news/google-play-vibe-coded-apps)
 
 
 
-Last updated: 2026-10-13 19:05:46
+Last updated: 2026-10-14 05:42:13
