@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Ubisoft Moves to Close 'Trials' Developer RedLynx
-Ubisoft RedLynx studio in Helsinki, Finland ©Ubisoft RedLynxUbisoft is moving to close RedLynx, its Finnish studio known for the 'Trials' series, while also initiating a major work...
-[Read more](https://www.invenglobal.com/articles/27173/ubisoft-moves-to-close-trials-developer-redlynx)
+## Would halt chip supply to buyers who develop unsafe AI, says Nvidia CEO
+Jensen Huang said Nvidia would first discuss concerns with an AI developer before considering a supply halt, as the chipmaker pledges $250 million over 5 years to support AI safety research in the UK
+[Read more](https://www.business-standard.com/technology/tech-news/would-halt-chip-supply-to-buyers-who-develop-unsafe-ai-says-nvidia-ceo-126101500180_1.html)
 
 
 
-Last updated: 2026-10-15 05:27:51
+Last updated: 2026-10-15 16:40:18
