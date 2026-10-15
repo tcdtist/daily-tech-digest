@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Anthropic seeks fresh court review of Pentagon’s AI blacklist
-The artificial intelligence developer is contesting a US defence decision that it says has damaged its commercial prospects and penalised its position on safety. The case pits the Pentagon’s operational concerns against Anthropic’s efforts to limit military applications, with wider implications for government oversight of advanced AI technology.
-[Read more](https://www.firstpost.com/tech/anthropic-seeks-fresh-court-review-of-pentagons-ai-blacklist-14052633.html)
+## Ubisoft Moves to Close 'Trials' Developer RedLynx
+Ubisoft RedLynx studio in Helsinki, Finland ©Ubisoft RedLynxUbisoft is moving to close RedLynx, its Finnish studio known for the 'Trials' series, while also initiating a major work...
+[Read more](https://www.invenglobal.com/articles/27173/ubisoft-moves-to-close-trials-developer-redlynx)
 
 
 
-Last updated: 2026-10-14 16:53:32
+Last updated: 2026-10-15 05:27:51
