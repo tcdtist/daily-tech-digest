@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Iran’s new defence minister has worked on Sejjil and Zolfaghar missiles: Who is Mehrdad Akhlaghi Ketabchi?
-As Donald Trump threatens the possible use of the “mother of all bombs” against Iran, Tehran has appointed a veteran missile developer to lead its defence ministry.
-[Read more](https://www.moneycontrol.com/world/iran-s-new-defence-minister-has-worked-on-sejjil-and-zolfaghar-missiles-who-is-mehrdad-akhlaghi-ketabchi-article-14055739.html)
+## Mohali: Failed to start construction, developer to refund ₹6 lakh
+The builder denied receiving the entire amount and disputed the authenticity of the receipts. He claimed that one receipt was forged and argued that the signed document was only a quotation, not a construction agreement
+[Read more](https://www.hindustantimes.com/cities/chandigarh-news/mohali-failed-to-start-construction-developer-to-refund-6-lakh-101792438042662.html)
 
 
 
-Last updated: 2026-10-20 05:36:33
+Last updated: 2026-10-20 16:37:21
