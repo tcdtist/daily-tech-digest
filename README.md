@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Vitex and Investing For Purpose Invest in PCN Materials
-Greek paint manufacturer Vitex and impact investing fund Investing For Purpose have announced a joint investment in PCN Materials, a Greek developer of visible-light-activated photocatalysis technology. The funding supports the next growth phase of the advanced materials company, including industrial scale-up and international commercialization.
-[Read more](https://www.european-coatings.com/news/markets-companies/vitex-and-investing-for-purpose-invest-in-pcn-materials/)
+## Meadow Plaza Hearing Continues Wednesday In Northbrook
+Cross-examination, developer responses and Plan Commission deliberations are expected as review of the proposed redevelopment continues.
+[Read more](https://patch.com/illinois/northbrook/meadow-plaza-hearing-continues-wednesday-northbrook)
 
 
 
-Last updated: 2026-10-21 16:55:55
+Last updated: 2026-10-22 05:39:05
