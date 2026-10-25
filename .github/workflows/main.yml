@@ -4,17 +4,21 @@ on:
   schedule:
     - cron: "0 1 * * *"
     - cron: "0 12 * * *"
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v4
       
       - name: Set up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v5
         with:
-          python-version: 3.8
+          python-version: '3.11'
+          cache: 'pip'
           
       - name: Install dependencies
         run: |
@@ -34,3 +38,4 @@ jobs:
           git push
         env:
           MY_GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+
