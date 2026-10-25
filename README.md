@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Hansgrohe India Eyes Double-Digit Growth in Hyderabad-Telangana Region
-Hansgrohe India aims to strengthen its presence in Hyderabad-Telangana, building on the region’s growing luxury residential market and developer partnerships.
-[Read more](https://www.deccanchronicle.com/business/in-other-news/hansgrohe-india-eyes-double-digit-growth-in-hyderabad-telangana-region-1998515)
+## 'Astroneer' Developer Lays Off Over 30 Staff Following Underperformance of New Title
+©System Era SoftworksSystem Era Softworks, developer of space exploration sandbox game Astroneer, has laid off over 30 employees.
+[Read more](https://www.invenglobal.com/articles/27670/astroneer-developer-lays-off-over-30-staff-following-underperformance-of-new-title)
 
 
 
-Last updated: 2026-10-25 03:38:30
+Last updated: 2026-10-25 05:33:47
