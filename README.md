@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Monero community backs 45 XMR proposal for core development
-Monero developer jpk68 is seeking 45 XMR for three months of full time work, with 31.04 XMR already raised from 42 contributors through community funding.
-[Read more](https://crypto.news/monero-community-backs-45-xmr-proposal-for-core-development/)
+## Developer eyes new site for $23M housing project in Auburn
+The developer told The Citizen why the original site would not work for this project.
+[Read more](https://auburnpub.com/news/local/government-politics/article_ec888477-9f93-4cb9-8077-647fd8fb393a.html)
 
 
 
-Last updated: 2026-10-26 18:30:49
+Last updated: 2026-10-27 05:51:41
