@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## TCS, Infosys, other IT stocks drop up to 3% as Anthropic IPO sparks rally in global AI stocks
-Indian IT stocks fell amid reports that Anthropic, the maker of Claude, is preparing for an IPO that could value it at around $1.5 trillion. While the listing would open up investment opportunities in a leading AI developer, rising infrastructure costs, mounting losses and concerns over growth sustainability remain key risks.
-[Read more](https://economictimes.indiatimes.com/markets/stocks/news/tcs-infosys-other-it-stocks-drop-up-to-3-as-anthropic-ipo-sparks-rally-in-global-ai-stocks/articleshow/135225464.cms)
+## Billionaire Perot Says Largest Warehouses Are in Short Supply
+Data-center builders are grappling with a shortage of the largest warehouses used to assemble equipment for the artificial intelligence boom, according to Ross Perot Jr., a billionaire real estate developer in Texas.
+[Read more](https://news.bloombergtax.com/daily-tax-report/billionaire-perot-says-largest-warehouses-are-in-short-supply)
 
 
 
-Last updated: 2026-10-27 17:46:13
+Last updated: 2026-10-28 06:30:55
