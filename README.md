@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Buyer wins Rs 1 lakh after developer delayed plot registration for years
-The man said the developer’s advertisements and assurances prompted him to buy a 259-square-yard residential plot in 2021.
-[Read more](https://www.financialexpress.com/legal/buyer-wins-rs-1-lakh-after-developer-delayed-plot-registration-for-years/4371103/)
+## Star Trek: Voyager - Across the Unknown gets Q-focused Delta Chronicles 2 DLC
+Daedalic Entertainment and developer gameXcite have released Delta Chronicles 2, the third downloadable content (DLC) pack for Star Trek: Voyager - Across the Unknown, with five new missions. John de
+[Read more](https://www.invenglobal.com/articles/27841/star-trek-voyager-across-the-unknown-gets-q-focused-delta-chronicles-2-dlc)
 
 
 
-Last updated: 2026-10-28 18:10:06
+Last updated: 2026-10-29 06:40:44
