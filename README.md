@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## INSANE VIDEO: Creepy Transgender Roblox Developer Says, ‘Republicans Should Be Shot in the Street,’ Gets Cited for Attacking Utah College Republican
-A biological male who identifies as a woman and goes by the name "Amber Grace" told University of Utah College Republicans that “Republicans should be shot in t…
-[Read more](https://www.thegatewaypundit.com/2026/10/insane-video-creepy-transgender-roblox-developer-says-republicans/)
+## US company has option to buy Kildare data centre
+Developer of planned data centre says deal only involves use of energy technology
+[Read more](https://www.irishtimes.com/business/2026/10/30/us-company-has-option-to-buy-kildare-data-centre/)
 
 
 
-Last updated: 2026-10-30 06:41:31
+Last updated: 2026-10-30 17:52:35
