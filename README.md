@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## US company has option to buy Kildare data centre
-Developer of planned data centre says deal only involves use of energy technology
-[Read more](https://www.irishtimes.com/business/2026/10/30/us-company-has-option-to-buy-kildare-data-centre/)
+## Developer to try again after plan for 200 homes in Tollerton rejected
+Now the application will be heard at an inquiry
+[Read more](https://www.nottinghampost.com/news/local-news/developer-try-again-after-plan-11221784)
 
 
 
-Last updated: 2026-10-30 17:52:35
+Last updated: 2026-10-31 06:31:52
