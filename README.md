@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## 'Days Gone' Developer Bend Studio Reportedly Working on Third-Person Co-Op Title
-Sony Interactive Entertainment subsidiary Bend Studio is developing a new title featuring third-person co-op elements and aiming for a 2027 reveal, according to recent reports. The game is reportedly not a live-service title.
-[Read more](https://www.invenglobal.com/articles/27994/days-gone-developer-bend-studio-reportedly-working-on-third-person-co-op-title)
+## Yakuza creator Toshihiro Nagoshi’s studio has been officially dissolved, leaving Gang of Dragon in limbo
+Nagoshi Studio, the NetEase-backed developer founded by Yakuza creator Toshihiro Nagoshi, has been officially dissolved, according to a notice in Japan’s government gazette, raising questions about the future of its Kabukicho-set action game Gang of Dragon.
+[Read more](https://www.altchar.com/game-news/yakuza-creator-toshihiro-nagoshis-studio-has-been-officially-dissolved-leaving-gang-of-dragon-in-limbo-aMkV74C5IOkl)
 
 
 
-Last updated: 2026-11-02 07:03:14
+Last updated: 2026-11-02 21:34:33
