@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Jhamtani Unveils Jhamtani Bizone at Kokane Chowk, Pune: A High-Rise Commercial Destination Built for Business
-Pune (Maharashtra) [India], November 3: Jhamtani, a Pune-based real estate developer with a legacy spanning more than four decades, has announced the launch of Jhamtani Bizone, a high-rise commercial development at Kokane Chowk, Rahatani, Pune. Bringing together high-street retail spaces and executive offices, Jhamtani Bizone is conceived as a complete commercial destination for modern businesses, offering visibility, efficiency and convenience in one address.
-[Read more](https://www.aninews.in/news/business/jhamtani-unveils-jhamtani-bizone-at-kokane-chowk-pune-a-high-rise-commercial-destination-built-for-business20261103120419/)
+## New Era Energy & Digital Announces Third Quarter 2026 Reporting Schedule
+MIDLAND, Texas, Nov. 03, 2026 (GLOBE NEWSWIRE) -- New Era Energy & Digital, Inc. (Nasdaq: NUAI) ('New Era” or the 'Company”), a developer of next-generation digital infrastructure and integrated power assets, today announced that it expects to file its Quarterly Report on Form 10-Q for the quarter ended September 30, 2026, before market open on Thursday, November 12, 2026.
+[Read more](https://www.manilatimes.net/2026/11/04/tmt-newswire/globenewswire/new-era-energy-digital-announces-third-quarter-2026-reporting-schedule/2461038)
 
 
 
-Last updated: 2026-11-03 19:17:51
+Last updated: 2026-11-04 07:08:40
