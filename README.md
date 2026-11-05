@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Lender and debenture holder with ‘all-pervasive control’ cannot be included in committee of creditors, rules SC
-The court held that a lender exercising significant influence over a real estate developer’s decision-making can be treated as a related party under the IBC, even if it does not exercise direct control over the company.
-[Read more](https://www.moneycontrol.com/news/business/markets/lender-and-debenture-holder-with-all-pervasive-control-cannot-be-included-in-committee-of-creditors-rules-sc-14068922.html)
+## OpenAI to Acquire Pierre Computer, Bring Code Storage Features to Codex
+OpenAI said Wednesday it will acquire Pierre Computer, the company behind Code Storage and several open-source developer tools, to enhance its agentic AI platform Codex with distributed storage...
+[Read more](https://www.marketscreener.com/news/openai-to-acquire-pierre-computer-bring-code-storage-features-to-codex-ce785fdfde8aff2c)
 
 
 
-Last updated: 2026-11-04 19:34:55
+Last updated: 2026-11-05 07:37:18
