@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## OpenAI to Acquire Pierre Computer, Bring Code Storage Features to Codex
-OpenAI said Wednesday it will acquire Pierre Computer, the company behind Code Storage and several open-source developer tools, to enhance its agentic AI platform Codex with distributed storage...
-[Read more](https://www.marketscreener.com/news/openai-to-acquire-pierre-computer-bring-code-storage-features-to-codex-ce785fdfde8aff2c)
+## Bitcoin's next upgrade BIP-54 could fix four longstanding flaws, developer says
+Bitcoin developer Matt Corallo sees an 80% chance that BIP-54 will be the network's next upgrade, addressing four longstanding consensus vulnerabilities.
+[Read more](https://crypto.news/bitcoins-next-upgrade-bip-54-could-fix-four-longstanding-flaws-developer-says/)
 
 
 
-Last updated: 2026-11-05 07:37:18
+Last updated: 2026-11-05 19:44:08
