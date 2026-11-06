@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Bitcoin's next upgrade BIP-54 could fix four longstanding flaws, developer says
-Bitcoin developer Matt Corallo sees an 80% chance that BIP-54 will be the network's next upgrade, addressing four longstanding consensus vulnerabilities.
-[Read more](https://crypto.news/bitcoins-next-upgrade-bip-54-could-fix-four-longstanding-flaws-developer-says/)
+## Chandigarh: Appraisal panel urges NGT to dismiss developer’s appeal
+The State Expert Appraisal Committee (SEAC), UT, has urged the National Green Tribunal (NGT) to dismiss the plea filed by Godrej Properties Ltd over its commercial complex Godrej Eternia in Industrial Area Phase-I, Chandigarh, along with costs.
+[Read more](https://www.tribuneindia.com/news/chandigarh/chandigarh-appraisal-panel-urges-ngt-to-dismiss-developers-appeal/)
 
 
 
-Last updated: 2026-11-05 19:44:08
+Last updated: 2026-11-06 07:32:25
