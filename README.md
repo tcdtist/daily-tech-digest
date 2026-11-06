@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Chandigarh: Appraisal panel urges NGT to dismiss developer’s appeal
-The State Expert Appraisal Committee (SEAC), UT, has urged the National Green Tribunal (NGT) to dismiss the plea filed by Godrej Properties Ltd over its commercial complex Godrej Eternia in Industrial Area Phase-I, Chandigarh, along with costs.
-[Read more](https://www.tribuneindia.com/news/chandigarh/chandigarh-appraisal-panel-urges-ngt-to-dismiss-developers-appeal/)
+## Developer told to pay £45m to Government for post-Grenfell repairs
+The buildings in Manchester were alleged to have serious defects discovered in inspections after the Grenfell Tower disaster. | ITV News Granada
+[Read more](https://www.itv.com/news/granada/2026-11-06/developer-told-to-pay-45m-to-government-for-post-grenfell-repairs)
 
 
 
-Last updated: 2026-11-06 07:32:25
+Last updated: 2026-11-06 19:07:10
