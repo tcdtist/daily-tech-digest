@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Developer told to pay £45m to Government for post-Grenfell repairs
-The buildings in Manchester were alleged to have serious defects discovered in inspections after the Grenfell Tower disaster. | ITV News Granada
-[Read more](https://www.itv.com/news/granada/2026-11-06/developer-told-to-pay-45m-to-government-for-post-grenfell-repairs)
+## Howrah consumer commission orders builder to pay ₹6.8 lakh to two brothers after selling booked flat to another buyer
+The commission found that the developer had violated the terms of the agreement by selling the same property to another buyer despite having already accepted money from the original purchasers.
+[Read more](https://www.livemint.com/money/personal-finance/howrah-consumer-commission-orders-builder-to-pay-6-8-lakh-to-two-brothers-after-selling-booked-flat-to-another-buyer-11793980459550.html)
 
 
 
-Last updated: 2026-11-06 19:07:10
+Last updated: 2026-11-07 06:45:25
