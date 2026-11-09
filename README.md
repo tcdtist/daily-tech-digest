@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Harborplace developer warns Baltimore’s neighborhoods can’t thrive without downtown
-Baltimore’s downtown is in crisis, and allowing it to deteriorate further threatens investment across the entire city, Harborplace developer David Bramble said
-[Read more](https://foxbaltimore.com/news/local/harborplace-developer-warns-baltimores-neighborhoods-cant-thrive-without-downtown)
+## I explored these hidden Pixel developer settings and my phone feels faster
+A few taps inside Developer Options made my old Pixel feel surprisingly fresh again.
+[Read more](https://www.xda-developers.com/explored-these-hidden-pixel-developer-settings-and-my-phone-feels-faster/)
 
 
 
-Last updated: 2026-11-08 17:48:09
+Last updated: 2026-11-09 07:31:06
