@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Australians Are Keeping WordPress and Letting the Developer Go
-If any of those checks fails and you can’t work out why, that is usually the point to bring in help, for that one job rather than a whole rebuild.
-[Read more](https://techbullion.com/australians-are-keeping-wordpress-and-letting-the-developer-go/)
+## Anthropic's IPO Could Make Thousands of Employees Rich. Wall Street is Already Fighting For Their Money.
+Goldman Sachs, JPMorgan and other major banks are seeking to advise workers at the Claude developer ahead of its planned public listing.
+[Read more](https://www.ibtimes.com/anthropic-employee-wealth-managers-ipo-3809559)
 
 
 
-Last updated: 2026-11-09 22:07:33
+Last updated: 2026-11-10 07:56:36
