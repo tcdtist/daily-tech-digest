@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## SunDrive targets space applications with copper solar cell tech
-SunDrive Solar, the developer of unique copper-based PV technology, has joined forces with Sydney-based space hardware and software manufacturer Space Machines Company to develop Australian-made solar arrays for spacecraft.
-[Read more](https://www.pv-magazine.com/2026/11/10/sundrive-targets-space-applications-with-copper-solar-cell-tech/)
+## US stocks: Five things to know about Anthropic
+Founded by former OpenAI researchers, Anthropic has grown into a major AI company backed by Amazon, Alphabet, Microsoft and Nvidia. As the Claude developer prepares for a landmark IPO, its safety-focused philosophy, unconventional roots and clash with the Pentagon are drawing renewed scrutiny.
+[Read more](https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-five-things-to-know-about-anthropic/articleshow/135718802.cms)
 
 
 
-Last updated: 2026-11-10 19:29:49
+Last updated: 2026-11-11 07:26:08
