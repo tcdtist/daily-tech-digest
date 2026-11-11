@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## US stocks: Five things to know about Anthropic
-Founded by former OpenAI researchers, Anthropic has grown into a major AI company backed by Amazon, Alphabet, Microsoft and Nvidia. As the Claude developer prepares for a landmark IPO, its safety-focused philosophy, unconventional roots and clash with the Pentagon are drawing renewed scrutiny.
-[Read more](https://economictimes.indiatimes.com/markets/us-stocks/news/us-stocks-five-things-to-know-about-anthropic/articleshow/135718802.cms)
+## Uruguay secures land for 350 MW solar project linked to data center complex
+Spanish developer Solaria Energía y Medio Ambiente plans to build a 350 MW solar plant in Uruguay's Florida department as part of a $5.7 billion investment in solar generation and data center infrastructure. The project will include up to 500 MW of data center capacity across two additional departments.
+[Read more](https://www.pv-magazine.com/2026/11/11/uruguay-secures-land-for-350-mw-solar-project-linked-to-data-center-complex/)
 
 
 
-Last updated: 2026-11-11 07:26:08
+Last updated: 2026-11-11 19:25:32
