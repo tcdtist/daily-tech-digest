@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Dallas pulls back $96 million incentive from project behind City Hall
-Hoque Global’s promised 20-acre downtown district never got underway. The city says the incentive lapsed after the developer missed deadlines.
-[Read more](https://www.dallasnews.com/news/dallas-local-government/article/city-hall-downtown-development-22521208.php)
+## Molecular Designs secures first FDA clearance for SimplicityDx Panel FluA/FluB/RSV assay
+Molecular Designs, a physician-founded developer and manufacturer of molecular infectious disease assays, today announced that the U.S. Food and Drug Administration (FDA) has granted 510(k) clearance (K262789) for its SimplicityDx Panel FluA/FluB/RSV, the company's first FDA-cleared assay.
+[Read more](https://www.news-medical.net/news/20261113/Molecular-Designs-secures-first-FDA-clearance-for-SimplicityDx-Panel-FluAFluBRSV-assay.aspx)
 
 
 
-Last updated: 2026-11-14 07:16:06
+Last updated: 2026-11-14 17:49:27
