@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Molecular Designs secures first FDA clearance for SimplicityDx Panel FluA/FluB/RSV assay
-Molecular Designs, a physician-founded developer and manufacturer of molecular infectious disease assays, today announced that the U.S. Food and Drug Administration (FDA) has granted 510(k) clearance (K262789) for its SimplicityDx Panel FluA/FluB/RSV, the company's first FDA-cleared assay.
-[Read more](https://www.news-medical.net/news/20261113/Molecular-Designs-secures-first-FDA-clearance-for-SimplicityDx-Panel-FluAFluBRSV-assay.aspx)
+## She paid $22,500 for a Hawaii lot; a builder put a $500,000 house on it by mistake, then the developer sued her
+Annaleine Reynolds bought an empty acre in Hawaii in 2018. Years later, a developer had built a $500,000 house on it by mistake. She rejected offers to exchange the land or buy the house at a discount. Instead, she became part of a lawsuit over a construction error she didn't make.
+[Read more](https://economictimes.indiatimes.com/news/international/us/she-paid-22500-for-a-hawaii-lot-a-builder-put-a-500000-house-on-it-by-mistake-then-the-developer-sued-her/articleshow/135837595.cms)
 
 
 
-Last updated: 2026-11-14 17:49:27
+Last updated: 2026-11-15 07:25:56
