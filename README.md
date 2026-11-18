@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## 112th and Adams streets land will be new neighborhood
-More than 300 acres of land in northeast Lincoln will one day become one of the city's newest neighborhood, but first it needs a developer.
-[Read more](https://journalstar.com/news/local/article_0cb02995-d011-4ffd-954a-a4d9e7e80feb.html)
+## Regula Expands Its Database to 17,000 ID Templates, Helping Businesses Keep Pace with Evolving IDs
+RESTON, Va., Nov. 18, 2026 (GLOBE NEWSWIRE) -- Regula, a global developer of identity verification solutions, has updated its proprietary, world's largest
+[Read more](https://www.brantfordexpositor.ca/press-releases/globe-newswire/regula-expands-its-database-to-17000-id-templates-helping-businesses-keep-pace-with-evolving-ids/)
 
 
 
-Last updated: 2026-11-18 08:07:11
+Last updated: 2026-11-18 20:13:41
