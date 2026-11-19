@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Regula Expands Its Database to 17,000 ID Templates, Helping Businesses Keep Pace with Evolving IDs
-RESTON, Va., Nov. 18, 2026 (GLOBE NEWSWIRE) -- Regula, a global developer of identity verification solutions, has updated its proprietary, world's largest
-[Read more](https://www.brantfordexpositor.ca/press-releases/globe-newswire/regula-expands-its-database-to-17000-id-templates-helping-businesses-keep-pace-with-evolving-ids/)
+## Former Sears at River Hills Mall Mankato Sold: What’s Coming
+A local developer bought the former Sears in Mankato. CBC Fisher Group says a recreation district with a go-kart track is coming.
+[Read more](https://kdhlradio.com/ixp/717/p/former-sears-mankato-recreation-district/)
 
 
 
-Last updated: 2026-11-18 20:13:41
+Last updated: 2026-11-19 08:16:22
