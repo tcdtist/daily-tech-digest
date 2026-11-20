@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## A Texas developer agrees to a $68 million settlement over alleged deceptive land sales and predatory lending; $18 million is earmarked for drainage work after flooding complaints
-A major settlement involving a Texas land developer has brought renewed attention to complaints about how residential plots were marketed and financed in
-[Read more](https://timesofindia.indiatimes.com/world/us/a-texas-developer-agrees-to-a-68-million-settlement-over-alleged-deceptive-land-sales-and-predatory-lending-18-million-is-earmarked-for-drainage-work-after-flooding-complaints/articleshow/135990157.cms)
+## Anthropic duds Aussies and General Pants joins retail bloodbath
+The chooks discuss the debut of the developer of the Claude platform and take a question on inflation from someone – literally – on the shop floor.
+[Read more](https://www.afr.com/policy/economy/anthropic-duds-aussies-and-general-pants-joins-retail-bloodbath-20261120-p61ea0)
 
 
 
-Last updated: 2026-11-20 07:57:53
+Last updated: 2026-11-20 19:49:42
