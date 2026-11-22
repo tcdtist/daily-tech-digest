@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Luxury £1m housing estate resembles 'bomb site' after developer goes bust
-Some homes on the estate are worth up to £1 million
-[Read more](https://www.derbytelegraph.co.uk/news/local-news/luxury-1m-housing-estate-resembles-11245081)
+## ‘It makes my blood run cold’: Rejected battery farm in Brabourne, near Ashford, appealed by developer
+Villagers have revealed their disgust as rejected plans for a huge battery farm on the Kent Downs could yet be given the green light.
+[Read more](https://www.kentonline.co.uk/ashford/news/it-makes-my-blood-boil-anger-over-bid-to-overturn-rejecti-347644/)
 
 
 
-Last updated: 2026-11-21 18:55:40
+Last updated: 2026-11-22 07:40:33
