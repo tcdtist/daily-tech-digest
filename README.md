@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Anthropic Shares Surge 17% in Record IPO Despite AI Concerns
-Shares of artificial intelligence (AI) developer Anthropic rose sharply in their trading debut Thursday, Nov. 19 – closing up 17% at $97.17 after the company completed the largest initial public offering (IPO) on record, according to market data. The stock opened well above its $83 offering price and held on to most of those gains […]
-[Read more](https://www.naturalnews.com/2026-11-22-anthropic-shares-surge-record-ipo-despite-concerns.html)
+## Magnolia Landing completes flood mitigation project
+Magnolia Landing’s developer installed a 2,000-foot trip wall along the Ashley River to dampen waves, as well as raise the site — a move that led FEMA to reclassify the property into lower-risk zone.
+[Read more](https://www.postandcourier.com/rising-waters/magnolia-landing-trip-wall-flood-zone/article_e419ad8a-1e6d-41bf-9b3b-9dd10b8d122b.html)
 
 
 
-Last updated: 2026-11-23 08:29:40
+Last updated: 2026-11-23 23:38:43
