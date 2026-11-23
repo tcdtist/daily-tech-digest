@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## 6 buyers won back their pre-construction apartment deposits after a developer moved completion forward by a year but notified them six months later; Supreme Court of British Columbia ruled the delay b
-In a 2025 ruling, six pre-sale apartment buyers in British Columbia won the right to cancel their purchases and recover their deposits after a developer
-[Read more](https://timesofindia.indiatimes.com/world/rest-of-world/6-buyers-won-back-their-pre-construction-apartment-deposits-after-a-developer-moved-completion-forward-by-a-year-but-notified-them-six-months-later-supreme-court-of-british-columbia-ruled-the-delay-breached-disclosure-rules/articleshow/135992456.cms)
+## Anthropic Shares Surge 17% in Record IPO Despite AI Concerns
+Shares of artificial intelligence (AI) developer Anthropic rose sharply in their trading debut Thursday, Nov. 19 – closing up 17% at $97.17 after the company completed the largest initial public offering (IPO) on record, according to market data. The stock opened well above its $83 offering price and held on to most of those gains […]
+[Read more](https://www.naturalnews.com/2026-11-22-anthropic-shares-surge-record-ipo-despite-concerns.html)
 
 
 
-Last updated: 2026-11-22 19:15:49
+Last updated: 2026-11-23 08:29:40
