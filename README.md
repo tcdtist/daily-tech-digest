@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes
-As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.
-[Read more](https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/)
+## ‘Refer Me For A Job, Get 50K’: Bengaluru Man’s Offer To Recruiters And Employees Gets Attention
+A Bengaluru job seeker has offered Rs 50,000 to anyone who refers him for a Java Backend Developer role, promising to pay after securing the job.
+[Read more](https://www.news18.com/viral/refer-me-for-a-job-get-50k-bengaluru-mans-offer-to-recruiters-and-employees-gets-attention-ws-l-10438761.html)
 
 
 
-Last updated: 2026-11-24 10:36:50
+Last updated: 2026-11-24 22:09:27
