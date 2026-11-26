@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## Why developer roles go beyond handover
-Residential property trends: How ongoing maintenance, safety compliance and digital platforms shape long-term value after possession.
-[Read more](https://www.deccanherald.com/business/after-the-handover-why-community-management-matters-in-real-estate-4230588)
+## Florida nuclear power plant developer scouting sites in north Iowa
+Florida developer is scouting north-central Iowa locations to build small modular nuclear reactor facility, partly attracted by new state tax breaks.
+[Read more](https://www.desmoinesregister.com/story/money/business/2026/11/25/one-nuclear-energy-iowa-locations-to-build-nuclear-facility/92952310007/)
 
 
 
-Last updated: 2026-11-25 21:25:51
+Last updated: 2026-11-26 09:04:52
