@@ -2,10 +2,10 @@
 
 [![Update README with Latest Tech News](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml/badge.svg)](https://github.com/tcdtist/daily-tech-digest/actions/workflows/main.yml)
 
-## 37 suspects prosecuted for impersonating developer of social housing project in HCM City
-HCM CITY: The HCM City Police have prosecuted 37 suspects who allegedly impersonated developer of the Ly Thuong Kiet social housing project, advertised more than 600 home-purchase quotas and defrauded more than VNĐ150 billion (US$5.7mil).
-[Read more](https://www.thestar.com.my/aseanplus/aseanplus-news/2026/11/26/37-suspects-prosecuted-for-impersonating-developer-of-social-housing-project-in-hcm-city)
+## How one developer plans to build a big data center in California where NIMBYs won’t notice
+As the worldwide build-out of hundreds of billions of dollars in data centers to power artificial intelligence meets growing resistance, one L.A. County landowner says it has a solution — build on a golf course.
+[Read more](https://www.pressdemocrat.com/2026/11/26/how-one-developer-plans-to-build-a-big-data-center-in-los-angeles-county-where-nimbys-wont-notice-2/)
 
 
 
-Last updated: 2026-11-26 21:12:23
+Last updated: 2026-11-27 09:20:49
